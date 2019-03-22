@@ -1,0 +1,123 @@
+20190301
+Y 	: 	Clean code last project and 
+    		Create new project using component dialog library based on tutorial 
+T 	:	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+B 	: 	-
+
+20190304
+Y 	: 	Clean code last project and 
+    		Create new project using component dialog library based on tutorial 
+T 	:	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+B 	: 	-
+
+20190305
+Y 	: 	Clean code last project and 
+    		Create new project using component dialog library based on tutorial 
+T 	:	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+B 	: 	-
+
+20190306
+Y 	: 	Clean code last project and 
+    		Create new project using component dialog library based on tutorial 
+T 	:	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+B 	: 	-
+
+20190307
+Y 	: 	Clean code last project and 
+    		Create new project using component dialog library based on tutorial 
+T 	:	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+B 	: 	-
+
+20190308
+Y 	: 	Clean code last project and 
+    		Create new project using component dialog library based on tutorial 
+T 	:	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+B 	: 	-
+
+
+20190311
+Y 	: 	Continue coding new project using component dialog library BotBuilder v4
+		Check Running DBS-CBG & IBG in my Local 
+T 	:	Create new project chatbot slack 
+		Discussion DBS HR with Zuhed
+		Discussion with Thomas
+B 	: 	-
+
+20190312
+Y 	: 	Create new project chatbot slack 
+		Discussion DBS HR with Zuhed
+		Discussion with Thomas
+T 	:	Create new project chatbot slack 
+		News Portal with in 2 scenarios : channel & app
+B 	: 	-
+
+20190313
+Y 	: 	Create new project chatbot slack 
+		News Portal with in 2 scenarios : channel & app
+T 	:	Continue chatbot slack and try to configure in Heroku 
+		Design chatbot slack for submit stand up meeting purpose 
+B 	: 	Api / Token Slack is not free although we can use it for free 
+		but got limitation like token always changing after several times 
+
+20190314
+Y 	: 	Cleaning up & edit news portal slack chaqtbot
+		Read code dbs-hr about Watson library & the architecture
+T 	:	Continue Read code dbs-hr about Watson library & the architecture
+		Try create suggestion message / button in news portal slack chatbot 
+B 	: 	-
+
+20190315
+Y 	: 	Read code dbs-hr about aggregation
+		Check code in master and compare to dbs production
+		Create PR to update master branch
+T 	:	Will get new functionalities from Zuhed about abs-hr	
+B 	: 	-
+
+20190318
+Y 	: 	Discussion with Kang n Thomas about DBS-HR
+		set up 
+T 	:	Continue discussion with Kang & Thomas
+		Open for new task 
+B 	: 	-
+
+20190319
+Y 	: 	Continue discussion with Kang & Thomas
+		Get functionalities from Zuhed
+		1. Interim solution to Login using Specific profile
+		2. Chatlogs/ systems report
+		3. Data Masking features
+T 	:	Will create documentation about the functionalites 
+		Continue read a code looking for some functionality 
+B 	: 	I changed some data in file csv n database but not reflected to the UI 
+		Previously after I changed the data in csv file / database will reflected to UI
+		Suddenly no more top categories & search in my local 
+
+20190320
+Y 	: 	I finish check and read code that is about 
+		1. Interim solution to Login using Specific profile
+		2. Chatlogs/ systems report
+		3. Data Masking features
+		evening I get new implemented features
+T 	:	Will do last checking implemented features :  		1. LDAP & SAML Authentication 
+		2. Email Alert feature
+		3. Review the Database build on the Code 
+B 	: 	
+
+20190321
+Y 	: 	Finalise last checking implemented features :  		1. LDAP & SAML Authentication 
+		2. Email Alert feature
+		3. Review the Database build on the Code 
+T 	:	Investigate issue in DBS-HR about updating data in database that not reflected to UI
+B 	: 	
+
+20190322
+Y 	: 	Investigate issue in DBS-HR about updating data in database that not reflected to UI
+		Since evening I need to wait UI Component from dbs team
+T 	:	Continue chatbot for slack create button component in the slack
+B 	: 	Need waiting for Latest UI Component
