@@ -1,3 +1,5 @@
+// CALL LEVELS PTE. LTD.
+
 20190301
 Y 	: 	Clean code last project and 
     		Create new project using component dialog library based on tutorial 
@@ -120,4 +122,10 @@ B 	:
 Y 	: 	Investigate issue in DBS-HR about updating data in database that not reflected to UI
 		Since evening I need to wait UI Component from dbs team
 T 	:	Continue chatbot for slack create button component in the slack
+B 	: 	Need waiting for Latest UI Component
+
+0190325
+Y 	: 	Waiting for UI Component Part
+		Continue Investigate Issue DBS HR
+T 	:	Hand Over DBS HR with DBS Team & Kang
 B 	: 	Need waiting for Latest UI Component
