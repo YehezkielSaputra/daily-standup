@@ -129,3 +129,12 @@ Y 	: 	Waiting for UI Component Part
 		Continue Investigate Issue DBS HR
 T 	:	Hand Over DBS HR with DBS Team & Kang
 B 	: 	Need waiting for Latest UI Component
+
+0190326
+Y 	: 	Hand Over DBS HR with DBS Team & Kang
+		Get the latest UI from Simone
+		No clarification about issue
+T 	:	If there is no clarification then maybe can closed this issue 
+		There is i need to discuss with Kang about UI for future changing
+		Open discussion with Thomas
+B 	: 	
