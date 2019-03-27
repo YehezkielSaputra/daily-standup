@@ -138,3 +138,10 @@ T 	:	If there is no clarification then maybe can closed this issue
 		There is i need to discuss with Kang about UI for future changing
 		Open discussion with Thomas
 B 	: 	
+
+0190327
+Y 	: 	There is no clarification about the dbs-hr issue temporarily so we closed it
+		Continue project chatbot in slack
+T 	:	Open discussion with Thomas
+		Create  combo box in slack
+B 	: 	
