@@ -149,6 +149,6 @@ B 	:
 0190328
 Y 	: 	Create Combo Box & Button in Slack Chat Bot Project 
 		Discussion with Thomas about event function in CBG Server (DFPRq & DFPResponded)
-T 	:	Continue Clean Code & Testing
+T 	:	Continue Clean Code , Push to Repo & Testing
 		Read code CBG Server & Botbuilder v3 Tutorial
 B 	: 	
