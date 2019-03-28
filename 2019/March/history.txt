@@ -145,3 +145,10 @@ Y 	: 	There is no clarification about the dbs-hr issue temporarily so we closed 
 T 	:	Open discussion with Thomas
 		Create  combo box in slack
 B 	: 	
+
+0190328
+Y 	: 	Create Combo Box & Button in Slack Chat Bot Project 
+		Discussion with Thomas about event function in CBG Server (DFPRq & DFPResponded)
+T 	:	Continue Clean Code & Testing
+		Read code CBG Server & Botbuilder v3 Tutorial
+B 	: 	
