@@ -152,3 +152,10 @@ Y 	: 	Create Combo Box & Button in Slack Chat Bot Project
 T 	:	Continue Clean Code , Push to Repo & Testing
 		Read code CBG Server & Botbuilder v3 Tutorial
 B 	: 	
+
+0190329
+Y 	: 	Continue Clean Code , Push to Repo & Testing
+		Read code CBG Server & Botbuilder v3 Tutorial about GC Build (event handle GCQuickLaunch)
+T 	:	Will having review discussion about exercise project 
+		Discuss about Greeting Message function
+B 	: 	
