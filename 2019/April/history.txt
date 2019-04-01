@@ -2,5 +2,5 @@
 20190401
 Y 	: 	Review discussion about exercise project 
 		Discuss about Greeting Message function
-T 	:	
+T 	:	Open for new discussion / task
 B 	: 	
