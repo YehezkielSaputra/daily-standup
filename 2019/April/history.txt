@@ -4,3 +4,8 @@ Y 	: 	Review discussion about exercise project
 		Discuss about Greeting Message function
 T 	:	Open for new discussion / task
 B 	: 	
+
+20190402
+Y 	: 	Testing & Review
+T 	:	Create Carousel and Change Variables Type not to be any
+B 	: 	
