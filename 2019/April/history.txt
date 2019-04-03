@@ -9,3 +9,9 @@ B 	:
 Y 	: 	Testing & Review
 T 	:	Create Carousel and Change Variables Type not to be any
 B 	: 	
+
+20190403
+Y 	: 	Testing & Review
+T 	:	Continue create new project using botbuilder v3 Typescript
+		If using v4 would be using js file
+B 	: 	
