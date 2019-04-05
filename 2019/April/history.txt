@@ -21,3 +21,9 @@ Y 	: 	Continue create new project using botbuilder v3 Typescript
 T 	:	Review & Open New Task
 		Connection to Slack
 B 	: 
+
+20190405
+Y 	: 	Review Code, Create project
+		Take a look of Heroku & Azure Configuration
+T 	:	Create New Repo & Start Botbuilder v4 Project
+B 	: 	
