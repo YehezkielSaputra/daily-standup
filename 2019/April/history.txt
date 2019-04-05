@@ -23,7 +23,7 @@ T 	:	Review & Open New Task
 B 	: 
 
 20190405
-Y 	: 	Review Code, Create project
-		Take a look of Heroku & Azure Configuration
+Y 	: 	Review Code, Create PR
+		Took a look of Heroku & Azure Configuration
 T 	:	Create New Repo & Start Botbuilder v4 Project
 B 	: 	
