@@ -27,3 +27,17 @@ Y 	: 	Review Code, Create PR
 		Took a look of Heroku & Azure Configuration
 T 	:	Create New Repo & Start Botbuilder v4 Project
 B 	: 	
+
+20190406
+Y 	: 	Continue create botbuilder v4 project
+		Design Major Changing :
+		1. Create Helper File Copy from botbuilder v3
+		2. Create Pure Using v4 but lose a lot feature that only supported in v3
+T 	:	Create project newsportal using botbuilder v4
+B 	: 	
+
+20190408
+Y 	: 	Finish project using botbuilder v4
+T 	:	Review with Thomas
+		Plan for upgrade CBG using botbuilder v4
+B 	: 	
