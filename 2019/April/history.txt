@@ -41,3 +41,9 @@ Y 	: 	Finish project using botbuilder v4
 T 	:	Review with Thomas
 		Plan for upgrade CBG using botbuilder v4
 B 	: 	
+
+20190409
+Y 	: 	Review Botbuilder v4
+		Fix some issue
+T 	:	Review & Continue Fix if any
+B 	: 	
