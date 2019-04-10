@@ -47,3 +47,9 @@ Y 	: 	Review Botbuilder v4
 		Fix some issue
 T 	:	Review & Continue Fix if any
 B 	: 	
+
+20190410
+Y 	: 	Review & Clean code 
+T 	:	Open for new task
+		Analyse Update incoming and outgoing request logging format for CBG & IBG
+B 	: 	
