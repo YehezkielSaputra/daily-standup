@@ -53,3 +53,9 @@ Y 	: 	Review & Clean code
 T 	:	Open for new task
 		Analyse Update incoming and outgoing request logging format for CBG & IBG
 B 	: 	
+
+20190411
+Y 	: 	Clean code 
+T 	:	Review & Briefing with Thomas
+		Analyse Update incoming and outgoing request logging format for CBG & IBG
+B 	: 	
