@@ -59,3 +59,9 @@ Y 	: 	Clean code
 T 	:	Review & Briefing with Thomas
 		Analyse Update incoming and outgoing request logging format for CBG & IBG
 B 	: 	
+
+20190412
+Y 	: 	Review code with Thomas
+		Change some method n fixed issue
+T 	:	DBSIB-574
+B 	: 	
