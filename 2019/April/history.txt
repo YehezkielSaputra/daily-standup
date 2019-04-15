@@ -65,3 +65,9 @@ Y 	: 	Review code with Thomas
 		Change some method n fixed issue
 T 	:	DBSIB-574
 B 	: 	
+
+20190415
+Y 	: 	DBSIB-574 Integrate Customer API
+		DBSIB-590 Update Incoming & Outgoing Request Logging Format
+T 	:	Review & Check PR 
+B 	: 	
