@@ -71,3 +71,8 @@ Y 	: 	DBSIB-574 Integrate Customer API
 		DBSIB-590 Update Incoming & Outgoing Request Logging Format
 T 	:	Review & Check PR 
 B 	: 	
+
+20190416
+Y 	: 	Fix DBSIB-590 Update Incoming & Outgoing Request Logging Format
+T 	:	Open new task
+B 	: 	
