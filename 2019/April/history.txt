@@ -76,3 +76,11 @@ B 	:
 Y 	: 	Fix DBSIB-590 Update Incoming & Outgoing Request Logging Format
 T 	:	Open new task
 B 	: 	
+
+20190417
+Y 	: 	Update CBG using botbuilder v4
+		Update node version on CBG (8.11.1  > 10.15.3)
+		Update npm version on CBG (5.6.0 > 6.7.0)
+		DCB-1090 Rename query-result-cache
+T 	:	Continue DCB-1090 Rename query-result-cache
+B 	: 	
