@@ -84,3 +84,9 @@ Y 	: 	Update CBG using botbuilder v4
 		DCB-1090 Rename query-result-cache
 T 	:	Continue DCB-1090 Rename query-result-cache
 B 	: 	
+
+20190418
+Y 	: 	DCB-1090 Rename query-result-cache
+		DCB-1095 Block request is unsuccessful
+T 	:	Open new task
+B 	: 	
