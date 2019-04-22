@@ -90,3 +90,9 @@ Y 	: 	DCB-1090 Rename query-result-cache
 		DCB-1095 Block request is unsuccessful
 T 	:	Open new task
 B 	: 	
+
+20190422
+Y 	: 	Change CBG using Botbuilder v4 on sample dialog
+		Reading about TypeORM Library especially about query-result-cache
+T 	:	Open new task
+B 	: 	
