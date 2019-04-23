@@ -96,3 +96,10 @@ Y 	: 	Change CBG using Botbuilder v4 on sample dialog
 		Reading about TypeORM Library especially about query-result-cache
 T 	:	Open new task
 B 	: 	
+
+20190423
+Y 	: 	DCB-1090 Rename table query-result-cache being configurable
+		Since dont have an access to commit & create PR
+		Have put my comment on TypeORM Forum
+T 	:	Open new task
+B 	: 	
