@@ -103,3 +103,9 @@ Y 	: 	DCB-1090 Rename table query-result-cache being configurable
 		Have put my comment on TypeORM Forum
 T 	:	Open new task
 B 	: 	
+
+20190424
+Y 	: 	DCB-1080 Implement personalised greeting message
+T 	:	Create PR for TypeORM Library
+		Continue DCB 1080
+B 	: 	
