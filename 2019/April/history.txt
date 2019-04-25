@@ -112,5 +112,7 @@ B 	:
 
 20190425
 Y 	: 	Finishing DCB-1080 Implement personalised greeting message
-T 	:	Review 
+T 	:	Review CBG Greetings Dialog
+		Update DCB-1090 Rename table query-result-cache
+		Try enhance dbs hr for rename query-result-cache 
 B 	: 	
