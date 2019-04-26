@@ -116,3 +116,9 @@ T 	:	Review CBG Greetings Dialog
 		Update DCB-1090 Rename table query-result-cache
 		Try enhance dbs hr for rename query-result-cache 
 B 	: 	
+
+20190426
+Y 	: 	DCB-1090 Rename table query-result-cache being configurable
+		Create documentation & unit test file
+T 	:	Continue create unit test file 
+B 	: 	
