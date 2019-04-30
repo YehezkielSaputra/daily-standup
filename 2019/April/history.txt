@@ -125,5 +125,14 @@ B 	:
 
 20190429
 Y 	: 	Finishing issue tableName when undefined
-T 	:	Continue create unit test file 
+T 	:	Revert back my commit in typeORM 
+		Update library typeORM dbs-hr project from v 0.1.12 to 0.2.7 (big changing)
+		Got issue need modify code
+B 	: 	
+
+20190430
+Y 	: 	Revert back my commit in typeORM 
+		Update library typeORM dbs-hr project from v 0.1.12 to 0.2.7 (big changing)
+		Got issue need modify code
+T 	:	Continue fix issue in dbs-hr code
 B 	: 	
