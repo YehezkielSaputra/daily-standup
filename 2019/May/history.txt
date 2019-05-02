@@ -1,0 +1,10 @@
+
+20190501 - Labor Day
+
+20190502
+Y 	: 	Last Tuesday changed doc in my PR for 
+		DCB-1090 Rename table query-result-cache being configurable
+		PR has been approved and merged 
+T 	:	Modify CBG code for DCB-1090 Rename table query-result-cache being configurable
+B 	: 	
+
