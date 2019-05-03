@@ -8,3 +8,9 @@ Y 	: 	Last Tuesday changed doc in my PR for
 T 	:	Modify CBG code for DCB-1090 Rename table query-result-cache being configurable
 B 	: 	
 
+20190503
+Y 	: 	Create PR & Merged for DCB-1090 Rename table query-result-cache being configurable
+		DBSIB-605 Integrate new GCE API for greeting messages
+T 	:	Implement rename table query-result-cache / update TypeORM in dbs-hr
+		Open for new task
+B 	: 
