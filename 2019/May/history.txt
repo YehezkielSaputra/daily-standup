@@ -20,3 +20,8 @@ Y 	: 	Upgrade TypeORM and Rename Cache Table Name in DBS HR, Create PR
 		DBSIB-608 Upgrade TypeORM and Rename Cache Table Name, Create PR & Merged
 T 	:	Open for new task
 B 	: 
+
+2019057
+Y 	: 	DBSIB-611 Implement Shortcut Table, Create PR & Merged
+T 	:	Open for new task
+B 	: 
