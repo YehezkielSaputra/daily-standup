@@ -15,13 +15,18 @@ T 	:	Implement rename table query-result-cache / update TypeORM in dbs-hr
 		Open for new task
 B 	: 
 
-2019056
+20190506
 Y 	: 	Upgrade TypeORM and Rename Cache Table Name in DBS HR, Create PR 
 		DBSIB-608 Upgrade TypeORM and Rename Cache Table Name, Create PR & Merged
 T 	:	Open for new task
 B 	: 
 
-2019057
+20190507
 Y 	: 	DBSIB-611 Implement Shortcut Table, Create PR & Merged
+T 	:	Open for new task
+B 	: 
+
+20190508
+Y 	: 	DBSIB-613 Implement a new API that returns dynamic bouncing tooltips
 T 	:	Open for new task
 B 	: 
