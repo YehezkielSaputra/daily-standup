@@ -30,3 +30,8 @@ B 	:
 Y 	: 	DBSIB-613 Implement a new API that returns dynamic bouncing tooltips
 T 	:	Open for new task
 B 	: 
+
+20190509
+Y 	: 	DBSIB-617 Implement a greeting dialog
+T 	:	Continue DBSIB-617 Implement a greeting dialog
+B 	: 	
