@@ -35,3 +35,8 @@ B 	:
 Y 	: 	DBSIB-617 Implement a greeting dialog
 T 	:	Continue DBSIB-617 Implement a greeting dialog
 B 	: 	
+
+20190510
+Y 	: 	Continue DBSIB-617 Implement a greeting dialog
+T 	:	Open for new task
+B 	: 	
