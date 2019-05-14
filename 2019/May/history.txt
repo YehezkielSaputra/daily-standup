@@ -45,3 +45,9 @@ B 	:
 Y 	: 	Review / Test DBSIB-617 Implement a greeting dialog
 T 	:	Open for new task
 B 	: 	
+
+20190514
+Y 	: 	DBSIB-617 Implement a greeting dialog, PR Has been merged
+		Testing Thomas onboard clean up  
+T 	:	DBSIB-579 Implement Personalised Campaign
+B 	: 	
