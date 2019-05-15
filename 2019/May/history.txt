@@ -51,3 +51,8 @@ Y 	: 	DBSIB-617 Implement a greeting dialog, PR Has been merged
 		Testing Thomas onboard clean up  
 T 	:	DBSIB-579 Implement Personalised Campaign
 B 	: 	
+
+20190515
+Y 	: 	DCB-1119 Implement timer behaviour for dynamic user message
+T 	:	Continue DCB-1119 Implement timer behaviour for dynamic user message
+B 	: 	
