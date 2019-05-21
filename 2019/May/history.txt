@@ -62,3 +62,9 @@ Y 	: 	Continue DCB-1119 Implement timer behaviour for dynamic user message
 		Create Design BPMN Diagram Flow 
 T 	:	Continue DCB-1119 Implement timer behaviour for dynamic user message
 B 	: 	
+
+20190521
+Y 	: 	Finishing DCB-1119 Implement timer behaviour for dynamic user message
+		Thomas will propose this idea to DBS so waiting for the result 
+T 	:	DCB-1125 Create Postman Document for all CBG chat bot APIs
+B 	: 	
