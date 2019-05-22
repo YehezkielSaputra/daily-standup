@@ -68,3 +68,8 @@ Y 	: 	Finishing DCB-1119 Implement timer behaviour for dynamic user message
 		Thomas will propose this idea to DBS so waiting for the result 
 T 	:	DCB-1125 Create Postman Document for all CBG chat bot APIs
 B 	: 	
+
+20190522
+Y 	: 	DCB-1125 Create Postman document for all CBG chat bot APIs
+T 	:	DCB-1127 Research on custom DirectLine / connector
+B 	: 	
