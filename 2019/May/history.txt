@@ -73,3 +73,8 @@ B 	:
 Y 	: 	DCB-1125 Create Postman document for all CBG chat bot APIs
 T 	:	DCB-1127 Research on custom DirectLine / connector
 B 	: 	
+
+20190523
+Y 	: 	DCB-1127 Research on custom DirectLine / connector
+T 	:	DCB-1127 Research on custom DirectLine / connector
+B 	: 	
