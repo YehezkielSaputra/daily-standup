@@ -78,3 +78,8 @@ B 	:
 Y 	: 	DCB-1127 Research on custom DirectLine / connector
 T 	:	DCB-1127 Research on custom DirectLine / connector
 B 	: 	
+
+20190524
+Y 	: 	DCB-1127 Research on custom DirectLine / connector
+T 	:	Open new task or still keep continue researching
+B 	: 	
