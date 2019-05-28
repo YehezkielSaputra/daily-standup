@@ -89,3 +89,7 @@ Y 	: 	DCB-1127 Research on custom DirectLine / connector
 T 	:	[Prod][IBGC-118] Incorrect Replaced Card
 B 	: 	
 
+20190528
+Y 	: 	[Prod][IBGC-118] Incorrect Replaced Card
+T 	:	CLAIRE-173 Set up claire-cso repo
+B 	: 	
