@@ -93,3 +93,17 @@ B 	:
 Y 	: 	[Prod][IBGC-118] Incorrect Replaced Card
 T 	:	CLAIRE-173 Set up claire-cso repo
 B 	: 	
+
+20190529
+Y 	: 	CLAIRE-173 Set up claire-cso repo
+		CLAIRE-174 Set up claire-cso database
+T 	:	Re clean repo CLAIRE-173 Set up claire-cso repo
+		CLAIRE-174 Set up claire-cso database
+B 	: 	
+
+20190530
+Y 	: 	CLAIRE-173 Set up claire-cso repo
+		CLAIRE-174 Set up claire-cso database
+T 	:	CLAIRE-175 Set up authentication for claire-cso
+		Open new task
+B 	: 	
