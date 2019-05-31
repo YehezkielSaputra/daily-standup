@@ -107,3 +107,13 @@ Y 	: 	CLAIRE-173 Set up claire-cso repo
 T 	:	CLAIRE-175 Set up authentication for claire-cso
 		Open new task
 B 	: 	
+
+20190531
+Y 	: 	CLAIRE-173 Set up claire-cso repo
+		CLAIRE-174 Set up claire-cso database
+		Merged PR
+		Change Webchat-Shortcut helper in IBG
+		Create new repo for claire-cso-canvas
+T 	:	Design claire-cso-canvas 
+		Create scaffolding
+B 	: 	
