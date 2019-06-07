@@ -9,3 +9,14 @@ B 	:
 Y 	: 	Create new repo for claire-chat import from dbs-chat repo
 T 	:	Waiting for new instruction
 B 	: 
+
+20190604
+Public Holiday Hari Raya 
+
+20190606
+MC
+
+20190607
+Y 	: 	Fix PR Claire-181 Create Login Page Claire CSO
+T 	:	Continue Create Login Page & Dashboard
+B 	: 
