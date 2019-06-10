@@ -20,3 +20,9 @@ MC
 Y 	: 	Fix PR Claire-181 Create Login Page Claire CSO
 T 	:	Continue Create Login Page & Dashboard
 B 	: 
+
+20190610
+Y 	: 	Fix PR Claire-181 Create Login Page Claire CSO
+		Claire-175 Set up authentication for claire-cso
+T 	:	Claire-175 Set up authentication for claire-cso
+B 	: 
