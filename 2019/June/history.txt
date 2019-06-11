@@ -26,3 +26,13 @@ Y 	: 	Fix PR Claire-181 Create Login Page Claire CSO
 		Claire-175 Set up authentication for claire-cso
 T 	:	Claire-175 Set up authentication for claire-cso
 B 	: 
+
+20190611
+Y 	: 	Claire-183 Populate claire-staging db
+		Claire-184 Set up claire-router
+		Claire-185 Set up claire-cso v1 and v2
+		Set up claire-chat
+		Set up claire-web-chat-canvas
+		Remove all release tag in every claire repo
+T	: 	Waiting for new instruction
+B 	: 	
