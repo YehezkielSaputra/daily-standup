@@ -36,3 +36,8 @@ Y 	: 	Claire-183 Populate claire-staging db
 		Remove all release tag in every claire repo
 T	: 	Waiting for new instruction
 B 	: 	
+
+20190612
+Y 	: 	Claire-189 Enhance end chat flow
+T	: 	Waiting for new instruction
+B 	: 	
