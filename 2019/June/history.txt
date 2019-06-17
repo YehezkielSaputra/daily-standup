@@ -39,12 +39,23 @@ B 	:
 
 20190612
 Y 	: 	Claire-189 Enhance end chat flow
-T	: 	Waiting for new instruction
+T	: 	Create PR for Claire-189 Enhance end chat flow
 B 	: 	
 
-20190612
-Y 	: 	Research for record audio in html
-		Audio Recognition in html
-		Fix PR Claire-189 Enhance end chat flow
+20190613
+Y 	: 	Create PR for Claire-189 Enhance end chat flow
+		Fix PR and Merged
+T	: 	Claire-178 Integrate Guided Conversation
+B 	: 	
+
+20190614
+Y 	: 	Claire-178 Integrate Guided Conversation
+T	: 	Continue Claire-178 Integrate Guided Conversation
+		Create PR 
+B 	: 	
+
+20190617
+Y 	: 	Continue Claire-178 Integrate Guided Conversation
+		Create PR 
 T	: 	Waiting for new instruction
 B 	: 	
