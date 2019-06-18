@@ -57,5 +57,10 @@ B 	:
 20190617
 Y 	: 	Continue Claire-178 Integrate Guided Conversation
 		Create PR 
+T	: 	Fix PR Claire-178 Integrate Guided Conversation
+B 	: 	
+
+20190618
+Y 	: 	Fix PR Claire-178 Integrate Guided Conversation
 T	: 	Waiting for new instruction
 B 	: 	
