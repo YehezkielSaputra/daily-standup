@@ -64,3 +64,8 @@ B 	:
 Y 	: 	Fix PR Claire-178 Integrate Guided Conversation
 T	: 	Waiting for new instruction
 B 	: 	
+
+20190619
+Y 	: 	Fix PR Claire-178 Integrate Guided Conversation
+T	: 	Claire-196 Research on Making Bot for Microsoft Teams
+B 	: 	
