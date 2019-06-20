@@ -69,3 +69,11 @@ B 	:
 Y 	: 	Fix PR Claire-178 Integrate Guided Conversation
 T	: 	Claire-196 Research on Making Bot for Microsoft Teams
 B 	: 	
+
+20190620
+Y 	: 	Claire-196 Research on Making Bot for Microsoft Teams
+		Reading some articles and tutorial
+		Play Around with App Studio in Microsoft Team
+T	: 	Claire-196 Research on Making Bot for Microsoft Teams	
+		Upload my App in Teams (Import existing app)
+B 	: 	Cant access Azure Portal Call Levels (Need Taqin helps).
