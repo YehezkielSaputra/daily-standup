@@ -77,3 +77,9 @@ Y 	: 	Claire-196 Research on Making Bot for Microsoft Teams
 T	: 	Claire-196 Research on Making Bot for Microsoft Teams	
 		Upload my App in Teams (Import existing app)
 B 	: 	Cant access Azure Portal Call Levels (Need Taqin helps).
+
+20190621
+Y 	: 	Claire-196 Research on Making Bot for Microsoft Teams
+		Import App from my Newsportal Bot to Microsoft Teams
+T	: 	Try have discussion with Thomas for comparing how to upload his IBG Project
+B 	: 	I have issue when upload it since need file Manifest.json
