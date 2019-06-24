@@ -83,3 +83,10 @@ Y 	: 	Claire-196 Research on Making Bot for Microsoft Teams
 		Import App from my Newsportal Bot to Microsoft Teams
 T	: 	Try have discussion with Thomas for comparing how to upload his IBG Project
 B 	: 	I have issue when upload it since need file Manifest.json
+
+20190624
+Y 	: 	Fix issue (create manifest.json file) when import app.
+		Testing simple app bot in microsoft teams (echoing what user type).
+T	: 	Having discussion with Thomas
+		Create / integrate newsportal app by adding new library - botbuilder-teams
+B 	: 	
