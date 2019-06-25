@@ -90,3 +90,9 @@ Y 	: 	Fix issue (create manifest.json file) when import app.
 T	: 	Having discussion with Thomas
 		Create / integrate newsportal app by adding new library - botbuilder-teams
 B 	: 	
+
+20190625
+Y 	: 	Create / integrate newsportal app by adding new library - botbuilder-teams
+		Reading code about Guided Conversation based CBG code, prepare for rework code in Claire Project
+T	: 	Having discussion with Thomas, waiting new instruction
+B 	: 	
