@@ -96,3 +96,9 @@ Y 	: 	Create / integrate newsportal app by adding new library - botbuilder-teams
 		Reading code about Guided Conversation based CBG code, prepare for rework code in Claire Project
 T	: 	Having discussion with Thomas, waiting new instruction
 B 	: 	
+
+20190626
+Y 	: 	DBSIB-702 Implement POST /users/activities API
+		Create PR
+T	: 	Waiting new instruction
+B 	: 	
