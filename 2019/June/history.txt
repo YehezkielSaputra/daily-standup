@@ -102,3 +102,9 @@ Y 	: 	DBSIB-702 Implement POST /users/activities API
 		Create PR
 T	: 	Waiting new instruction
 B 	: 	
+
+20190627
+Y 	: 	Fix PR DBSIB-702 Implement POST /users/activities API
+		Has been merged
+T	: 	Take AL
+B 	: 	
