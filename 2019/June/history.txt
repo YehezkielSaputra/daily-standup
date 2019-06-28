@@ -108,3 +108,8 @@ Y 	: 	Fix PR DBSIB-702 Implement POST /users/activities API
 		Has been merged
 T	: 	Take AL
 B 	: 	
+
+20190628
+Y 	: 	AL
+T	: 	CLAIRE-221 Change Card Image Content in GC Block Card
+B 	: 	
