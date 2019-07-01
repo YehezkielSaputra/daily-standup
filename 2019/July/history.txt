@@ -1,0 +1,5 @@
+20190701
+Y 	: 	CLAIRE-221 Change Card Image Content in GC Block Card
+        Create PR and Merged
+T	: 	Waiting for next instruction
+B 	: 	
