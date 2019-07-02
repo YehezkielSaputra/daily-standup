@@ -3,3 +3,10 @@ Y 	: 	CLAIRE-221 Change Card Image Content in GC Block Card
         Create PR and Merged
 T	: 	Waiting for next instruction
 B 	: 	
+
+20190702
+Y 	: 	Read Code & Get Insight of How Initiate , Get & Set DialogId and run gc (guided conversation) flow 
+		CLAIRE-228 Create Documentation of Integration Bot to Microsoft Teams
+T	: 	Finishin documentation CLAIRE-228 Create Documentation of Integration Bot to Microsoft Teams
+		Waiting for next instruction
+B 	: 	
