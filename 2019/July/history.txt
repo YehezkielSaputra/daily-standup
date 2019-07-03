@@ -7,6 +7,11 @@ B 	:
 20190702
 Y 	: 	Read Code & Get Insight of How Initiate , Get & Set DialogId and run gc (guided conversation) flow 
 		CLAIRE-228 Create Documentation of Integration Bot to Microsoft Teams
-T	: 	Finishin documentation CLAIRE-228 Create Documentation of Integration Bot to Microsoft Teams
+T	: 	Finishing documentation CLAIRE-228 Create Documentation of Integration Bot to Microsoft Teams
 		Waiting for next instruction
+B 	: 	
+
+20190703
+Y 	: 	Finishing documentation CLAIRE-228 Create Documentation of Integration Bot to Microsoft Teams on Confluence
+T	: 	Waiting for next instruction
 B 	: 	
