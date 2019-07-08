@@ -26,3 +26,10 @@ Y 	: 	DCB-1175 Production Issue Log Size has gone up
 T	: 	Investigate Production Issue in DBS
 		Fix issue
 B 	: 	
+
+20190708
+Y 	: 	DCB-1175 Production Issue Log Size has gone up
+		Investigate Production Issue in DBS
+		Fix issue
+T	: 	Waiting for next instruction
+B 	: 	
