@@ -33,3 +33,10 @@ Y 	: 	DCB-1175 Production Issue Log Size has gone up
 		Fix issue
 T	: 	Waiting for next instruction
 B 	: 	
+
+20190709
+Y 	: 	Last Checking of Log Increasing Production Issue
+		Set up and configure Flutter & Dart in my local machine
+T	: 	Reading Dart & Flutter Stuff References
+		Hand Over from Asyraf
+B 	: 	
