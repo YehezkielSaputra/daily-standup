@@ -40,3 +40,9 @@ Y 	: 	Last Checking of Log Increasing Production Issue
 T	: 	Reading Dart & Flutter Stuff References
 		Hand Over from Asyraf
 B 	: 	
+
+20190710
+Y 	: 	Reading Dart & Flutter Stuff References
+		Hand Over from Asyraf
+T	: 	CLC-218 Amend Dashboard Layout
+B 	: 	
