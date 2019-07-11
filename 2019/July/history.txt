@@ -46,3 +46,10 @@ Y 	: 	Reading Dart & Flutter Stuff References
 		Hand Over from Asyraf
 T	: 	CLC-218 Amend Dashboard Layout
 B 	: 	
+
+20190711
+Y 	: 	CLC-218 Amend Dashboard Layout
+		Add new field 
+		Add new page in flutter
+T	: 	Checking the remain task & design what it needed
+B 	: 	
