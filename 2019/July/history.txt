@@ -53,3 +53,12 @@ Y 	: 	CLC-218 Amend Dashboard Layout
 		Add new page in flutter
 T	: 	Checking the remain task & design what it needed
 B 	: 	
+
+20190712
+Y 	: 	Explore SliverAppBar
+		Fix issue with Hostory Screen
+		Explore existing functionalities in current Call Levels App
+		Compare current Call Levels App with Next Version and Design for next development
+T	: 	Last Hand Over with Shahera 
+		Create Package Flutter for iOS and Android
+B 	: 	
