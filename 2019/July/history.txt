@@ -62,3 +62,9 @@ Y 	: 	Explore SliverAppBar
 T	: 	Last Hand Over with Shahera 
 		Create Package Flutter for iOS and Android
 B 	: 	
+
+20190715
+Y 	: 	Last Hand Over with Shahera 
+		Create Package Flutter for iOS and Android
+T	: 	Create New JIRA Task 
+B 	: 	
