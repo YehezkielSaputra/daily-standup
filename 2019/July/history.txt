@@ -68,3 +68,9 @@ Y 	: 	Last Hand Over with Shahera
 		Create Package Flutter for iOS and Android
 T	: 	Create New JIRA Task 
 B 	: 	
+
+20190716
+Y 	: 	Create New JIRA Task 
+T	: 	CLC-228 Remove Button Lock (Log Out)
+		CLC-231 Remove Unused Menu
+B 	: 	
