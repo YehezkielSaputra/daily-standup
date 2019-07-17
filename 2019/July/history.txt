@@ -74,3 +74,9 @@ Y 	: 	Create New JIRA Task
 T	: 	CLC-228 Remove Button Lock (Log Out)
 		CLC-231 Remove Unused Menu
 B 	: 	
+
+20190717
+Y 	: 	CLC-228 Remove Button Lock (Log Out)
+T	: 	Continue CLC-228 Remove Button Lock (Log Out)
+		CLC-231 Remove Unused Menu
+B 	: 	
