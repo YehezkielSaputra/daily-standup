@@ -87,3 +87,9 @@ Y 	: 	CLC-228 Remove Button Lock (Log Out)
 		Create Pr and Merged
 T	: 	CLC-229 Create Edit Profile Screen 
 B 	: 	
+
+20190719
+Y 	: 	CLC-229 Create Edit Profile Screen 
+		CLC-233 Edit User Screen Menu Linked to Website Call Levels
+T	: 	CLC-230 Create Change Password Screen		
+B 	: 	
