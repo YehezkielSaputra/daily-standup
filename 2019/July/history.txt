@@ -106,3 +106,9 @@ B 	:
 Y 	: 	CLC-234 Create Send Feedback Screen			
 T	: 	Continue CLC-234 Create Send Feedback Screen	
 B 	: 	
+
+20190724
+Y 	: 	CLC-234 Create Send Feedback Screen			
+T	: 	Finishing CLC-234 Create Send Feedback Screen	
+		Create Pull Request
+B 	: 	
