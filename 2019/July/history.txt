@@ -112,3 +112,10 @@ Y 	: 	CLC-234 Create Send Feedback Screen
 T	: 	Finishing CLC-234 Create Send Feedback Screen	
 		Create Pull Request
 B 	: 	
+
+20190725
+Y 	: 	CLC-234 Create Send Feedback Screen			
+		CLC-225 Create Another Levels in Pop Up Menu
+		Create PR and Merged
+T	: 	CLC 227 Edit Display Logged In Username
+B 	: 	
