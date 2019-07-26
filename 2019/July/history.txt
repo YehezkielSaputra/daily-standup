@@ -119,3 +119,9 @@ Y 	: 	CLC-234 Create Send Feedback Screen
 		Create PR and Merged
 T	: 	CLC 227 Edit Display Logged In Username
 B 	: 	
+
+20190726
+Y 	: 	CLC 227 Edit Display Logged In Username
+		CLC-238 Create Another Levels Functionality on Snapshot Screen
+T	: 	Continue CLC-238 Create Another Levels Functionality on Snapshot Screen
+B 	: 	
