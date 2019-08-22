@@ -1,0 +1,10 @@
+20190822
+Y 	: 	
+T	: 	First Day in Industrial Electronic Singapore
+		Sign contract & EP MOM Stuff
+		Setting Macbook
+		Setting Email
+		Setting Gitea
+		Setting Slack
+B 	: 	Need Aaroon help  
+

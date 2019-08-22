@@ -125,3 +125,8 @@ Y 	: 	CLC 227 Edit Display Logged In Username
 		CLC-238 Create Another Levels Functionality on Snapshot Screen
 T	: 	Continue CLC-238 Create Another Levels Functionality on Snapshot Screen
 B 	: 	
+
+20190729
+Y 	: 	Continue CLC-238 Create Another Levels Functionality on Snapshot Screen
+T	: 	Last Day in Call Levels
+B 	: 
