@@ -20,3 +20,12 @@ Y	:	First Day in Industrial Electronic Singapore
 		Git clone and set up Synopsis Client & Server
 T	:	Create Documentation Synopsis Client & Server
 B	:	Need join Trello, waiting Airon instruction
+
+20190826
+Y	:	Created documentation of Cosmos Synopsis.
+		Having discussion with Arion about Synopsis. 
+		Update documentation file.
+		Play around with MongoDB, Testing Query in GraphiQL. 
+		Created ERD for Database Synopsis.
+T	:	Continue explore and get digest insight about Mongo Database Collection for Cosmos Synopsis.
+B	:	-
