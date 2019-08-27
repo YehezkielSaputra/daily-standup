@@ -1,5 +1,5 @@
 20190822
-Y 	: 	
+Y 	: 	-
 T	: 	First Day in Industrial Electronic Singapore
 		Sign contract & EP MOM Stuff
 		Setting Macbook
@@ -28,4 +28,11 @@ Y	:	Created documentation of Cosmos Synopsis.
 		Play around with MongoDB, Testing Query in GraphiQL. 
 		Created ERD for Database Synopsis.
 T	:	Continue explore and get digest insight about Mongo Database Collection for Cosmos Synopsis.
+B	:	-
+
+20190827
+Y	:	Finishing ERD for Database Synopsis.
+		Try manipulating data with MongoDB (insert, update, remove, copy).
+		Update documentation file.
+T	:	Read code Synopsis-Server
 B	:	-
