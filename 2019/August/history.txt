@@ -36,3 +36,14 @@ Y	:	Finishing ERD for Database Synopsis.
 		Update documentation file.
 T	:	Read code Synopsis-Server
 B	:	-
+
+20190828
+Y	:	Read code Cosmos/Synopsis-Server (Back End).
+		Compare code for each branch (Master, Develop, Feature, Release).
+		Add / create tslint file. 
+		Removed unused variable (clean code) and saved into my local branch 
+		Update documentation for synopsis.
+		Have discussion with Arion and Suman about synopsis (get more insight)
+T	:	Have further discussion with Arion and team
+		Get more detail future development of synopsis
+B	:	-
