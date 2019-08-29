@@ -47,3 +47,15 @@ Y	:	Read code Cosmos/Synopsis-Server (Back End).
 T	:	Have further discussion with Arion and team
 		Get more detail future development of synopsis
 B	:	-
+
+20190829
+Y	:	Having discussion with Arion and Suman and get more insight about development of Synopsis (yesterday).
+		Read code Cosmos/Synopsis-Client (Front End).
+		Compare code for each branch (Master, Develop, Feature, Release).
+		Design the business flow for future development. 
+		Get understand state in synopsis from the business logic and code.
+		Get understand sequence diagram of Synopsis.
+T	:	Will investigate the logic behind every single button in synopsis.
+		Investigate when click for each data in product table.  
+		Will be having discuss further and waiting for next instruction.
+B	:	-
