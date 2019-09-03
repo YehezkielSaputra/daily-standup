@@ -6,3 +6,15 @@ T	:	Create Official Document for :
 		Application Structure Document for Synopsis
 		User Journey Document for Synopsis
 B	:	-
+
+20190903
+Y	:	Create Document in IEPLSG Forum : Application Structure Document for Synopsis.
+		Create Document in IEPLSG Forum : User Journey Document for Synopsis.
+		Create Document in IEPLSG Forum : Sequence Diagram for Synopsis (Product Creation).
+T	:	Having discussion with Arion for create sequence diagram about Product Content Enrichment, editing and 			provision.
+		Update the documentation Sequence Diagram for Synopsis. 
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
