@@ -18,3 +18,17 @@ T	:	Having discussion with Arion for create sequence diagram about Product Conte
 		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
 		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
 B	:	-
+
+20190904
+Y	:	Having discussion with Arion for creating sequence diagram about : 
+		Product Content Enrichment, 
+		Product Editing with Revision and 
+		Product Editing with Provision.
+		Update the documentation Sequence Diagram for Synopsis. 
+T	:	Review Documentation with Arion and update if needed.
+		Create table of content.
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
