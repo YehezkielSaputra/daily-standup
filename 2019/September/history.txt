@@ -32,3 +32,15 @@ T	:	Review Documentation with Arion and update if needed.
 		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
 		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
 B	:	-
+
+20190905
+Y	:	Create Sequence Diagram using internal tools :
+		https://uml.ieplsg.com/uml
+		Update documentation.
+		Having discussion with Arion, review the documentation.
+T	:	Update documentation and waiting for next instructions.
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
