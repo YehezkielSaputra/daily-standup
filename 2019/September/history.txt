@@ -56,3 +56,12 @@ T	:	Update documentation and waiting for next instructions.
 		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
 		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
 B	:	-
+
+20190909
+Y	:	Update documentation
+		Cosmos-275 After user update catalog content, these update can be track and approve to merge in.
+		Create PR 
+		Analyse and having discussion with Suman & Nisha for 
+		COSMOS-278 Client App need to support multi language editing
+T	:	COSMOS-278 Client App need to support multi language editing
+B	:	-
