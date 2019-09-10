@@ -65,3 +65,8 @@ Y	:	Update documentation
 		COSMOS-278 Client App need to support multi language editing
 T	:	COSMOS-278 Client App need to support multi language editing
 B	:	-
+
+20190910
+Y	:	Breakdown task Cosmos-274 Product Catalog Enhancement 
+T	:	Cosmos-305 Editor Update the data (Submit Revision / Provision)
+B	:	-
