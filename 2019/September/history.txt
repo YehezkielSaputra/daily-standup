@@ -70,3 +70,17 @@ B	:	-
 Y	:	Breakdown task Cosmos-274 Product Catalog Enhancement 
 T	:	Cosmos-305 Editor Update the data (Submit Revision / Provision)
 B	:	-
+
+20190911
+Y	:	COSMOS-305 Editor Update the data (Submit Revision / Provision)
+		COSMOS-306 Manager Approve the Revision / Provision
+		COSMOS-307 Manager Update the data without Approval
+		COSMOS-308 Update data as Editorial (Revision)
+		COSMOS-309 Update data as Marketing (Provision)	
+		COSMOS-310 Definition Provision Product Data
+		COSMOS-312 All Sales Channel in Synopsis		
+		COSMOS-311 Multi Language Editor UI
+		COSMOS-314 Logic Behind Multi Language Editor
+		COSMOS-315 Fix Issue Merge Multi Language UI into Current Client App
+T	:	Having discussion with Arion and waiting instruction
+B	:	-
