@@ -84,3 +84,10 @@ Y	:	COSMOS-305 Editor Update the data (Submit Revision / Provision)
 		COSMOS-315 Fix Issue Merge Multi Language UI into Current Client App
 T	:	Having discussion with Arion and waiting instruction
 B	:	-
+
+20190912
+Y	:	Help Phyo for creating unit testing Cosmos-Anima
+		COSMOS-340
+T	:	Continue COSMOS-340
+		Migrate database synopsis cloning to localhost
+B	:	-
