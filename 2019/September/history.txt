@@ -100,3 +100,10 @@ Y	:	Continue COSMOS-340
 T	:	Re Open task of Cosmos-340
 		Waiting next instruction
 B	:	-
+
+20190916
+Y	:	Continue COSMOS-340
+		Review with Arion about Cosmos-340
+T	:	COSMOS-159 Documentation for Synopsis
+		COSMOS-359 Restructure HTML for the Catalog Screen 
+B	:	-
