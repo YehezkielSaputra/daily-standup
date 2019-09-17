@@ -107,3 +107,11 @@ Y	:	Continue COSMOS-340
 T	:	COSMOS-159 Documentation for Synopsis
 		COSMOS-359 Restructure HTML for the Catalog Screen 
 B	:	-
+
+20190917
+Y	:	COSMOS-159 Documentation for Synopsis
+		COSMOS-359 Restructure HTML for the Catalog Screen 
+		Having discussion with Arion
+		Having discussion with team (Nisha & Suman) for synopsis
+T	:	COSMOS-363 Need update structure of <div id="root" /> and <style />
+B	:	-
