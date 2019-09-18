@@ -115,3 +115,12 @@ Y	:	COSMOS-159 Documentation for Synopsis
 		Having discussion with team (Nisha & Suman) for synopsis
 T	:	COSMOS-363 Need update structure of <div id="root" /> and <style />
 B	:	-
+
+20190918
+Y	:	Fix issue regarding development server down and failure login into vault.ieplsg.com server in local machine.
+		COSMOS-159 Documentation for Synopsis
+		COSMOS-363 Need update structure of <div id="root" /> and <style />
+T	:	Help Nisha fix issue running Synopsis-Client in her local machine
+		COSMOS-340 Fix issues with react-virtualized and the scroll and editor content
+		COSMOS-159 Documentation for Synopsis
+B	:	-
