@@ -124,3 +124,11 @@ T	:	Help Nisha fix issue running Synopsis-Client in her local machine
 		COSMOS-340 Fix issues with react-virtualized and the scroll and editor content
 		COSMOS-159 Documentation for Synopsis
 B	:	-
+
+20190919
+Y	:	Help Nisha fix issue running Synopsis-Client in her local machine
+		COSMOS-340 Fix issues with react-virtualized and the scroll and editor content
+		COSMOS-159 Documentation for Synopsis
+T	:	Discuss with Nisha for progress 
+		Discuss with Arion
+B	:	-
