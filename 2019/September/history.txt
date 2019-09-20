@@ -132,3 +132,11 @@ Y	:	Help Nisha fix issue running Synopsis-Client in her local machine
 T	:	Discuss with Nisha for progress 
 		Discuss with Arion
 B	:	-
+
+20190920
+Y	:	Fix issue for Synopsis connecting using localhost database
+		Create Synopsis Develepment branch in my privat repository
+		COSMOS-364 Clean CSS in Products View
+T	:	Starting working development in privat repository
+		Having discussion with Arion
+B	:	-
