@@ -140,3 +140,12 @@ Y	:	Fix issue for Synopsis connecting using localhost database
 T	:	Starting working development in privat repository
 		Having discussion with Arion
 B	:	-
+
+20190923
+Y	:	COSMOS-314 Logic Behind Multi Language Editor
+		COSMOS-313 Logic Behind Each Controller in Provision Product
+		COSMOS-444 Remove colour field to be near with id in the product table catalog
+		COSMOS-445 Clarification about Product Provision
+T	:	COSMOS-443 Change Table into Div Component in Product Editor
+		Having discussion with Arion
+B	:	-
