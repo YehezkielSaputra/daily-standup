@@ -149,3 +149,10 @@ Y	:	COSMOS-314 Logic Behind Multi Language Editor
 T	:	COSMOS-443 Change Table into Div Component in Product Editor
 		Having discussion with Arion
 B	:	-
+
+20190924
+Y	:	COSMOS-443 Change Table into Div Component in Product Editor
+		COSMOS-445 Clarification about Product Provision
+T	:	COSMOS-443 Change Table into Div Component in Product Editor
+		Having discussion with Arion
+B	:	-
