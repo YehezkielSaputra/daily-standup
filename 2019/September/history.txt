@@ -156,3 +156,10 @@ Y	:	COSMOS-443 Change Table into Div Component in Product Editor
 T	:	COSMOS-443 Change Table into Div Component in Product Editor
 		Having discussion with Arion
 B	:	-
+
+20190925
+Y	:	COSMOS-478 Fix Issue of Description Field Scrollable and Height Issue
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+T	:	COSMOS-502 CSS Decoration in Product Editor
+		Having discussion with Arion
+B	:	-
