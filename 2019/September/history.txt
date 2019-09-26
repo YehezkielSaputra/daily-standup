@@ -163,3 +163,11 @@ Y	:	COSMOS-478 Fix Issue of Description Field Scrollable and Height Issue
 T	:	COSMOS-502 CSS Decoration in Product Editor
 		Having discussion with Arion
 B	:	-
+
+20190926
+Y	:	COSMOS-502 CSS Decoration in Product Editor
+		COSMOS-443 Change Table into Div Component in Product Editor
+T	:	COSMOS-520 Update Synopsis Client based on new Schema Approach
+		COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
+		Having discussion with Arion and breakdown the task to be smaller subtask 
+B	:	-
