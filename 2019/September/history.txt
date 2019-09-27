@@ -171,3 +171,20 @@ T	:	COSMOS-520 Update Synopsis Client based on new Schema Approach
 		COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
 		Having discussion with Arion and breakdown the task to be smaller subtask 
 B	:	-
+
+20190927
+Y	:	COSMOS-549 Add Official Price for [Panerai]
+		COSMOS-568 Add Detail Data for [Panerai]
+		COSMOS-578 Add Detail Data for [Longines]
+		COSMOS-559 Add Official Price for [Longines]
+		COSMOS-526 Add New Card for Feature Section in Synopsis Client
+T	:	COSMOS-551 Add Official Price for [Tag-Heuer]
+		COSMOS-552 Add Official Price for [Audemars-Piguet]
+		COSMOS-553 Add Official Price for [Breitling]
+		COSMOS-554 Add Official Price for [Oris]
+		COSMOS-570 Add Detail Data for [Tag-Heuer]
+		COSMOS-571 Add Detail Data for [Audemars-Piguet]
+		COSMOS-572 Add Detail Data for [Breitling]
+		COSMOS-573 Add Detail Data for [Oris]
+		Having discussion with Arion and breakdown the task to be smaller subtask 
+B	:	-
