@@ -188,3 +188,15 @@ T	:	COSMOS-551 Add Official Price for [Tag-Heuer]
 		COSMOS-573 Add Detail Data for [Oris]
 		Having discussion with Arion and breakdown the task to be smaller subtask 
 B	:	-
+
+20190930
+Y	:	COSMOS-570 Add Detail Data for [Tag-Heuer]
+		COSMOS-571 Add Detail Data for [Audemars-Piguet]
+		COSMOS-572 Add Detail Data for [Breitling]
+		COSMOS-551 Add Official Price for [Tag-Heuer]
+		COSMOS-552 Add Official Price for [Audemars-Piguet]
+		COSMOS-553 Add Official Price for [Breitling]
+T	:	Review PR and merge it in Synopsis-Scraper 
+		Testing and finishin the remain brand
+		Having discussion with Arion and breakdown the task to be smaller subtask 
+B	:	-
