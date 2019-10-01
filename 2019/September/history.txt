@@ -1,9 +1,202 @@
 20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
+Y	:	Investigate the data flow from start till launch in production.
+		Having discussion with Nyi Nyi, Suman, and Arion about the business process and logic. 
 		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+T	:	Create Official Document for :
+		Application Structure Document for Synopsis
+		User Journey Document for Synopsis
+B	:	-
+
+20190903
+Y	:	Create Document in IEPLSG Forum : Application Structure Document for Synopsis.
+		Create Document in IEPLSG Forum : User Journey Document for Synopsis.
+		Create Document in IEPLSG Forum : Sequence Diagram for Synopsis (Product Creation).
+T	:	Having discussion with Arion for create sequence diagram about Product Content Enrichment, editing and 			provision.
+		Update the documentation Sequence Diagram for Synopsis. 
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
+
+20190904
+Y	:	Having discussion with Arion for creating sequence diagram about : 
+		Product Content Enrichment, 
+		Product Editing with Revision and 
+		Product Editing with Provision.
+		Update the documentation Sequence Diagram for Synopsis. 
+T	:	Review Documentation with Arion and update if needed.
+		Create table of content.
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
+
+20190905
+Y	:	Create Sequence Diagram using internal tools :
+		https://uml.ieplsg.com/uml
+		Update documentation.
+		Having discussion with Arion, review the documentation.
+T	:	Update documentation and waiting for next instructions.
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
+
+20190906
+Y	:	Create Sequence Diagram using internal tools :
+		https://uml.ieplsg.com/uml
+		Update documentation.
+T	:	Update documentation and waiting for next instructions.
+		Get new task from Arion 
+		Please refer to link below :
+		http://192.168.0.200:4567/topic/90/application-structure-document-for-synopsis
+		http://192.168.0.200:4567/topic/91/user-journey-document-for-synopsis
+		http://192.168.0.200:4567/topic/92/sequence-diagram-for-synopsis
+B	:	-
+
+20190909
+Y	:	Update documentation
+		Cosmos-275 After user update catalog content, these update can be track and approve to merge in.
+		Create PR 
+		Analyse and having discussion with Suman & Nisha for 
+		COSMOS-278 Client App need to support multi language editing
+T	:	COSMOS-278 Client App need to support multi language editing
+B	:	-
+
+20190910
+Y	:	Breakdown task Cosmos-274 Product Catalog Enhancement 
+T	:	Cosmos-305 Editor Update the data (Submit Revision / Provision)
+B	:	-
+
+20190911
+Y	:	COSMOS-305 Editor Update the data (Submit Revision / Provision)
+		COSMOS-306 Manager Approve the Revision / Provision
+		COSMOS-307 Manager Update the data without Approval
+		COSMOS-308 Update data as Editorial (Revision)
+		COSMOS-309 Update data as Marketing (Provision)	
+		COSMOS-310 Definition Provision Product Data
+		COSMOS-312 All Sales Channel in Synopsis		
+		COSMOS-311 Multi Language Editor UI
+		COSMOS-314 Logic Behind Multi Language Editor
+		COSMOS-315 Fix Issue Merge Multi Language UI into Current Client App
+T	:	Having discussion with Arion and waiting instruction
+B	:	-
+
+20190912
+Y	:	Help Phyo for creating unit testing Cosmos-Anima
+		COSMOS-340
+T	:	Continue COSMOS-340
+		Migrate database synopsis cloning to localhost
+B	:	-
+
+20190913
+Y	:	Continue COSMOS-340
+		Create synopsis / migration to local
+		Create PR for Cosmos-340
+		Review with Arion about Cosmos-340
+T	:	Re Open task of Cosmos-340
+		Waiting next instruction
+B	:	-
+
+20190916
+Y	:	Continue COSMOS-340
+		Review with Arion about Cosmos-340
+T	:	COSMOS-159 Documentation for Synopsis
+		COSMOS-359 Restructure HTML for the Catalog Screen 
+B	:	-
+
+20190917
+Y	:	COSMOS-159 Documentation for Synopsis
+		COSMOS-359 Restructure HTML for the Catalog Screen 
+		Having discussion with Arion
+		Having discussion with team (Nisha & Suman) for synopsis
+T	:	COSMOS-363 Need update structure of <div id="root" /> and <style />
+B	:	-
+
+20190918
+Y	:	Fix issue regarding development server down and failure login into vault.ieplsg.com server in local machine.
+		COSMOS-159 Documentation for Synopsis
+		COSMOS-363 Need update structure of <div id="root" /> and <style />
+T	:	Help Nisha fix issue running Synopsis-Client in her local machine
+		COSMOS-340 Fix issues with react-virtualized and the scroll and editor content
+		COSMOS-159 Documentation for Synopsis
+B	:	-
+
+20190919
+Y	:	Help Nisha fix issue running Synopsis-Client in her local machine
+		COSMOS-340 Fix issues with react-virtualized and the scroll and editor content
+		COSMOS-159 Documentation for Synopsis
+T	:	Discuss with Nisha for progress 
+		Discuss with Arion
+B	:	-
+
+20190920
+Y	:	Fix issue for Synopsis connecting using localhost database
+		Create Synopsis Develepment branch in my privat repository
+		COSMOS-364 Clean CSS in Products View
+T	:	Starting working development in privat repository
+		Having discussion with Arion
+B	:	-
+
+20190923
+Y	:	COSMOS-314 Logic Behind Multi Language Editor
+		COSMOS-313 Logic Behind Each Controller in Provision Product
+		COSMOS-444 Remove colour field to be near with id in the product table catalog
+		COSMOS-445 Clarification about Product Provision
+T	:	COSMOS-443 Change Table into Div Component in Product Editor
+		Having discussion with Arion
+B	:	-
+
+20190924
+Y	:	COSMOS-443 Change Table into Div Component in Product Editor
+		COSMOS-445 Clarification about Product Provision
+T	:	COSMOS-443 Change Table into Div Component in Product Editor
+		Having discussion with Arion
+B	:	-
+
+20190925
+Y	:	COSMOS-478 Fix Issue of Description Field Scrollable and Height Issue
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+T	:	COSMOS-502 CSS Decoration in Product Editor
+		Having discussion with Arion
+B	:	-
+
+20190926
+Y	:	COSMOS-502 CSS Decoration in Product Editor
+		COSMOS-443 Change Table into Div Component in Product Editor
+T	:	COSMOS-520 Update Synopsis Client based on new Schema Approach
+		COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
+		Having discussion with Arion and breakdown the task to be smaller subtask 
+B	:	-
+
+20190927
+Y	:	COSMOS-549 Add Official Price for [Panerai]
+		COSMOS-568 Add Detail Data for [Panerai]
+		COSMOS-578 Add Detail Data for [Longines]
+		COSMOS-559 Add Official Price for [Longines]
+		COSMOS-526 Add New Card for Feature Section in Synopsis Client
+T	:	COSMOS-551 Add Official Price for [Tag-Heuer]
+		COSMOS-552 Add Official Price for [Audemars-Piguet]
+		COSMOS-553 Add Official Price for [Breitling]
+		COSMOS-554 Add Official Price for [Oris]
+		COSMOS-570 Add Detail Data for [Tag-Heuer]
+		COSMOS-571 Add Detail Data for [Audemars-Piguet]
+		COSMOS-572 Add Detail Data for [Breitling]
+		COSMOS-573 Add Detail Data for [Oris]
+		Having discussion with Arion and breakdown the task to be smaller subtask 
+B	:	-
+
+20190930
+Y	:	COSMOS-570 Add Detail Data for [Tag-Heuer]
+		COSMOS-571 Add Detail Data for [Audemars-Piguet]
+		COSMOS-572 Add Detail Data for [Breitling]
+		COSMOS-551 Add Official Price for [Tag-Heuer]
+		COSMOS-552 Add Official Price for [Audemars-Piguet]
+		COSMOS-553 Add Official Price for [Breitling]
+T	:	Review PR and merge it in Synopsis-Scraper 
+		Testing and finishin the remain brand
+		Having discussion with Arion and breakdown the task to be smaller subtask 
 B	:	-
