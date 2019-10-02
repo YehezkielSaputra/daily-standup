@@ -6,3 +6,14 @@ Y	:	COSMOS-549 Add Official Price for [Panerai]
 T	:	Add detail data in Breitling brand
 		Review PR and Merged it
 B	:	-
+
+20191002
+Y	:	COSMOS-578 Add Detail Data for [Longines]
+		COSMOS-569 Add Detail Data for [Patek Philippe]
+		COSMOS-563 Add Detail Data for [Seiko]
+		COSMOS-574 Add Detail Data for [Casio]
+		COSMOS-553 Add Official Price for [Breitling]
+		COSMOS-575 Add Detail Data for [IWC]
+T	:	Add detail data in all remain brands
+		Review PR and Merged it
+B	:	-
