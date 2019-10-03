@@ -17,3 +17,13 @@ Y	:	COSMOS-578 Add Detail Data for [Longines]
 T	:	Add detail data in all remain brands
 		Review PR and Merged it
 B	:	-
+
+20191003
+Y	:	Add distillation class of scraper for Breitling brand.
+		Add distillation class of scraper for Hamilton brand.
+		Add distillation class of scraper for Longines brand.
+		Fix bug and issue indexing of scraper for some brands.
+		Review code and merge PR
+T	:	Add distillation class of scraper for remain brands.
+		Review PR and Merged it
+B	:	-
