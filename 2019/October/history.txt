@@ -27,3 +27,18 @@ Y	:	Add distillation class of scraper for Breitling brand.
 T	:	Add distillation class of scraper for remain brands.
 		Review PR and Merged it
 B	:	-
+
+20191004
+Y	:	Add distillation class of scraper for Omega brand.
+		Add distillation class of scraper for Panerai brand.
+		Add distillation class of scraper for Patek Philippe brand.
+		Add distillation class of scraper for Orient brand.
+		Add distillation class of scraper for Grand Seiko brand.
+		Add distillation class of scraper for Casio brand.
+		Review code and merge PR.
+T	:	Add distillation class of scraper for IWC brand.
+		Add distillation class of scraper for Jaeger Lecoultre brand.
+		Fix issue for breitling, casio, omega and panerai.
+		Fix issue for jaeger lecoultre and breitling.
+		Review code and merge PR
+B	:	-
