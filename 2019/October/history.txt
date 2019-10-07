@@ -42,3 +42,16 @@ T	:	Add distillation class of scraper for IWC brand.
 		Fix issue for jaeger lecoultre and breitling.
 		Review code and merge PR
 B	:	-
+
+20191007
+Y	:	Add distillation class of scraper for IWC brand.
+		Add distillation class of scraper for Jaeger Lecoultre brand.
+		Fix issue for Breitling, Casio, Omega and Panerai.
+		Fix issue for Jaeger Lecoultre and Breitling.
+		Review code and merge PR.
+T	:	Refactor fixing issue for Panerai
+		Fix issue for Breitling
+		Fix all missing property gender and collection in extraction class of all brands
+		Fix issue indexing for tag heuer brand
+		Review code and merge PR.
+B	:	-
