@@ -55,3 +55,15 @@ T	:	Refactor fixing issue for Panerai
 		Fix issue indexing for tag heuer brand
 		Review code and merge PR.
 B	:	-
+
+20191008
+Y	:	Refactor fixing issue for Panerai.
+		Fix issue for Breitling.
+		Fix issue missing property gender and collection in extraction class for all brands
+		Fix issue indexing for Tag Heuer brand
+		Review code and merge PR 
+T	:	Finishing fix issue brand Tag Heuer get scrap from json data
+		Finishing whole set for Audemars Piguet brand
+		Starting scrap for chopard brand
+		Review code and merge PR.
+B	:	-
