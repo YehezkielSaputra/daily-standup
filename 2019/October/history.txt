@@ -97,3 +97,15 @@ T	:	COSMOS-573 Add detail data for [Oris]
 		COSMOS-655 Prepare data dictionary of attribution data
 		COSMOS-656 Prepare major formats of data attribute that usually for corresponding atrribute 
 B	:	-
+
+20191011
+Y	:	COSMOS-573 Add detail data for [Oris]
+		COSMOS-554 Add official price for [Oris]
+		COSMOS-564 Add detail data for [Tudor]
+		COSMOS-539 Add detail data for products
+		COSMOS-538 Add official retail price for products
+		COSMOS-655 Prepare data dictionary of attribution data
+		COSMOS-656 Prepare major formats of data attribute that usually for corresponding atrribute 
+T	:	COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-695 Utilities NLP unit to process watch specs
+B	:	-
