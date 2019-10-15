@@ -115,3 +115,8 @@ Y	:	COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-C
 		COSMOS-695 Utilities NLP unit to process watch specs
 T	:	COSMOS-655 Prepare data dictionary of attribution data
 B	:	-
+
+20191015
+Y	:	COSMOS-655 Prepare data dictionary of attribution data
+T	:	COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute
+B	:	-
