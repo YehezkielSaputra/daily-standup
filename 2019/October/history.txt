@@ -109,3 +109,9 @@ Y	:	COSMOS-573 Add detail data for [Oris]
 T	:	COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
 		COSMOS-695 Utilities NLP unit to process watch specs
 B	:	-
+
+20191014
+Y	:	COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-695 Utilities NLP unit to process watch specs
+T	:	COSMOS-655 Prepare data dictionary of attribution data
+B	:	-
