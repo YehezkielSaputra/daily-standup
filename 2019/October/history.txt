@@ -120,3 +120,11 @@ B	:	-
 Y	:	COSMOS-655 Prepare data dictionary of attribution data
 T	:	COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute
 B	:	-
+
+20191016
+Y	:	COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute
+		COSMOS-658 Feel testing data to verify the NLP Processor extract data correctly
+T	:	COSMOS-654 Use NLP Unit to process Scraped Data instead of Individual Program
+		COSMOS-657 Implement NLP Processor for the classification of data
+		COSMOS-696 Enhance NLP Unit to use wth specific keywords
+B	:	-
