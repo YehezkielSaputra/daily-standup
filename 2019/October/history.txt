@@ -128,3 +128,11 @@ T	:	COSMOS-654 Use NLP Unit to process Scraped Data instead of Individual Progra
 		COSMOS-657 Implement NLP Processor for the classification of data
 		COSMOS-696 Enhance NLP Unit to use wth specific keywords
 B	:	-
+
+20191017
+Y	:	COSMOS-654 Use NLP Unit to process Scraped Data instead of Individual Program
+		COSMOS-657 Implement NLP Processor for the classification of data
+		COSMOS-696 Enhance NLP Unit to use wth specific keywords
+T	:	COSMOS-696 Enhance NLP Unit to use wth specific keywords
+B	:	-
+
