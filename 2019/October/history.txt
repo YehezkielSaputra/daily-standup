@@ -136,3 +136,9 @@ Y	:	COSMOS-654 Use NLP Unit to process Scraped Data instead of Individual Progra
 T	:	COSMOS-696 Enhance NLP Unit to use wth specific keywords
 B	:	-
 
+20191018
+Y	:	COSMOS-696 Enhance NLP Unit to use wth specific keywords
+T	:	COSMOS-695 Utilities NLP unit to process watch specs
+		COSMOS-767 Create List of Keywords of Watch Specs
+		COSMOS-781 Combining NLP Utilities with every each brand scraper to get data more digest
+B	:	-
