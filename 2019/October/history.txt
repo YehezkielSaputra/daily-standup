@@ -142,3 +142,13 @@ T	:	COSMOS-695 Utilities NLP unit to process watch specs
 		COSMOS-767 Create List of Keywords of Watch Specs
 		COSMOS-781 Combining NLP Utilities with every each brand scraper to get data more digest
 B	:	-
+
+20191021
+Y	:	COSMOS-695 Utilities NLP unit to process watch specs
+		COSMOS-767 Create List of Keywords of Watch Specs
+		COSMOS-781 Combining NLP Utilities with every each brand scraper to get data more digest
+T	:	COSMOS-781 Implement NLP for Audemars Piguet
+		COSMOS-788 Implement NLP for Breitling
+		COSMOS-791 Implement NLP for Chopard
+		COSMOS-795 Implement NLP for Citizen
+B	:	-
