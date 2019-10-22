@@ -152,3 +152,14 @@ T	:	COSMOS-781 Implement NLP for Audemars Piguet
 		COSMOS-791 Implement NLP for Chopard
 		COSMOS-795 Implement NLP for Citizen
 B	:	-
+
+20191022
+Y	:	COSMOS-781 Implement NLP for Audemars Piguet
+		COSMOS-788 Implement NLP for Breitling
+		COSMOS-791 Implement NLP for Chopard
+		COSMOS-795 Implement NLP for Citizen
+T	:	COSMOS-796 Implement NLP for Grand Seiko
+		COSMOS-803 Implement NLP for Hamilton
+		COSMOS-809 Implement NLP for IWC
+		COSMOS-812 Implement NLP for Jaegerlecoultre
+B	:	-
