@@ -163,3 +163,11 @@ T	:	COSMOS-796 Implement NLP for Grand Seiko
 		COSMOS-809 Implement NLP for IWC
 		COSMOS-812 Implement NLP for Jaegerlecoultre
 B	:	-
+
+20191023
+Y	:	COSMOS-796 Implement NLP for Grand Seiko
+		COSMOS-803 Implement NLP for Hamilton
+		COSMOS-809 Implement NLP for IWC
+		COSMOS-812 Implement NLP for Jaegerlecoultre
+T	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
+B	:	-
