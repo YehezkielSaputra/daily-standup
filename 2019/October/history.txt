@@ -171,3 +171,11 @@ Y	:	COSMOS-796 Implement NLP for Grand Seiko
 		COSMOS-812 Implement NLP for Jaegerlecoultre
 T	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
 B	:	-
+
+20191024
+Y	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
+T	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
+		COSMOS-834 Create New NLP Approach Using Entities Instead of Answer
+		COSMOS-833 Implement NLP for Longines
+		COSMOS-839 Implement NLP for Omega
+B	:	-
