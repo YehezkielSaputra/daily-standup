@@ -186,3 +186,13 @@ T	:	COSMOS-845 Implement NLP for Panerai
 		COSMOS-850 Implement NLP for Patek
 		COSMOS-853 Implement NLP for Panerai
 B	:	-
+
+20191030
+Y	:	COSMOS-845 Implement NLP for Panerai
+		COSMOS-850 Implement NLP for Patek
+		COSMOS-853 Implement NLP for Panerai
+T	:	COSMOS-858 Implement NLP for Rolex
+		COSMOS-859 Implement NLP for Seiko
+		COSMOS-862 Implement NLP for Tissot
+		COSMOS-863 Implement NLP for Tudor
+B	:	-
