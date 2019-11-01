@@ -1,9 +1,198 @@
-20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
-		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+20191001
+Y	:	COSMOS-549 Add Official Price for [Panerai]
+		COSMOS-559 Add Official Price for [Longines]
+		COSMOS-553 Add Official Price for [Breitling]
+		Review code and merge PR
+T	:	Add detail data in Breitling brand
+		Review PR and Merged it
+B	:	-
+
+20191002
+Y	:	COSMOS-578 Add Detail Data for [Longines]
+		COSMOS-569 Add Detail Data for [Patek Philippe]
+		COSMOS-563 Add Detail Data for [Seiko]
+		COSMOS-574 Add Detail Data for [Casio]
+		COSMOS-553 Add Official Price for [Breitling]
+		COSMOS-575 Add Detail Data for [IWC]
+T	:	Add detail data in all remain brands
+		Review PR and Merged it
+B	:	-
+
+20191003
+Y	:	Add distillation class of scraper for Breitling brand.
+		Add distillation class of scraper for Hamilton brand.
+		Add distillation class of scraper for Longines brand.
+		Fix bug and issue indexing of scraper for some brands.
+		Review code and merge PR
+T	:	Add distillation class of scraper for remain brands.
+		Review PR and Merged it
+B	:	-
+
+20191004
+Y	:	Add distillation class of scraper for Omega brand.
+		Add distillation class of scraper for Panerai brand.
+		Add distillation class of scraper for Patek Philippe brand.
+		Add distillation class of scraper for Orient brand.
+		Add distillation class of scraper for Grand Seiko brand.
+		Add distillation class of scraper for Casio brand.
+		Review code and merge PR.
+T	:	Add distillation class of scraper for IWC brand.
+		Add distillation class of scraper for Jaeger Lecoultre brand.
+		Fix issue for breitling, casio, omega and panerai.
+		Fix issue for jaeger lecoultre and breitling.
+		Review code and merge PR
+B	:	-
+
+20191007
+Y	:	Add distillation class of scraper for IWC brand.
+		Add distillation class of scraper for Jaeger Lecoultre brand.
+		Fix issue for Breitling, Casio, Omega and Panerai.
+		Fix issue for Jaeger Lecoultre and Breitling.
+		Review code and merge PR.
+T	:	Refactor fixing issue for Panerai
+		Fix issue for Breitling
+		Fix all missing property gender and collection in extraction class of all brands
+		Fix issue indexing for tag heuer brand
+		Review code and merge PR.
+B	:	-
+
+20191008
+Y	:	Refactor fixing issue for Panerai.
+		Fix issue for Breitling.
+		Fix issue missing property gender and collection in extraction class for all brands
+		Fix issue indexing for Tag Heuer brand
+		Review code and merge PR 
+T	:	Finishing fix issue brand Tag Heuer get scrap from json data
+		Finishing whole set for Audemars Piguet brand
+		Starting scrap for chopard brand
+		Review code and merge PR.
+B	:	-
+
+20191009
+Y	:	Finishing fix issue brand Tag Heuer get scrap from json data.
+		Finishing whole set for Audemars Piguet brand.
+		Starting scrap for chopard brand.
+T	:	COSMOS-644 Add detail data for [Chopard]
+		COSMOS-578 Add detail data for [Longines] - fix issue
+		COSMOS-572 Add detail data for [Breitling] - fix issue
+		COSMOS-563 Add detail data for [Seiko] - fix issue
+		Review code and merge PR.
+		COSMOS-655 Prepare data dictionary of attribution data.
+		COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute.
+B	:	-
+
+20191010
+Y	:	COSMOS-644 Add detail data for [Chopard]
+		COSMOS-578 Add detail data for [Longines] - fix issue
+		COSMOS-572 Add detail data for [Breitling] - fix issue
+		COSMOS-563 Add detail data for [Seiko] - fix issue
+		Review code and merge PR.
+		COSMOS-655 Prepare data dictionary of attribution data.
+		COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute.
+T	:	COSMOS-573 Add detail data for [Oris]
+		COSMOS-554 Add official price for [Oris]
+		COSMOS-564 Add detail data for [Tudor]
+		COSMOS-539 Add detail data for products
+		COSMOS-538 Add official retail price for products
+		COSMOS-655 Prepare data dictionary of attribution data
+		COSMOS-656 Prepare major formats of data attribute that usually for corresponding atrribute 
+B	:	-
+
+20191011
+Y	:	COSMOS-573 Add detail data for [Oris]
+		COSMOS-554 Add official price for [Oris]
+		COSMOS-564 Add detail data for [Tudor]
+		COSMOS-539 Add detail data for products
+		COSMOS-538 Add official retail price for products
+		COSMOS-655 Prepare data dictionary of attribution data
+		COSMOS-656 Prepare major formats of data attribute that usually for corresponding atrribute 
+T	:	COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-695 Utilities NLP unit to process watch specs
+B	:	-
+
+20191014
+Y	:	COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-695 Utilities NLP unit to process watch specs
+T	:	COSMOS-655 Prepare data dictionary of attribution data
+B	:	-
+
+20191015
+Y	:	COSMOS-655 Prepare data dictionary of attribution data
+T	:	COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute
+B	:	-
+
+20191016
+Y	:	COSMOS-656 Prepare major formats of data attribute that usually for corresponding attribute
+		COSMOS-658 Feel testing data to verify the NLP Processor extract data correctly
+T	:	COSMOS-654 Use NLP Unit to process Scraped Data instead of Individual Program
+		COSMOS-657 Implement NLP Processor for the classification of data
+		COSMOS-696 Enhance NLP Unit to use wth specific keywords
+B	:	-
+
+20191017
+Y	:	COSMOS-654 Use NLP Unit to process Scraped Data instead of Individual Program
+		COSMOS-657 Implement NLP Processor for the classification of data
+		COSMOS-696 Enhance NLP Unit to use wth specific keywords
+T	:	COSMOS-696 Enhance NLP Unit to use wth specific keywords
+B	:	-
+
+20191018
+Y	:	COSMOS-696 Enhance NLP Unit to use wth specific keywords
+T	:	COSMOS-695 Utilities NLP unit to process watch specs
+		COSMOS-767 Create List of Keywords of Watch Specs
+		COSMOS-781 Combining NLP Utilities with every each brand scraper to get data more digest
+B	:	-
+
+20191021
+Y	:	COSMOS-695 Utilities NLP unit to process watch specs
+		COSMOS-767 Create List of Keywords of Watch Specs
+		COSMOS-781 Combining NLP Utilities with every each brand scraper to get data more digest
+T	:	COSMOS-781 Implement NLP for Audemars Piguet
+		COSMOS-788 Implement NLP for Breitling
+		COSMOS-791 Implement NLP for Chopard
+		COSMOS-795 Implement NLP for Citizen
+B	:	-
+
+20191022
+Y	:	COSMOS-781 Implement NLP for Audemars Piguet
+		COSMOS-788 Implement NLP for Breitling
+		COSMOS-791 Implement NLP for Chopard
+		COSMOS-795 Implement NLP for Citizen
+T	:	COSMOS-796 Implement NLP for Grand Seiko
+		COSMOS-803 Implement NLP for Hamilton
+		COSMOS-809 Implement NLP for IWC
+		COSMOS-812 Implement NLP for Jaegerlecoultre
+B	:	-
+
+20191023
+Y	:	COSMOS-796 Implement NLP for Grand Seiko
+		COSMOS-803 Implement NLP for Hamilton
+		COSMOS-809 Implement NLP for IWC
+		COSMOS-812 Implement NLP for Jaegerlecoultre
+T	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
+B	:	-
+
+20191024
+Y	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
+T	:	COSMOS-816 Analyse Pro Cons Using NLP Processor for Scraping
+		COSMOS-834 Create New NLP Approach Using Entities Instead of Answer
+		COSMOS-833 Implement NLP for Longines
+		COSMOS-839 Implement NLP for Omega
+B	:	-
+
+20191029
+Y	:	Deepavali Public Holiday
+T	:	COSMOS-845 Implement NLP for Panerai
+		COSMOS-850 Implement NLP for Patek
+		COSMOS-853 Implement NLP for Panerai
+B	:	-
+
+20191030
+Y	:	COSMOS-845 Implement NLP for Panerai
+		COSMOS-850 Implement NLP for Patek
+		COSMOS-853 Implement NLP for Panerai
+T	:	COSMOS-858 Implement NLP for Rolex
+		COSMOS-859 Implement NLP for Seiko
+		COSMOS-862 Implement NLP for Tissot
+		COSMOS-863 Implement NLP for Tudor
 B	:	-
