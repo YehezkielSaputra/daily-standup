@@ -1,9 +1,9 @@
-20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
-		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+20191101
+Y	:	COSMOS-865 Refactor and Implement NLP for Hublot
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		COSMOS-863 Implement NLP for Tudor
+		Fixing minor issue for some brands.
+T	:	COSMOS-869 Create Indexing, Extraction and Distillation with NLP for AboutVintage brand
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		Fixing minor issue make reference number correctly for Tissot, Longines and Hamilton
 B	:	-
