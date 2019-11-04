@@ -7,3 +7,14 @@ T	:	COSMOS-869 Create Indexing, Extraction and Distillation with NLP for AboutVi
 		COSMOS-864 Refactor and Implement NLP for Glashuette
 		Fixing minor issue make reference number correctly for Tissot, Longines and Hamilton
 B	:	-
+
+20191104
+Y	:	COSMOS-869 Create Indexing, Extraction and Distillation with NLP for AboutVintage brand
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		Fixing minor issue make reference number correctly for Tissot, Longines and Hamilton
+T	:	Fix issue for Chopard brand.
+		Enhance for NLP Unit.
+		Fix minor issue on error handler.
+		Fix issue with undefined / null result for whole brands.
+		Create scaffolding for all remain brands.
+B	:	-
