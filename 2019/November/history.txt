@@ -18,3 +18,14 @@ T	:	Fix issue for Chopard brand.
 		Fix issue with undefined / null result for whole brands.
 		Create scaffolding for all remain brands.
 B	:	-
+
+20191105
+Y	:	Fix issue for Chopard brand.
+		Enhance for NLP Unit.
+		Fix minor issue on error handler.
+		Fix issue with undefined / null result for whole brands.
+		Create scaffolding for all remain brands.
+T	:	Create new class for handling get color using NLP
+		Implement get color using NLP for whole brands
+		Create indexing, extraction and distillation class for Vacheron Constantin brand.
+B	:	-
