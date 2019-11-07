@@ -39,3 +39,11 @@ T	:	COSMOS-873 Create Indexing, Extraction and Distillation with NLP for Vachero
 		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
 B	:	-
 
+20191107
+Y	:	COSMOS-873 Create Indexing, Extraction and Distillation with NLP for Vacheron Constantin brand
+		COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+T	:	COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-884 Create Scraper (Indexing, Extraction & Distillation) for Jomashop
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+B	:	-
