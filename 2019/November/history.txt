@@ -29,3 +29,13 @@ T	:	Create new class for handling get color using NLP
 		Implement get color using NLP for whole brands
 		Create indexing, extraction and distillation class for Vacheron Constantin brand.
 B	:	-
+
+20191106
+Y	:	Create new class for handling get color using NLP
+		Implement get color using NLP for whole brands
+		Create indexing, extraction and distillation class for Vacheron Constantin brand.
+T	:	COSMOS-873 Create Indexing, Extraction and Distillation with NLP for Vacheron Constantin brand
+		COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+B	:	-
+
