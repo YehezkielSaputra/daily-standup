@@ -47,3 +47,12 @@ T	:	COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier
 		COSMOS-884 Create Scraper (Indexing, Extraction & Distillation) for Jomashop
 		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
 B	:	-
+
+20191108
+Y	:	COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-884 Create Scraper (Indexing, Extraction & Distillation) for Jomashop
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+T	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-887 Create Scraper for Prestigetime
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+B	:	-
