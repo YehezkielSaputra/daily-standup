@@ -56,3 +56,12 @@ T	:	COSMOS-888 Create Scraper for Watchmax
 		COSMOS-887 Create Scraper for Prestigetime
 		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
 B	:	-
+
+20191111
+Y	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-887 Create Scraper for Prestigetime
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+T	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		Fix issue with Jomashop (Remove onlyUnique function)
+B	:	-
