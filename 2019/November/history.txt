@@ -65,3 +65,12 @@ T	:	COSMOS-888 Create Scraper for Watchmax
 		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
 		Fix issue with Jomashop (Remove onlyUnique function)
 B	:	-
+
+20191112
+Y	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		Fix issue with Jomashop (Remove onlyUnique function)
+T	:	COSMOS-903 Fix issue with Longines Handle Page More Than 1 Page Scraping
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+B	:	-
