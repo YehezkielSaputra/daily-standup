@@ -74,3 +74,13 @@ T	:	COSMOS-903 Fix issue with Longines Handle Page More Than 1 Page Scraping
 		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
 		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
 B	:	-
+
+20191113
+Y	:	COSMOS-903 Fix issue with Longines Handle Page More Than 1 Page Scraping
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+T	:	COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+		COSMOS-913 Create Scraper (Indexing, Extraction & Distillation) for Nomos Glashuette
+		COSMOS-920 Create Scraper (Indexing, Extraction & Distillation) for Piaget
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+B	:	-
