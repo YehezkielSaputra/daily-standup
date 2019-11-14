@@ -84,3 +84,14 @@ T	:	COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice 
 		COSMOS-920 Create Scraper (Indexing, Extraction & Distillation) for Piaget
 		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
 B	:	-
+
+20191114
+Y	:	COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+		COSMOS-913 Create Scraper (Indexing, Extraction & Distillation) for Nomos Glashuette
+		COSMOS-920 Create Scraper (Indexing, Extraction & Distillation) for Piaget
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+T	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-910 Create Scraper (Indexing, Extraction & Distillation) for Girard Perregaux
+		COSMOS-924 Remove NLP process in Distillation
+		COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+B	:	-
