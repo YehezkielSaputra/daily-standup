@@ -95,3 +95,14 @@ T	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Mil
 		COSMOS-924 Remove NLP process in Distillation
 		COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
 B	:	-
+
+20191115
+Y	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-910 Create Scraper (Indexing, Extraction & Distillation) for Girard Perregaux
+		COSMOS-924 Remove NLP process in Distillation
+		COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+T	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-907 Create Scraper (Indexing, Extraction & Distillation) for Breguet
+		COSMOS-906 Create Scraper (Indexing, Extraction & Distillation) for Blancpain
+		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
+B	:	-
