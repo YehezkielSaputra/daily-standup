@@ -118,3 +118,14 @@ T	:	COSMOS-947 Identify Brand that need Puppeteer Library
 		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
 		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
 B	:	-
+
+20191119
+Y	:	COSMOS-947 Identify Brand that need Puppeteer Library
+		COSMOS-915 Create Scraper (Indexing, Extraction & Distillation) for Rado
+		COSMOS-905 Create Scraper (Indexing, Extraction & Distillation) for Bellross
+		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+T	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-912 Create Scraper (Indexing, Extraction & Distillation) for Montblanc
+		COSMOS-914 Create Scraper (Indexing, Extraction & Distillation) for Parmigiani
+B	:	-
