@@ -129,3 +129,14 @@ T	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vi
 		COSMOS-912 Create Scraper (Indexing, Extraction & Distillation) for Montblanc
 		COSMOS-914 Create Scraper (Indexing, Extraction & Distillation) for Parmigiani
 B	:	-
+
+20191120
+Y	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-912 Create Scraper (Indexing, Extraction & Distillation) for Montblanc
+		COSMOS-914 Create Scraper (Indexing, Extraction & Distillation) for Parmigiani
+T	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-908 Create Scraper (Indexing, Extraction & Distillation) for Bulgari
+		Deploy synopsis scraper in development server
+B	:	-
