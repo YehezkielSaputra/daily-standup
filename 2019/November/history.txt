@@ -140,3 +140,16 @@ T	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vi
 		COSMOS-908 Create Scraper (Indexing, Extraction & Distillation) for Bulgari
 		Deploy synopsis scraper in development server
 B	:	-
+
+20191121
+Y	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-908 Create Scraper (Indexing, Extraction & Distillation) for Bulgari
+		Deploy synopsis scraper in development server
+T	:	COSMOS-979 Deploy Synopsis-Server into Development Server
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-980 Deploy Synopsis-Client into Development Server
+		COSMOS-924 Remove NLP process in Distillation
+B	:	-
