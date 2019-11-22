@@ -153,3 +153,14 @@ T	:	COSMOS-979 Deploy Synopsis-Server into Development Server
 		COSMOS-980 Deploy Synopsis-Client into Development Server
 		COSMOS-924 Remove NLP process in Distillation
 B	:	-
+
+20191122
+Y	:	COSMOS-979 Deploy Synopsis-Server into Development Server
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-980 Deploy Synopsis-Client into Development Server
+		COSMOS-924 Remove NLP process in Distillation
+T	:	COSMOS-924 Remove NLP process in Distillation
+		Fix issue with deployment of Synopsis-Server in Development Server
+		Deploy and testing Synopsis Scraper in Development Server
+B	:	-
