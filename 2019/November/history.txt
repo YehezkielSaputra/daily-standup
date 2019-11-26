@@ -174,3 +174,13 @@ T	:	Take a half day leave
 		COSMOS-990 Deployment Synopsis-Scraper with Tag Version 0.1.7
 		Testing Deployment Collector B
 B	:	-
+
+20191126
+Y	:	Take a half day leave
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-990 Deployment Synopsis-Scraper with Tag Version 0.1.7
+		Testing Deployment Collector B
+T	:	COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		Testing Deployment Collector B
+B	:	-
