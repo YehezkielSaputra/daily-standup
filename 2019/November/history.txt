@@ -196,7 +196,7 @@ B	:	-
 20191128
 Y	:	Birthday Leave
 		Collecting renewal passport
-T	:	COSMOS-981 Create Documentation for Deployment in Server
+T	:	COSMOS-981 Review All Open Pull Request and Clean Branches for Synopsis-Server
 		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
 		COSMOS-1011 Deploy Synopsis
 B	:	-
