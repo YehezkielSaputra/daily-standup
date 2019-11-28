@@ -184,3 +184,19 @@ T	:	COSMOS-978 Create Documentation for Deployment in Server
 		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
 		Testing Deployment Collector B
 B	:	-
+
+20191127
+Y	:	COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		Testing Deployment Collector B
+T	:	Birthday Leave
+		Collecting renewal passport
+B	:	-
+
+20191128
+Y	:	Birthday Leave
+		Collecting renewal passport
+T	:	COSMOS-981 Create Documentation for Deployment in Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-1011 Deploy Synopsis
+B	:	-
