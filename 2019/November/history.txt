@@ -200,3 +200,14 @@ T	:	COSMOS-981 Review All Open Pull Request and Clean Branches for Synopsis-Serv
 		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
 		COSMOS-1011 Deploy Synopsis
 B	:	-
+
+20191129
+Y	:	COSMOS-981 Review All Open Pull Request and Clean Branches for Synopsis-Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-1011 Deploy Synopsis
+T	:	COSMOS-539 Add Detail Data for Products
+		COSMOS-537 Fill in data for Product Catalog
+		COSMOS-575 Add Detail Data for [IWC]
+		COSMOS-561 Add Detail Data for [Omega]
+B	:	-
+
