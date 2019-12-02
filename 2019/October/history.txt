@@ -196,3 +196,14 @@ T	:	COSMOS-858 Implement NLP for Rolex
 		COSMOS-862 Implement NLP for Tissot
 		COSMOS-863 Implement NLP for Tudor
 B	:	-
+
+20191031
+Y	:	COSMOS-858 Implement NLP for Rolex
+		COSMOS-859 Implement NLP for Seiko
+		COSMOS-862 Implement NLP for Tissot
+		COSMOS-863 Implement NLP for Tudor
+T	:	COSMOS-865 Refactor and Implement NLP for Hublot
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		COSMOS-863 Implement NLP for Tudor
+		Fixing minor issue for some brands.
+B	:	-

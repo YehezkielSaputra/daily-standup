@@ -1,9 +1,213 @@
-20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
-		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+20191101
+Y	:	COSMOS-865 Refactor and Implement NLP for Hublot
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		COSMOS-863 Implement NLP for Tudor
+		Fixing minor issue for some brands.
+T	:	COSMOS-869 Create Indexing, Extraction and Distillation with NLP for AboutVintage brand
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		Fixing minor issue make reference number correctly for Tissot, Longines and Hamilton
 B	:	-
+
+20191104
+Y	:	COSMOS-869 Create Indexing, Extraction and Distillation with NLP for AboutVintage brand
+		COSMOS-864 Refactor and Implement NLP for Glashuette
+		Fixing minor issue make reference number correctly for Tissot, Longines and Hamilton
+T	:	Fix issue for Chopard brand.
+		Enhance for NLP Unit.
+		Fix minor issue on error handler.
+		Fix issue with undefined / null result for whole brands.
+		Create scaffolding for all remain brands.
+B	:	-
+
+20191105
+Y	:	Fix issue for Chopard brand.
+		Enhance for NLP Unit.
+		Fix minor issue on error handler.
+		Fix issue with undefined / null result for whole brands.
+		Create scaffolding for all remain brands.
+T	:	Create new class for handling get color using NLP
+		Implement get color using NLP for whole brands
+		Create indexing, extraction and distillation class for Vacheron Constantin brand.
+B	:	-
+
+20191106
+Y	:	Create new class for handling get color using NLP
+		Implement get color using NLP for whole brands
+		Create indexing, extraction and distillation class for Vacheron Constantin brand.
+T	:	COSMOS-873 Create Indexing, Extraction and Distillation with NLP for Vacheron Constantin brand
+		COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+B	:	-
+
+20191107
+Y	:	COSMOS-873 Create Indexing, Extraction and Distillation with NLP for Vacheron Constantin brand
+		COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+T	:	COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-884 Create Scraper (Indexing, Extraction & Distillation) for Jomashop
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+B	:	-
+
+20191108
+Y	:	COSMOS-874 Create Indexing, Extraction and Distillation with NLP for Cartier brand
+		COSMOS-884 Create Scraper (Indexing, Extraction & Distillation) for Jomashop
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+T	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-887 Create Scraper for Prestigetime
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+B	:	-
+
+20191111
+Y	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-887 Create Scraper for Prestigetime
+		COSMOS-871 Create Indexing, Extraction and Distillation with NLP for Gucci brand
+T	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		Fix issue with Jomashop (Remove onlyUnique function)
+B	:	-
+
+20191112
+Y	:	COSMOS-888 Create Scraper for Watchmax
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		Fix issue with Jomashop (Remove onlyUnique function)
+T	:	COSMOS-903 Fix issue with Longines Handle Page More Than 1 Page Scraping
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+B	:	-
+
+20191113
+Y	:	COSMOS-903 Fix issue with Longines Handle Page More Than 1 Page Scraping
+		COSMOS-872 Create Indexing, Extraction and Distillation with NLP for Hermes brand
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+T	:	COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+		COSMOS-913 Create Scraper (Indexing, Extraction & Distillation) for Nomos Glashuette
+		COSMOS-920 Create Scraper (Indexing, Extraction & Distillation) for Piaget
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+B	:	-
+
+20191114
+Y	:	COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+		COSMOS-913 Create Scraper (Indexing, Extraction & Distillation) for Nomos Glashuette
+		COSMOS-920 Create Scraper (Indexing, Extraction & Distillation) for Piaget
+		COSMOS-916 Create Scraper (Indexing, Extraction & Distillation) for Seven Friday
+T	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-910 Create Scraper (Indexing, Extraction & Distillation) for Girard Perregaux
+		COSMOS-924 Remove NLP process in Distillation
+		COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+B	:	-
+
+20191115
+Y	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-910 Create Scraper (Indexing, Extraction & Distillation) for Girard Perregaux
+		COSMOS-924 Remove NLP process in Distillation
+		COSMOS-911 Create Scraper (Indexing, Extraction & Distillation) for Maurice Lacroix
+T	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-907 Create Scraper (Indexing, Extraction & Distillation) for Breguet
+		COSMOS-906 Create Scraper (Indexing, Extraction & Distillation) for Blancpain
+		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
+B	:	-
+
+20191118
+Y	:	COSMOS-909 Create Scraper (Indexing, Extraction & Distillation) for Gaga Milano
+		COSMOS-907 Create Scraper (Indexing, Extraction & Distillation) for Breguet
+		COSMOS-906 Create Scraper (Indexing, Extraction & Distillation) for Blancpain
+		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
+T	:	COSMOS-947 Identify Brand that need Puppeteer Library
+		COSMOS-915 Create Scraper (Indexing, Extraction & Distillation) for Rado
+		COSMOS-905 Create Scraper (Indexing, Extraction & Distillation) for Bellross
+		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+B	:	-
+
+20191119
+Y	:	COSMOS-947 Identify Brand that need Puppeteer Library
+		COSMOS-915 Create Scraper (Indexing, Extraction & Distillation) for Rado
+		COSMOS-905 Create Scraper (Indexing, Extraction & Distillation) for Bellross
+		COSMOS-917 Create Scraper (Indexing, Extraction & Distillation) for Ulysee
+		COSMOS-870 Create Indexing, Extraction and Distillation with NLP for Chanel brand
+T	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-912 Create Scraper (Indexing, Extraction & Distillation) for Montblanc
+		COSMOS-914 Create Scraper (Indexing, Extraction & Distillation) for Parmigiani
+B	:	-
+
+20191120
+Y	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-912 Create Scraper (Indexing, Extraction & Distillation) for Montblanc
+		COSMOS-914 Create Scraper (Indexing, Extraction & Distillation) for Parmigiani
+T	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-908 Create Scraper (Indexing, Extraction & Distillation) for Bulgari
+		Deploy synopsis scraper in development server
+B	:	-
+
+20191121
+Y	:	COSMOS-904 Create Scraper (Indexing, Extraction & Distillation) for About Vintage
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-908 Create Scraper (Indexing, Extraction & Distillation) for Bulgari
+		Deploy synopsis scraper in development server
+T	:	COSMOS-979 Deploy Synopsis-Server into Development Server
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-980 Deploy Synopsis-Client into Development Server
+		COSMOS-924 Remove NLP process in Distillation
+B	:	-
+
+20191122
+Y	:	COSMOS-979 Deploy Synopsis-Server into Development Server
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-975 Create Scraper for Jaquet Droz (Indexing, Extraction & Distillation)
+		COSMOS-980 Deploy Synopsis-Client into Development Server
+		COSMOS-924 Remove NLP process in Distillation
+T	:	COSMOS-924 Remove NLP process in Distillation
+		Fix issue with deployment of Synopsis-Server in Development Server
+		Deploy and testing Synopsis Scraper in Development Server
+B	:	-
+
+20191125
+Y	:	COSMOS-924 Remove NLP process in Distillation
+		Fix issue with deployment of Synopsis-Server in Development Server
+		Deploy and testing Synopsis Scraper in Development Server
+T	:	Take a half day leave
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-990 Deployment Synopsis-Scraper with Tag Version 0.1.7
+		Testing Deployment Collector B
+B	:	-
+
+20191126
+Y	:	Take a half day leave
+		COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-990 Deployment Synopsis-Scraper with Tag Version 0.1.7
+		Testing Deployment Collector B
+T	:	COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		Testing Deployment Collector B
+B	:	-
+
+20191127
+Y	:	COSMOS-978 Create Documentation for Deployment in Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		Testing Deployment Collector B
+T	:	Birthday Leave
+		Collecting renewal passport
+B	:	-
+
+20191128
+Y	:	Birthday Leave
+		Collecting renewal passport
+T	:	COSMOS-981 Review All Open Pull Request and Clean Branches for Synopsis-Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-1011 Deploy Synopsis
+B	:	-
+
+20191129
+Y	:	COSMOS-981 Review All Open Pull Request and Clean Branches for Synopsis-Server
+		COSMOS-472 Review All Open Pull Request and Clean the Branches in Synopsis-Client
+		COSMOS-1011 Deploy Synopsis
+T	:	COSMOS-539 Add Detail Data for Products
+		COSMOS-537 Fill in data for Product Catalog
+		COSMOS-575 Add Detail Data for [IWC]
+		COSMOS-561 Add Detail Data for [Omega]
+B	:	-
+
