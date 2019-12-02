@@ -1,9 +1,10 @@
-20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
-		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+20191202
+Y	:	COSMOS-539 Add Detail Data for Products
+		COSMOS-537 Fill in data for Product Catalog
+		COSMOS-575 Add Detail Data for [IWC]
+		COSMOS-561 Add Detail Data for [Omega]
+T	:	COSMOS-1054 Bump version 2.2.9 for Synopsis-Server and Update Code and Deployment
+		COSMOS-1053 Bump version 2.2.3 for Synopsis-Client and Update Code and Deployment
+		COSMOS-978 Create Documentation for Deployment in Server
+		Demo for testing Synopsis Scraper for Chanel brand
 B	:	-
