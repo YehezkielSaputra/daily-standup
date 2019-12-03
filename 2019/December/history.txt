@@ -8,3 +8,15 @@ T	:	COSMOS-1054 Bump version 2.2.9 for Synopsis-Server and Update Code and Deplo
 		COSMOS-978 Create Documentation for Deployment in Server
 		Demo for testing Synopsis Scraper for Chanel brand
 B	:	-
+
+20191203
+Y	:	COSMOS-1054 Bump version 2.2.9 for Synopsis-Server and Update Code and Deployment
+		COSMOS-1053 Bump version 2.2.3 for Synopsis-Client and Update Code and Deployment
+		COSMOS-978 Create Documentation for Deployment in Server
+		Demo for testing Synopsis Scraper for Chanel brand
+T	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+B	:	-
