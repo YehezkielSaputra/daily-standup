@@ -20,3 +20,17 @@ T	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederi
 		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
 		COSMOS-1060 Run Scraper for Jomashop in Development Server
 B	:	-
+
+20191204
+Y	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+T	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+		Running ScraperB & CollectorB for Jomashop in Development Server
+B	:	-
