@@ -47,3 +47,13 @@ T	:	COSMOS-1075 Documentation Parameter Input for Running Scraper Indexing for W
 		COSMOS-1077 Get Familiar with Production Server
 		COSMOS-978 Documentation for Deployment in Server
 B	:	-
+
+20191206
+Y	:	COSMOS-1075 Documentation Parameter Input for Running Scraper Indexing for Whole Brands Through RabbitMQ
+		COSMOS-1074 Documentation Brand & Brand ID for All brands
+		COSMOS-1077 Get Familiar with Production Server
+		COSMOS-978 Documentation for Deployment in Server
+T	:	COSMOS-1078 Create Documentation Deployment in Production Server
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1077 Get Familiar with Production Server
+B	:	-
