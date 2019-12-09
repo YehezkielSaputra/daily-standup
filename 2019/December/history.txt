@@ -57,3 +57,15 @@ T	:	COSMOS-1078 Create Documentation Deployment in Production Server
 		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
 		COSMOS-1077 Get Familiar with Production Server
 B	:	-
+
+20191209
+Y	:	COSMOS-1078 Create Documentation Deployment in Production Server
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1077 Get Familiar with Production Server
+T	:	COSMOS-1087 Testing for deployed unit
+		COSMOS-1083 Deployment of Scrapers to Production
+		COSMOS-1085 Deploy URL collector B
+		COSMOS-1084 Deploy Scrape Engine B
+		COSMOS-1086 Deploy Strategies
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+B	:	-
