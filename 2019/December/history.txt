@@ -82,3 +82,32 @@ T	:	COSMOS-1087 Testing for deployed unit
 		COSMOS-1078 Create Documentation Deployment in Production Server
 		Fixed issue with connection to Production Database
 B	:	-
+
+20191211
+Y	:	COSMOS-1087 Testing for deployed unit
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Fixed issue with connection to Production Database
+T	:	COSMOS-1090 Source Flag in Indexing For Whole Brands
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Update Deployment Synopsis Scraper both in Development Server & Production 
+		since new requirement for source flag
+		Update Synopsis Client & Server for API v2 
+		Review PR and Merged
+B	:	-
+
+20191212
+Y	:	COSMOS-1090 Source Flag in Indexing For Whole Brands
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Update Deployment Synopsis Scraper both in Development Server & Production 
+		since new requirement for source flag
+		Update Synopsis Client & Server for API v2 
+		Review PR and Merged
+T	:	COSMOS-1087 Testing for deployed unit
+		Create hotfix 2.3.1 for Synopsis Client and Server
+		Update Deployment Synopsis both in Development Server & Production 
+		regarding update url API address from v1 version to v2 version
+		Testing and fix issue regarding deployment
+B	:	-
