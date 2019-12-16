@@ -111,3 +111,10 @@ T	:	COSMOS-1087 Testing for deployed unit
 		regarding update url API address from v1 version to v2 version
 		Testing and fix issue regarding deployment
 B	:	-
+
+20191216
+Y	:	Take MC
+T	:	Testing Synopsis Scraper B for Jomashop in Development Server
+		Testing is the data has been inserted info Delevopment Server Database
+		Checking the difference new schema and previous schema
+B	:	-
