@@ -119,7 +119,7 @@ T	:	Testing Synopsis Scraper B for Jomashop in Development Server
 		Checking the difference new schema and previous schema
 B	:	-
 
-20191216
+20191217
 Y	:	Testing Synopsis Scraper B for Jomashop in Development Server
 		Testing is the data has been inserted info Delevopment Server Database
 		Checking the difference new schema and previous schema
