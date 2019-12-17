@@ -118,3 +118,13 @@ T	:	Testing Synopsis Scraper B for Jomashop in Development Server
 		Testing is the data has been inserted info Delevopment Server Database
 		Checking the difference new schema and previous schema
 B	:	-
+
+20191216
+Y	:	Testing Synopsis Scraper B for Jomashop in Development Server
+		Testing is the data has been inserted info Delevopment Server Database
+		Checking the difference new schema and previous schema
+T	:	COSMOS-1128 Running Indexing Class for All brands in Production Server
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1135 Issue Run Scraper in Production Environment
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+B	:	-
