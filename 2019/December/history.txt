@@ -139,3 +139,14 @@ T	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
 		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
 		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
 B	:	-
+
+20191223
+Y	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+T	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		COSMOS-1183 It shows two title bar for the detail editor screen
+		Create Documentation
+		Create PR and Merged
+B	:	-
