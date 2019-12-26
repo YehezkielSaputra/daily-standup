@@ -140,13 +140,53 @@ T	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
 		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
 B	:	-
 
-20191223
+20191219
 Y	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
 		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
 		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
 		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+T	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+B	:	-
+
+20191220
+Y	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+T	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1183 It shows two title bar for the detail editor screen
+B	:	-
+
+20191223
+Y	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1183 It shows two title bar for the detail editor screen
 T	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
 		COSMOS-1183 It shows two title bar for the detail editor screen
 		Create Documentation
 		Create PR and Merged
+B	:	-
+
+20191224
+Y	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+T	:	Half Day for Christmas Eve till 16.00
+		COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		Create documentation for DOC
+		Create PR and Merged for Synopsis Server & Client
+		Deploy Synopsis in Development Server
+B	:	-
+
+20191226
+Y	:	Half Day for Christmas Eve till 16.00
+		COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		Create documentation for DOC
+		Create PR and Merged for Synopsis Server & Client
+		Deploy Synopsis in Development Server
+T	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		COSMOS-1184 It cannot show the information of difference or usage of the editorial and marketing
+		COSMOS-1185 Need to have description of what is revised product
+		COSMOS-1186 Need to have information of what is products without description
+		Create Documentation Synopsis ERD
+		Create Documentation Synopsis Sequence Diagram
 B	:	-
