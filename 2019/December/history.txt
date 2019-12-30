@@ -190,3 +190,22 @@ T	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
 		Create Documentation Synopsis ERD
 		Create Documentation Synopsis Sequence Diagram
 B	:	-
+
+20191227
+Y	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		COSMOS-1184 It cannot show the information of difference or usage of the editorial and marketing
+		COSMOS-1185 Need to have description of what is revised product
+		COSMOS-1186 Need to have information of what is products without description
+		Create Documentation Synopsis ERD
+		Create Documentation Synopsis Sequence Diagram
+T	:	Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+B	:	-
+
+20191227
+Y	:	Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+T	:	Having discussion with Arion about GraphQL, Resolver and Database
+		Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+B	:	-
