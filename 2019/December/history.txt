@@ -202,7 +202,7 @@ T	:	Create documentation for Synopsis Sequence Diagram
 		Create documentation for Synopsis ERD
 B	:	-
 
-20191227
+20191230
 Y	:	Create documentation for Synopsis Sequence Diagram
 		Create documentation for Synopsis ERD
 T	:	Having discussion with Arion about GraphQL, Resolver and Database
