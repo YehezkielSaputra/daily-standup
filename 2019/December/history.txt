@@ -209,3 +209,12 @@ T	:	Having discussion with Arion about GraphQL, Resolver and Database
 		Create documentation for Synopsis Sequence Diagram
 		Create documentation for Synopsis ERD
 B	:	-
+
+20191231
+Y	:	Having discussion with Arion about GraphQL, Resolver and Database
+		Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+T	:	Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server 
+B	:	-
