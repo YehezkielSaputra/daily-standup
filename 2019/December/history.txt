@@ -1,9 +1,220 @@
-20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
-		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+20191202
+Y	:	COSMOS-539 Add Detail Data for Products
+		COSMOS-537 Fill in data for Product Catalog
+		COSMOS-575 Add Detail Data for [IWC]
+		COSMOS-561 Add Detail Data for [Omega]
+T	:	COSMOS-1054 Bump version 2.2.9 for Synopsis-Server and Update Code and Deployment
+		COSMOS-1053 Bump version 2.2.3 for Synopsis-Client and Update Code and Deployment
+		COSMOS-978 Create Documentation for Deployment in Server
+		Demo for testing Synopsis Scraper for Chanel brand
+B	:	-
+
+20191203
+Y	:	COSMOS-1054 Bump version 2.2.9 for Synopsis-Server and Update Code and Deployment
+		COSMOS-1053 Bump version 2.2.3 for Synopsis-Client and Update Code and Deployment
+		COSMOS-978 Create Documentation for Deployment in Server
+		Demo for testing Synopsis Scraper for Chanel brand
+T	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+B	:	-
+
+20191204
+Y	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+T	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+		Running ScraperB & CollectorB for Jomashop in Development Server
+B	:	-
+
+20191205
+Y	:	COSMOS-1059 Create Scraper (Indexing, Extraction & Distillation) for Frederique Constant
+		COSMOS-1056 Testing Deployment Scraper in Development Server & Change Code for CollectorB.ts
+		COSMOS-1055 Testing Deployment Scraper in Development Server & Change Code for ScraperB.ts
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1060 Run Scraper for Jomashop in Development Server
+		Running ScraperB & CollectorB for Jomashop in Development Server
+T	:	COSMOS-1075 Documentation Parameter Input for Running Scraper Indexing for Whole Brands Through RabbitMQ
+		COSMOS-1074 Documentation Brand & Brand ID for All brands
+		COSMOS-1077 Get Familiar with Production Server
+		COSMOS-978 Documentation for Deployment in Server
+B	:	-
+
+20191206
+Y	:	COSMOS-1075 Documentation Parameter Input for Running Scraper Indexing for Whole Brands Through RabbitMQ
+		COSMOS-1074 Documentation Brand & Brand ID for All brands
+		COSMOS-1077 Get Familiar with Production Server
+		COSMOS-978 Documentation for Deployment in Server
+T	:	COSMOS-1078 Create Documentation Deployment in Production Server
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1077 Get Familiar with Production Server
+B	:	-
+
+20191209
+Y	:	COSMOS-1078 Create Documentation Deployment in Production Server
+		COSMOS-1061 Run Scraper for Watchmaxx in Development Server
+		COSMOS-1077 Get Familiar with Production Server
+T	:	COSMOS-1087 Testing for deployed unit
+		COSMOS-1083 Deployment of Scrapers to Production
+		COSMOS-1085 Deploy URL collector B
+		COSMOS-1084 Deploy Scrape Engine B
+		COSMOS-1086 Deploy Strategies
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+B	:	-
+
+20191210
+Y	:	COSMOS-1087 Testing for deployed unit
+		COSMOS-1083 Deployment of Scrapers to Production
+		COSMOS-1085 Deploy URL collector B
+		COSMOS-1084 Deploy Scrape Engine B
+		COSMOS-1086 Deploy Strategies
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+T	:	COSMOS-1087 Testing for deployed unit
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Fixed issue with connection to Production Database
+B	:	-
+
+20191211
+Y	:	COSMOS-1087 Testing for deployed unit
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Fixed issue with connection to Production Database
+T	:	COSMOS-1090 Source Flag in Indexing For Whole Brands
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Update Deployment Synopsis Scraper both in Development Server & Production 
+		since new requirement for source flag
+		Update Synopsis Client & Server for API v2 
+		Review PR and Merged
+B	:	-
+
+20191212
+Y	:	COSMOS-1090 Source Flag in Indexing For Whole Brands
+		COSMOS-1089 Documentation Parameter Input Scraper Extraction RabbitMQ
+		COSMOS-1078 Create Documentation Deployment in Production Server
+		Update Deployment Synopsis Scraper both in Development Server & Production 
+		since new requirement for source flag
+		Update Synopsis Client & Server for API v2 
+		Review PR and Merged
+T	:	COSMOS-1087 Testing for deployed unit
+		Create hotfix 2.3.1 for Synopsis Client and Server
+		Update Deployment Synopsis both in Development Server & Production 
+		regarding update url API address from v1 version to v2 version
+		Testing and fix issue regarding deployment
+B	:	-
+
+20191216
+Y	:	Take MC
+T	:	Testing Synopsis Scraper B for Jomashop in Development Server
+		Testing is the data has been inserted info Delevopment Server Database
+		Checking the difference new schema and previous schema
+B	:	-
+
+20191217
+Y	:	Testing Synopsis Scraper B for Jomashop in Development Server
+		Testing is the data has been inserted info Delevopment Server Database
+		Checking the difference new schema and previous schema
+T	:	COSMOS-1128 Running Indexing Class for All brands in Production Server
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1135 Issue Run Scraper in Production Environment
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+B	:	-
+
+20191218
+Y	:	COSMOS-1128 Running Indexing Class for All brands in Production Server
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1135 Issue Run Scraper in Production Environment
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+T	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+B	:	-
+
+20191219
+Y	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+T	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+B	:	-
+
+20191220
+Y	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+T	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1183 It shows two title bar for the detail editor screen
+B	:	-
+
+20191223
+Y	:	COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1183 It shows two title bar for the detail editor screen
+T	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		COSMOS-1183 It shows two title bar for the detail editor screen
+		Create Documentation
+		Create PR and Merged
+B	:	-
+
+20191224
+Y	:	COSMOS-1132 When client on edit for Product 31, the Editor fail
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server
+		COSMOS-1133 When the user with editor privilege click on any item, the editor screen is missing
+		COSMOS-1131 Synopsis Deployment for V2 API Client and Server, RC for V3.0 series
+T	:	Half Day for Christmas Eve till 16.00
+		COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		Create documentation for DOC
+		Create PR and Merged for Synopsis Server & Client
+		Deploy Synopsis in Development Server
+B	:	-
+
+20191226
+Y	:	Half Day for Christmas Eve till 16.00
+		COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		Create documentation for DOC
+		Create PR and Merged for Synopsis Server & Client
+		Deploy Synopsis in Development Server
+T	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		COSMOS-1184 It cannot show the information of difference or usage of the editorial and marketing
+		COSMOS-1185 Need to have description of what is revised product
+		COSMOS-1186 Need to have information of what is products without description
+		Create Documentation Synopsis ERD
+		Create Documentation Synopsis Sequence Diagram
+B	:	-
+
+20191227
+Y	:	COSMOS-1182 Synopsis Client No method to do any input in right hand side
+		COSMOS-1184 It cannot show the information of difference or usage of the editorial and marketing
+		COSMOS-1185 Need to have description of what is revised product
+		COSMOS-1186 Need to have information of what is products without description
+		Create Documentation Synopsis ERD
+		Create Documentation Synopsis Sequence Diagram
+T	:	Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+B	:	-
+
+20191230
+Y	:	Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+T	:	Having discussion with Arion about GraphQL, Resolver and Database
+		Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+B	:	-
+
+20191231
+Y	:	Having discussion with Arion about GraphQL, Resolver and Database
+		Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+T	:	Create documentation for Synopsis Sequence Diagram
+		Create documentation for Synopsis ERD
+		COSMOS-1130 Running Extraction & Distillation class for All brands in Production Server 
 B	:	-
