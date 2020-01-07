@@ -1,4 +1,4 @@
-20190902
+20200102
 Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
 		Investigate the logic behind when click for each data in Product Table Container. 
 		Update the documentation.
@@ -8,7 +8,7 @@ T	:	Investigate the data flow from start till launch in production.
 		Will be having discuss further and waiting for next instruction.
 B	:	-
 
-20190903
+20200103
 Y	:	Investigate the data flow from start till launch in production.
 		Having discussion and get insight with Nyi Nyi and Arion.
 		Will be having discuss further and waiting for next instruction.
@@ -16,4 +16,33 @@ T	:	COSMOS-1136 Fix indexing issue for Audemars Piguet brand in Prod Server
 		COSMOS-1137 Fix indexing issue for Breguet brand in Prod Server
 		COSMOS-1138 Fix indexing issue for Grand Seiko brand in Prod Server
 		COSMOS-1139 Fix indexing issue for Hamilton brand in Prod Server
+B	:	-
+
+20200106
+Y	:	COSMOS-1136 Fix indexing issue for Audemars Piguet brand in Prod Server
+		COSMOS-1137 Fix indexing issue for Breguet brand in Prod Server
+		COSMOS-1138 Fix indexing issue for Grand Seiko brand in Prod Server
+		COSMOS-1139 Fix indexing issue for Hamilton brand in Prod Server
+T	:	COSMOS-1226 Fix Extraction Issue for Citizen brand
+		COSMOS-1225 Fix Extraction Issue for Casio brand
+		COSMOS-1237 Fix Extraction Issue for Ulysee brand
+		COSMOS-1142 Fix Indexing issue with Ulysee brand
+		COSMOS-1246 Check Functionality and Fix issue in Provision Pending Product button 
+		under Marketing User Privilege
+		Update document in Confluence Synopsis Scrapers
+B	:	-
+
+20200107
+Y	:	COSMOS-1226 Fix Extraction Issue for Citizen brand
+		COSMOS-1225 Fix Extraction Issue for Casio brand
+		COSMOS-1237 Fix Extraction Issue for Ulysee brand
+		COSMOS-1142 Fix Indexing issue with Ulysee brand
+		COSMOS-1246 Check Functionality and Fix issue in Provision Pending Product button 
+		under Marketing User Privilege
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-1229 Fix Extraction Issue for Omega brand
+		COSMOS-1239 Fix Extraction Issue for Zenith brand
+		COSMOS-1228 Fix Extraction Issue for Jaeger Lecoultre brand
+		Running Indexing class for Jomashop in Production Server.
+		Update document in Confluence Synopsis Scrapers
 B	:	-
