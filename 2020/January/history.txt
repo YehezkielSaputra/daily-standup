@@ -46,3 +46,16 @@ T	:	COSMOS-1229 Fix Extraction Issue for Omega brand
 		Running Indexing class for Jomashop in Production Server.
 		Update document in Confluence Synopsis Scrapers
 B	:	-
+
+20200108
+Y	:	COSMOS-1229 Fix Extraction Issue for Omega brand
+		COSMOS-1239 Fix Extraction Issue for Zenith brand
+		COSMOS-1228 Fix Extraction Issue for Jaeger Lecoultre brand
+		Running Indexing class for Jomashop in Production Server.
+		Update document in Confluence Synopsis Scrapers
+T	:	Running Extraction class for Jomashop in Production Server.
+		Running Scraper for Prestigetime
+		Running Scraper for Watchmaxx
+		Fix issue implement Reactive Method for Prestigetime 
+		Update document in Confluence Synopsis Scrapers
+B	:	-
