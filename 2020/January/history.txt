@@ -59,3 +59,15 @@ T	:	Running Extraction class for Jomashop in Production Server.
 		Fix issue implement Reactive Method for Prestigetime 
 		Update document in Confluence Synopsis Scrapers
 B	:	-
+
+20200109
+Y	:	Running Extraction class for Jomashop in Production Server.
+		Running Scraper for Prestigetime
+		Running Scraper for Watchmaxx
+		Fix issue implement Reactive Method for Prestigetime 
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-1238 Fix Extraction Issue for Vacheron Constantin brand in Production Server
+		COSMOS-1235 Fix Extraction Issue for Seven Friday brand in Production Server
+		COSMOS-1227 Fix Extraction Issue for IWC brand in Production Server
+		Update document in Confluence Synopsis Scrapers
+B	:	-
