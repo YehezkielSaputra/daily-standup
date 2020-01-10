@@ -71,3 +71,15 @@ T	:	COSMOS-1238 Fix Extraction Issue for Vacheron Constantin brand in Production
 		COSMOS-1227 Fix Extraction Issue for IWC brand in Production Server
 		Update document in Confluence Synopsis Scrapers
 B	:	-
+
+20200110
+Y	:	COSMOS-1238 Fix Extraction Issue for Vacheron Constantin brand in Production Server
+		COSMOS-1235 Fix Extraction Issue for Seven Friday brand in Production Server
+		COSMOS-1227 Fix Extraction Issue for IWC brand in Production Server
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-1232 Fix Extraction Issue for Patek brand
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1231 Fix Extraction Issue for Panerai brand
+		COSMOS-1233 Fix Extraction Issue for Rolex brand
+		Update document in Confluence Synopsis Scrapers
+B	:	-
