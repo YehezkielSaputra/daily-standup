@@ -83,3 +83,14 @@ T	:	COSMOS-1232 Fix Extraction Issue for Patek brand
 		COSMOS-1233 Fix Extraction Issue for Rolex brand
 		Update document in Confluence Synopsis Scrapers
 B	:	-
+
+20200113
+Y	:	COSMOS-1232 Fix Extraction Issue for Patek brand
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1231 Fix Extraction Issue for Panerai brand
+		COSMOS-1233 Fix Extraction Issue for Rolex brand
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
+		COSMOS-1281 Change Scraper Indexing for Jomashop
+		Running Indexing for jomashop - 911 items
+B	:	-
