@@ -94,3 +94,12 @@ T	:	COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
 		COSMOS-1281 Change Scraper Indexing for Jomashop
 		Running Indexing for jomashop - 911 items
 B	:	-
+
+20200114
+Y	:	COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
+		COSMOS-1281 Change Scraper Indexing for Jomashop
+		Running Indexing for jomashop - 911 items
+T	:	COSMOS-1281 Change Scraper Indexing for Jomashop
+		COSMOS-1292 Running Page 1 - 100 Indexing Class of Jomashop
+		Running Indexing for jomashop - 5600 items
+B	:	-
