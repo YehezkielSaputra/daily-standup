@@ -103,3 +103,14 @@ T	:	COSMOS-1281 Change Scraper Indexing for Jomashop
 		COSMOS-1292 Running Page 1 - 100 Indexing Class of Jomashop
 		Running Indexing for jomashop - 5600 items
 B	:	-
+
+20200115
+Y	:	COSMOS-1281 Change Scraper Indexing for Jomashop
+		COSMOS-1292 Running Page 1 - 100 Indexing Class of Jomashop
+		Running Indexing for jomashop - 5600 items
+T	:	COSMOS-1293 Running Page 101 - 200 Indexing Class of Jomashop
+		COSMOS-1311 Scraper Denmark Language for Zenith brand
+		Running Indexing for jomashop - 11,112 items
+		Running Extraction & Distillation for Jomashop - 7,394 items
+		Running Scraper Deutch Language for Zenith - 171 items
+B	:	-
