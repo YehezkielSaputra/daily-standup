@@ -114,3 +114,16 @@ T	:	COSMOS-1293 Running Page 101 - 200 Indexing Class of Jomashop
 		Running Extraction & Distillation for Jomashop - 7,394 items
 		Running Scraper Deutch Language for Zenith - 171 items
 B	:	-
+
+20200116
+Y	:	COSMOS-1293 Running Page 101 - 200 Indexing Class of Jomashop
+		COSMOS-1311 Scraper Denmark Language for Zenith brand
+		Running Indexing for jomashop - 11,112 items
+		Running Extraction & Distillation for Jomashop - 7,394 items
+		Running Scraper Deutch Language for Zenith - 171 items
+T	:	COSMOS-1294 Running Page 201 - 300 Indexing Class of Jomashop
+		COSMOS-1310 Scraper Denmark Language for Parmigiani brand
+		Running Indexing for jomashop - 16,612 items
+		Running Extraction & Distillation for Jomashop -  11,895 items
+		Running Scraper Deutch Language for Parmigiani - 239 items
+B	:	-
