@@ -127,3 +127,18 @@ T	:	COSMOS-1294 Running Page 201 - 300 Indexing Class of Jomashop
 		Running Extraction & Distillation for Jomashop -  11,895 items
 		Running Scraper Deutch Language for Parmigiani - 239 items
 B	:	-
+
+Took Annual Leave - Travel to Indonesia, Malaysia, Japan, Taiwan
+
+20200129
+Y	:	COSMOS-1294 Running Page 201 - 300 Indexing Class of Jomashop
+		COSMOS-1310 Scraper Denmark Language for Parmigiani brand
+		Running Indexing for jomashop - 16,612 items
+		Running Extraction & Distillation for Jomashop -  11,895 items
+		Running Scraper Deutch Language for Parmigiani - 239 items
+T	:	COSMOS-1295 Running Page 301 - 400 Indexing Class of Jomashop
+		COSMOS-1309 Scraper Denmark Language for Rado brand
+		Running Indexing for jomashop - 21,810 items
+		Running Extraction & Distillation for Jomashop -  18,508 items
+		Running Scraper Deutch Language for Parmigiani - 421 items
+B	:	-
