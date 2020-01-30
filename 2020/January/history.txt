@@ -142,3 +142,16 @@ T	:	COSMOS-1295 Running Page 301 - 400 Indexing Class of Jomashop
 		Running Extraction & Distillation for Jomashop -  18,508 items
 		Running Scraper Deutch Language for Parmigiani - 421 items
 B	:	-
+
+20200130
+Y	:	COSMOS-1295 Running Page 301 - 400 Indexing Class of Jomashop
+		COSMOS-1309 Scraper Denmark Language for Rado brand
+		Running Indexing for jomashop - 21,810 items
+		Running Extraction & Distillation for Jomashop -  18,508 items
+		Running Scraper Deutch Language for Parmigiani - 421 items
+T	:	COSMOS-1296 Running Page 401 - 500 Indexing Class of Jomashop
+		COSMOS-1306 Scraper Denmark Language for Tissot brand
+		Running Indexing for jomashop - 27,272 items
+		Running Extraction & Distillation for Jomashop -  23,964 items
+		Running Scraper Deutch Language for Tissot - 188 items
+B	:	-
