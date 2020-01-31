@@ -155,3 +155,16 @@ T	:	COSMOS-1296 Running Page 401 - 500 Indexing Class of Jomashop
 		Running Extraction & Distillation for Jomashop -  23,964 items
 		Running Scraper Deutch Language for Tissot - 188 items
 B	:	-
+
+20200131
+Y	:	COSMOS-1296 Running Page 401 - 500 Indexing Class of Jomashop
+		COSMOS-1306 Scraper Denmark Language for Tissot brand
+		Running Indexing for jomashop - 27,272 items
+		Running Extraction & Distillation for Jomashop -  23,964 items
+		Running Scraper Deutch Language for Tissot - 188 items
+T	:	COSMOS-1297 Running Page 501 - 600 Indexing Class of Jomashop
+		COSMOS-1305 Scraper Denmark Language for Omega brand
+		Running Indexing for jomashop - 32,872 items
+		Running Extraction & Distillation for Jomashop -  31,794 items
+		Running Scraper Deutch Language for Omega - 1455 items
+B	:	-
