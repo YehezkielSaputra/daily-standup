@@ -1,4 +1,4 @@
-20190902
+20200102
 Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
 		Investigate the logic behind when click for each data in Product Table Container. 
 		Update the documentation.
@@ -6,4 +6,165 @@ Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
 T	:	Investigate the data flow from start till launch in production.
 		Having discussion and get insight with Nyi Nyi and Arion.
 		Will be having discuss further and waiting for next instruction.
+B	:	-
+
+20200103
+Y	:	Investigate the data flow from start till launch in production.
+		Having discussion and get insight with Nyi Nyi and Arion.
+		Will be having discuss further and waiting for next instruction.
+T	:	COSMOS-1136 Fix indexing issue for Audemars Piguet brand in Prod Server
+		COSMOS-1137 Fix indexing issue for Breguet brand in Prod Server
+		COSMOS-1138 Fix indexing issue for Grand Seiko brand in Prod Server
+		COSMOS-1139 Fix indexing issue for Hamilton brand in Prod Server
+B	:	-
+
+20200106
+Y	:	COSMOS-1136 Fix indexing issue for Audemars Piguet brand in Prod Server
+		COSMOS-1137 Fix indexing issue for Breguet brand in Prod Server
+		COSMOS-1138 Fix indexing issue for Grand Seiko brand in Prod Server
+		COSMOS-1139 Fix indexing issue for Hamilton brand in Prod Server
+T	:	COSMOS-1226 Fix Extraction Issue for Citizen brand
+		COSMOS-1225 Fix Extraction Issue for Casio brand
+		COSMOS-1237 Fix Extraction Issue for Ulysee brand
+		COSMOS-1142 Fix Indexing issue with Ulysee brand
+		COSMOS-1246 Check Functionality and Fix issue in Provision Pending Product button 
+		under Marketing User Privilege
+		Update document in Confluence Synopsis Scrapers
+B	:	-
+
+20200107
+Y	:	COSMOS-1226 Fix Extraction Issue for Citizen brand
+		COSMOS-1225 Fix Extraction Issue for Casio brand
+		COSMOS-1237 Fix Extraction Issue for Ulysee brand
+		COSMOS-1142 Fix Indexing issue with Ulysee brand
+		COSMOS-1246 Check Functionality and Fix issue in Provision Pending Product button 
+		under Marketing User Privilege
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-1229 Fix Extraction Issue for Omega brand
+		COSMOS-1239 Fix Extraction Issue for Zenith brand
+		COSMOS-1228 Fix Extraction Issue for Jaeger Lecoultre brand
+		Running Indexing class for Jomashop in Production Server.
+		Update document in Confluence Synopsis Scrapers
+B	:	-
+
+20200108
+Y	:	COSMOS-1229 Fix Extraction Issue for Omega brand
+		COSMOS-1239 Fix Extraction Issue for Zenith brand
+		COSMOS-1228 Fix Extraction Issue for Jaeger Lecoultre brand
+		Running Indexing class for Jomashop in Production Server.
+		Update document in Confluence Synopsis Scrapers
+T	:	Running Extraction class for Jomashop in Production Server.
+		Running Scraper for Prestigetime
+		Running Scraper for Watchmaxx
+		Fix issue implement Reactive Method for Prestigetime 
+		Update document in Confluence Synopsis Scrapers
+B	:	-
+
+20200109
+Y	:	Running Extraction class for Jomashop in Production Server.
+		Running Scraper for Prestigetime
+		Running Scraper for Watchmaxx
+		Fix issue implement Reactive Method for Prestigetime 
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-1238 Fix Extraction Issue for Vacheron Constantin brand in Production Server
+		COSMOS-1235 Fix Extraction Issue for Seven Friday brand in Production Server
+		COSMOS-1227 Fix Extraction Issue for IWC brand in Production Server
+		Update document in Confluence Synopsis Scrapers
+B	:	-
+
+20200110
+Y	:	COSMOS-1238 Fix Extraction Issue for Vacheron Constantin brand in Production Server
+		COSMOS-1235 Fix Extraction Issue for Seven Friday brand in Production Server
+		COSMOS-1227 Fix Extraction Issue for IWC brand in Production Server
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-1232 Fix Extraction Issue for Patek brand
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1231 Fix Extraction Issue for Panerai brand
+		COSMOS-1233 Fix Extraction Issue for Rolex brand
+		Update document in Confluence Synopsis Scrapers
+B	:	-
+
+20200113
+Y	:	COSMOS-1232 Fix Extraction Issue for Patek brand
+		COSMOS-1164 Change Indexing Scraper For Brands that Use Puppeteer
+		COSMOS-1231 Fix Extraction Issue for Panerai brand
+		COSMOS-1233 Fix Extraction Issue for Rolex brand
+		Update document in Confluence Synopsis Scrapers
+T	:	COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
+		COSMOS-1281 Change Scraper Indexing for Jomashop
+		Running Indexing for jomashop - 911 items
+B	:	-
+
+20200114
+Y	:	COSMOS-521 Enhance Synopsis Client Change Dynamic Form to be Component
+		COSMOS-1281 Change Scraper Indexing for Jomashop
+		Running Indexing for jomashop - 911 items
+T	:	COSMOS-1281 Change Scraper Indexing for Jomashop
+		COSMOS-1292 Running Page 1 - 100 Indexing Class of Jomashop
+		Running Indexing for jomashop - 5600 items
+B	:	-
+
+20200115
+Y	:	COSMOS-1281 Change Scraper Indexing for Jomashop
+		COSMOS-1292 Running Page 1 - 100 Indexing Class of Jomashop
+		Running Indexing for jomashop - 5600 items
+T	:	COSMOS-1293 Running Page 101 - 200 Indexing Class of Jomashop
+		COSMOS-1311 Scraper Denmark Language for Zenith brand
+		Running Indexing for jomashop - 11,112 items
+		Running Extraction & Distillation for Jomashop - 7,394 items
+		Running Scraper Deutch Language for Zenith - 171 items
+B	:	-
+
+20200116
+Y	:	COSMOS-1293 Running Page 101 - 200 Indexing Class of Jomashop
+		COSMOS-1311 Scraper Denmark Language for Zenith brand
+		Running Indexing for jomashop - 11,112 items
+		Running Extraction & Distillation for Jomashop - 7,394 items
+		Running Scraper Deutch Language for Zenith - 171 items
+T	:	COSMOS-1294 Running Page 201 - 300 Indexing Class of Jomashop
+		COSMOS-1310 Scraper Denmark Language for Parmigiani brand
+		Running Indexing for jomashop - 16,612 items
+		Running Extraction & Distillation for Jomashop -  11,895 items
+		Running Scraper Deutch Language for Parmigiani - 239 items
+B	:	-
+
+Took Annual Leave - Travel to Indonesia, Malaysia, Japan, Taiwan
+
+20200129
+Y	:	COSMOS-1294 Running Page 201 - 300 Indexing Class of Jomashop
+		COSMOS-1310 Scraper Denmark Language for Parmigiani brand
+		Running Indexing for jomashop - 16,612 items
+		Running Extraction & Distillation for Jomashop -  11,895 items
+		Running Scraper Deutch Language for Parmigiani - 239 items
+T	:	COSMOS-1295 Running Page 301 - 400 Indexing Class of Jomashop
+		COSMOS-1309 Scraper Denmark Language for Rado brand
+		Running Indexing for jomashop - 21,810 items
+		Running Extraction & Distillation for Jomashop -  18,508 items
+		Running Scraper Deutch Language for Parmigiani - 421 items
+B	:	-
+
+20200130
+Y	:	COSMOS-1295 Running Page 301 - 400 Indexing Class of Jomashop
+		COSMOS-1309 Scraper Denmark Language for Rado brand
+		Running Indexing for jomashop - 21,810 items
+		Running Extraction & Distillation for Jomashop -  18,508 items
+		Running Scraper Deutch Language for Parmigiani - 421 items
+T	:	COSMOS-1296 Running Page 401 - 500 Indexing Class of Jomashop
+		COSMOS-1306 Scraper Denmark Language for Tissot brand
+		Running Indexing for jomashop - 27,272 items
+		Running Extraction & Distillation for Jomashop -  23,964 items
+		Running Scraper Deutch Language for Tissot - 188 items
+B	:	-
+
+20200131
+Y	:	COSMOS-1296 Running Page 401 - 500 Indexing Class of Jomashop
+		COSMOS-1306 Scraper Denmark Language for Tissot brand
+		Running Indexing for jomashop - 27,272 items
+		Running Extraction & Distillation for Jomashop -  23,964 items
+		Running Scraper Deutch Language for Tissot - 188 items
+T	:	COSMOS-1297 Running Page 501 - 600 Indexing Class of Jomashop
+		COSMOS-1305 Scraper Denmark Language for Omega brand
+		Running Indexing for jomashop - 32,872 items
+		Running Extraction & Distillation for Jomashop -  31,794 items
+		Running Scraper Deutch Language for Omega - 1455 items
 B	:	-
