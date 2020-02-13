@@ -21,10 +21,27 @@ Y	:	COSMOS-1307 Scraper Denmark Language for Longines brand
 		Running Indexing for jomashop - 39,223 items
 		Running Extraction & Distillation for Jomashop - 39,223 items
 		Running Scraper Deutch Language for Tag Heuer - 115 items
-T	:	COSMOS-1246
+T	:	COSMOS-1246 Check Functionality and Fix issue in Provision Pending 
+		Product button under Marketing User Privilege
 		Fix functionality Provision button in Synopsis Client
 		Create scaffolding UI for new feature in Synopsis Client - Multi Language
 		Running Scraper Deutch Language for Longines - 288 items
 		Running Scraper for Oris - 469 items
 		Running Scraper for Nomos Glashuette - 219 items
+B	:	-
+
+20200205
+Y	:	COSMOS-1246 Check Functionality and Fix issue in Provision Pending 
+		Product button under Marketing User Privilege
+		Fix functionality Provision button in Synopsis Client
+		Create scaffolding UI for new feature in Synopsis Client - Multi Language
+		Running Scraper Deutch Language for Longines - 288 items
+		Running Scraper for Oris - 469 items
+		Running Scraper for Nomos Glashuette - 219 items
+T	:	COSMOS-1336 Update Price for Omega Official Website
+		COSMOS-1337 Design Schedule Job for Running Scraper Routinely
+		Running Scraper for Omega - 1798 items
+		Refactor and clean code for Synopsis Client 
+		Refactor and clean code for Synopsis Server
+		Fix UI issue for Synopsis Client
 B	:	-
