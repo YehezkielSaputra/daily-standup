@@ -82,3 +82,10 @@ Y	:	COSMOS-1371 Get Collection & Subcollection from Breadcrumb
 T	:	COSMOS-1374 Change Naming Price Property Correctly
 		COSMOS-1375 Create New Scraper for Mido brand
 B	:	-
+
+20200212
+Y	:	COSMOS-1374 Change Naming Price Property Correctly
+		COSMOS-1375 Create New Scraper for Mido brand
+T	:	COSMOS-1376 Implement Change Additional & Features Property Format for Whole Brands
+		COSMOS-1375 Create New Scraper for Mido brand
+B	:	-
