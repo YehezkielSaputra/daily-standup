@@ -45,3 +45,17 @@ T	:	COSMOS-1336 Update Price for Omega Official Website
 		Refactor and clean code for Synopsis Server
 		Fix UI issue for Synopsis Client
 B	:	-
+
+20200206
+Y	:	COSMOS-1336 Update Price for Omega Official Website
+		COSMOS-1337 Design Schedule Job for Running Scraper Routinely
+		Running Scraper for Omega - 1798 items
+		Refactor and clean code for Synopsis Client 
+		Refactor and clean code for Synopsis Server
+		Fix UI issue for Synopsis Client
+T	:	COSMOS-1338 Weekly Scraper Job Schedule for Official Website
+		COSMOS-1337 Design Schedule Job for Running Scraper Routinely
+		COSMOS-1344 Weekly Scraper Job Schedule for Competitor Website - Jomashop
+		Fix Issue with Price for Orient, Nomos Glashuette, Montblanc, Hermes
+		Fix UI issue for Synopsis Client regarding Material UI Updated Issue
+B	:	-
