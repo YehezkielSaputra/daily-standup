@@ -72,3 +72,13 @@ T	:	COSMOS-1371 Get Collection & Subcollection from Breadcrumb
 		COSMOS-1365 Scraper for ORIS
 		COSMOS-1367 Create Function Get Brand ID for Jomashop
 B	:	-
+
+20200211
+Y	:	COSMOS-1371 Get Collection & Subcollection from Breadcrumb
+		COSMOS-1370 Get Retail Price & Selling Price
+		COSMOS-1369 Edit Reference Data for Jomashop
+		COSMOS-1365 Scraper for ORIS
+		COSMOS-1367 Create Function Get Brand ID for Jomashop
+T	:	COSMOS-1374 Change Naming Price Property Correctly
+		COSMOS-1375 Create New Scraper for Mido brand
+B	:	-
