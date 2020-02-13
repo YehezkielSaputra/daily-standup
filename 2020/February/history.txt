@@ -89,3 +89,11 @@ Y	:	COSMOS-1374 Change Naming Price Property Correctly
 T	:	COSMOS-1376 Implement Change Additional & Features Property Format for Whole Brands
 		COSMOS-1375 Create New Scraper for Mido brand
 B	:	-
+
+20200213
+Y	:	COSMOS-1376 Implement Change Additional & Features Property Format for Whole Brands
+		COSMOS-1375 Create New Scraper for Mido brand
+T	:	COSMOS-1376 Implement Change Additional & Features Property Format for Whole Brands
+		COSMOS-1375 Create New Scraper for Mido brand
+		COSMOS-1378 Change Structure Scraper for About Vintage Brand
+B	:	-
