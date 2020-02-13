@@ -59,3 +59,16 @@ T	:	COSMOS-1338 Weekly Scraper Job Schedule for Official Website
 		Fix Issue with Price for Orient, Nomos Glashuette, Montblanc, Hermes
 		Fix UI issue for Synopsis Client regarding Material UI Updated Issue
 B	:	-
+
+20200210
+Y	:	COSMOS-1338 Weekly Scraper Job Schedule for Official Website
+		COSMOS-1337 Design Schedule Job for Running Scraper Routinely
+		COSMOS-1344 Weekly Scraper Job Schedule for Competitor Website - Jomashop
+		Fix Issue with Price for Orient, Nomos Glashuette, Montblanc, Hermes
+		Fix UI issue for Synopsis Client regarding Material UI Updated Issue
+T	:	COSMOS-1371 Get Collection & Subcollection from Breadcrumb
+		COSMOS-1370 Get Retail Price & Selling Price
+		COSMOS-1369 Edit Reference Data for Jomashop
+		COSMOS-1365 Scraper for ORIS
+		COSMOS-1367 Create Function Get Brand ID for Jomashop
+B	:	-
