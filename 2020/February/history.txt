@@ -1,9 +1,30 @@
-20190902
-Y	:	Investigate the logic behind every single button in Cosmos Synopsis.
-		Investigate the logic behind when click for each data in Product Table Container. 
-		Update the documentation.
-		Fix issue local machine environment set the development proxy.
-T	:	Investigate the data flow from start till launch in production.
-		Having discussion and get insight with Nyi Nyi and Arion.
-		Will be having discuss further and waiting for next instruction.
+20200203
+Y	:	COSMOS-1297 Running Page 501 - 600 Indexing Class of Jomashop
+		COSMOS-1305 Scraper Denmark Language for Omega brand
+		Running Indexing for jomashop - 32,872 items
+		Running Extraction & Distillation for Jomashop -  31,794 items
+		Running Scraper Deutch Language for Omega - 1455 items
+T	:	COSMOS-1307 Scraper Denmark Language for Longines brand
+		COSMOS-1304 Get Product data with Denmark Language (de) - Scraper
+		COSMOS-1308 Scraper Denmark Language for Tag Heuer brand
+		COSMOS-1298 Running Page 601 - 700 Indexing Class of Jomashop
+		Running Indexing for jomashop - 39,223 items
+		Running Extraction & Distillation for Jomashop - 39,223 items
+		Running Scraper Deutch Language for Tag Heuer - 115 items
+B	:	-
+
+20200204
+Y	:	COSMOS-1307 Scraper Denmark Language for Longines brand
+		COSMOS-1304 Get Product data with Denmark Language (de) - Scraper
+		COSMOS-1308 Scraper Denmark Language for Tag Heuer brand
+		COSMOS-1298 Running Page 601 - 700 Indexing Class of Jomashop
+		Running Indexing for jomashop - 39,223 items
+		Running Extraction & Distillation for Jomashop - 39,223 items
+		Running Scraper Deutch Language for Tag Heuer - 115 items
+T	:	COSMOS-1246
+		Fix functionality Provision button in Synopsis Client
+		Create scaffolding UI for new feature in Synopsis Client - Multi Language
+		Running Scraper Deutch Language for Longines - 288 items
+		Running Scraper for Oris - 469 items
+		Running Scraper for Nomos Glashuette - 219 items
 B	:	-
