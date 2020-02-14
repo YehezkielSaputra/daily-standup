@@ -97,3 +97,15 @@ T	:	COSMOS-1376 Implement Change Additional & Features Property Format for Whole
 		COSMOS-1375 Create New Scraper for Mido brand
 		COSMOS-1378 Change Structure Scraper for About Vintage Brand
 B	:	-
+
+20200214
+Y	:	COSMOS-1376 Implement Change Additional & Features Property Format for Whole Brands
+		COSMOS-1375 Create New Scraper for Mido brand
+		COSMOS-1378 Change Structure Scraper for About Vintage Brand
+T	:	COSMOS-1344 Weekly Scraper Job Schedule for Competitor Website - Jomashop
+		COSMOS-1345 1st Day Scraper Job
+		COSMOS-1346 2nd Day Scraper Job
+		COSMOS-1347 3rd Day Scraper Job
+		COSMOS-1348 4th Day Scraper Job
+		COSMOS-1349 5th Day Scraper Job
+B	:	-
