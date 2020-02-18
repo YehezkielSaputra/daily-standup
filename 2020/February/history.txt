@@ -109,3 +109,23 @@ T	:	COSMOS-1344 Weekly Scraper Job Schedule for Competitor Website - Jomashop
 		COSMOS-1348 4th Day Scraper Job
 		COSMOS-1349 5th Day Scraper Job
 B	:	-
+
+20200217
+Y	:	COSMOS-1344 Weekly Scraper Job Schedule for Competitor Website - Jomashop
+		COSMOS-1345 1st Day Scraper Job
+		COSMOS-1346 2nd Day Scraper Job
+		COSMOS-1347 3rd Day Scraper Job
+		COSMOS-1348 4th Day Scraper Job
+		COSMOS-1349 5th Day Scraper Job
+T	:	Create Workers Servers for Running Jomashop
+		Scraper Jomashop in 1 day for whole items
+B	:	-
+
+20200218
+Y	:	Create Workers Servers for Running Jomashop
+		Scraper Jomashop in 1 day for whole items
+T	:	COSMOS-1431 Running Scraper for Watchmaxx
+		COSMOS-1432 Running Scraper for Prestigetime
+		COSMOS-1433 Fix issue with Indexing of Jomashop
+		COSMOS-1434 Create New Scraper from Competitor - Watches of Mayfair
+B	:	-
