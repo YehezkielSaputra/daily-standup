@@ -140,3 +140,12 @@ T	:	COSMOS-1432 Running Scraper for Prestigetime
 		COSMOS-1433 Fix issue with Indexing of Jomashop
 		COSMOS-1434 Create New Scraper from Competitor - Watches of Mayfair
 B	:	-
+
+20200220
+Y	:	COSMOS-1432 Running Scraper for Prestigetime
+		COSMOS-1431 Running Scraper for Watchmaxx
+		COSMOS-1433 Fix issue with Indexing of Jomashop
+		COSMOS-1434 Create New Scraper from Competitor - Watches of Mayfair
+T	:	COSMOS-1426 Issue with Mido Scraper
+		COSMOS-1434 Create New Scraper from Competitor - Watches of Mayfair
+B	:	-
