@@ -149,3 +149,33 @@ Y	:	COSMOS-1432 Running Scraper for Prestigetime
 T	:	COSMOS-1426 Issue with Mido Scraper
 		COSMOS-1434 Create New Scraper from Competitor - Watches of Mayfair
 B	:	-
+
+20200221
+Y	:	COSMOS-1426 Issue with Mido Scraper
+		COSMOS-1434 Create New Scraper from Competitor - Watches of Mayfair
+T	:	Change scraper using observable method for whole brands :
+		COSMOS-1387
+		COSMOS-1402
+		COSMOS-1401
+		COSMOS-1400
+		COSMOS-1399
+		COSMOS-1398
+		COSMOS-1397
+		COSMOS-1396
+		COSMOS-1395
+		COSMOS-1394
+		COSMOS-1393
+		COSMOS-1392
+		COSMOS-1391
+		COSMOS-1390
+		COSMOS-1389
+		COSMOS-1388
+		COSMOS-1386
+		COSMOS-1385
+		COSMOS-1384
+		COSMOS-1383
+		COSMOS-1382
+		COSMOS-1381
+		COSMOS-1380
+		COSMOS-1379
+B	:	-
