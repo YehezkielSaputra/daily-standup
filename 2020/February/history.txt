@@ -209,3 +209,14 @@ Y	:	Change scraper using observable method for whole brands :
 T	:	COSMOS-1444 Create New Scraper for Louis Vitton brand
 		COSMOS-1443 Create Workers for Handling Scraping in Same Time for Many Brands
 B	:	-
+
+20200225
+Y	:	COSMOS-1444 Create New Scraper for Louis Vitton brand
+		COSMOS-1443 Create Workers for Handling Scraping in Same Time for Many Brands
+T	:	COSMOS-1445 Failed Update Product as Master Account
+		Fix minor issue and testing for Observable Scraper.
+		Review Pull Request and Merged
+		Discussing with Arion and Choi for next (new) requirements 
+		Scraping for Traditional Chinese and Japanese Language.
+B	:	-
+
