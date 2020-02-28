@@ -234,3 +234,17 @@ T	:	COSMOS-1451 Failed Delete (Update) Data When Clicking (X) of the Data
 		Review Pull Request and Merged
 		Discussing with Arion and Choi for next (new) requirements 
 B	:	-
+
+20200227
+Y	:	COSMOS-1451 Failed Delete (Update) Data When Clicking (X) of the Data
+		COSMOS-1446 Failed Display the Marketing Component
+		COSMOS-1447 Scraper For Chinese (Simplified & Tradional) and Japanese Data From Official Website
+		COSMOS-1449 Scraper For Chinese (Simplified & Tradional) and Japanese Data of Longines brand
+		Fixing Issue name in reference_product collection
+		Review Pull Request and Merged
+		Discussing with Arion and Choi for next (new) requirements 
+T	:	COSMOS-1454 When Query for Products without photos, the server throw exception
+		Fix issue in database for name property (Jomashop) - reference_product collection
+		Running Scraper for Japanese & Chinese (Omega)
+		Review Pull Request and Merged
+B	:	-
