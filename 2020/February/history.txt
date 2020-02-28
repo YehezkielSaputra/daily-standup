@@ -248,3 +248,16 @@ T	:	COSMOS-1454 When Query for Products without photos, the server throw excepti
 		Running Scraper for Japanese & Chinese (Omega)
 		Review Pull Request and Merged
 B	:	-
+
+20200228
+Y	:	COSMOS-1454 When Query for Products without photos, the server throw exception
+		Fix issue in database for name property (Jomashop) - reference_product collection
+		Running Scraper for Japanese & Chinese (Omega)
+		Review Pull Request and Merged
+T	:	COSMOS-1454 When Query for Products without photos, the server throw exception.
+		COSMOS-1427 Issue with Seven Friday Scraper
+		COSMOS-1443 Create Workers for Handling Scraping in Same Time for Many Brands
+		Fix issue in database for name property (Jomashop) - reference_product collection
+		Running Scraper for Japanese & Chinese (Rado)
+		Review Pull Request and Merged
+B	:	-
