@@ -179,3 +179,33 @@ T	:	Change scraper using observable method for whole brands :
 		COSMOS-1380
 		COSMOS-1379
 B	:	-
+
+20200224
+Y	:	Change scraper using observable method for whole brands :
+		COSMOS-1387
+		COSMOS-1402
+		COSMOS-1401
+		COSMOS-1400
+		COSMOS-1399
+		COSMOS-1398
+		COSMOS-1397
+		COSMOS-1396
+		COSMOS-1395
+		COSMOS-1394
+		COSMOS-1393
+		COSMOS-1392
+		COSMOS-1391
+		COSMOS-1390
+		COSMOS-1389
+		COSMOS-1388
+		COSMOS-1386
+		COSMOS-1385
+		COSMOS-1384
+		COSMOS-1383
+		COSMOS-1382
+		COSMOS-1381
+		COSMOS-1380
+		COSMOS-1379
+T	:	COSMOS-1444 Create New Scraper for Louis Vitton brand
+		COSMOS-1443 Create Workers for Handling Scraping in Same Time for Many Brands
+B	:	-
