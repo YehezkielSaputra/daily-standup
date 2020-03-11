@@ -6,74 +6,74 @@ Y	:	COSMOS-1454 When Query for Products without photos, the server throw excepti
 		Running Scraper for Japanese & Chinese (Rado)
 		Review Pull Request and Merged
 T	:	COSMOS-1455
-    COSMOS-1459
-    Fix issue in database for name property (Jomashop) - reference_product collection
-    Running Scraper for Japanese & Chinese (Rado & Longines)
-    Review Pull Request and Merged
+    		COSMOS-1459
+    		Fix issue in database for name property (Jomashop) - reference_product collection
+    		Running Scraper for Japanese & Chinese (Rado & Longines)
+    		Review Pull Request and Merged
 B	:	-
 
 20200303
 Y	:	COSMOS-1455
-    COSMOS-1459
-    Fix issue in database for name property (Jomashop) - reference_product collection
-    Running Scraper for Japanese & Chinese (Rado & Longines)
-    Review Pull Request and Merged
+    		COSMOS-1459
+    		Fix issue in database for name property (Jomashop) - reference_product collection
+    		Running Scraper for Japanese & Chinese (Rado & Longines)
+   		Review Pull Request and Merged
 T	:	COSMOS-1463
-    Fix issue in database for name property (Official) - reference_product collection
-    Running Scraper for Japanese & Chinese (Longines)
-    Review Pull Request and Merged
-    Briefing Technology Synopsis Client to Yik Chai
+    		Fix issue in database for name property (Official) - reference_product collection
+    		Running Scraper for Japanese & Chinese (Longines)
+    		Review Pull Request and Merged
+    		Briefing Technology Synopsis Client to Yik Chai
 B	:	-
 
 20200304
 Y	:	COSMOS-1463
-    Fix issue in database for name property (Official) - reference_product collection
-    Running Scraper for Japanese & Chinese (Longines)
-    Review Pull Request and Merged
-    Briefing Technology Synopsis Client to Yik Chai
+    		Fix issue in database for name property (Official) - reference_product collection
+    		Running Scraper for Japanese & Chinese (Longines)
+    		Review Pull Request and Merged
+    		Briefing Technology Synopsis Client to Yik Chai
 T	:	COSMOS-1463
-    COSMOS-1467
-    COSMOS-1465
-    COSMOS-1466
-    Review Pull Request and Merged
+    		COSMOS-1467
+    		COSMOS-1465
+    		COSMOS-1466
+    		Review Pull Request and Merged
 B	:	-
 
 20200305
 Y	:	COSMOS-1463
-    COSMOS-1467
-    COSMOS-1465
-    COSMOS-1466
-    Review Pull Request and Merged
+    		COSMOS-1467
+    		COSMOS-1465
+    		COSMOS-1466
+   		Review Pull Request and Merged
 T	:	COSMOS-1471
-    COSMOS-1468
-    COSMOS-1465
-    COSMOS-1466
-    Review Pull Request and Merged
+    		COSMOS-1468
+    		COSMOS-1465
+    		COSMOS-1466
+    		Review Pull Request and Merged
 B	:	-
 
 20200306
 Y	:	COSMOS-1471
-    COSMOS-1468
-    COSMOS-1465
-    COSMOS-1466
-    Review Pull Request and Merged
+    		COSMOS-1468
+    		COSMOS-1465
+    		COSMOS-1466
+    		Review Pull Request and Merged
 T	:	COSMOS-1474
-    COSMOS-1479
-    COSMOS-1477
-    COSMOS-1476
-    COSMOS-1475
-    Review Pull Request and Merged
+    		COSMOS-1479
+    		COSMOS-1477
+    		COSMOS-1476
+    		COSMOS-1475
+    		Review Pull Request and Merged
 B	:	-
 
 20200309
 Y	:	COSMOS-1474
-    COSMOS-1479
-    COSMOS-1477
-    COSMOS-1476
-    COSMOS-1475
-    Review Pull Request and Merged
+    		COSMOS-1479
+    		COSMOS-1477
+    		COSMOS-1476
+    		COSMOS-1475
+    		Review Pull Request and Merged
 T	:	Testing Synopsis Client Create Pending Revision
-    Testing Synopsis Client Approve and Reject Pending Revision
-    Design Synopsis Client Provision
-    Review Pull Request and Merged
+    		Testing Synopsis Client Approve and Reject Pending Revision
+    		Design Synopsis Client Provision
+    		Review Pull Request and Merged
 B	:	-
