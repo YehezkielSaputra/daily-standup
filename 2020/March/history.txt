@@ -77,3 +77,25 @@ T	:	Testing Synopsis Client Create Pending Revision
     		Design Synopsis Client Provision
     		Review Pull Request and Merged
 B	:	-
+
+20200311
+Y	:	Testing Synopsis Client Create Pending Revision
+    		Testing Synopsis Client Approve and Reject Pending Revision
+    		Design Synopsis Client Provision
+    		Review Pull Request and Merged
+T	:	COSMOS-1485
+		COSMOS-1484
+		Review Pull Request and Merged
+B	:	-
+
+20200312
+Y	:	COSMOS-1485
+		COSMOS-1484
+		Review Pull Request and Merged
+T	:	Fix issue Synopsis Client for Provision
+		COSMOS-1485
+		Review Pull Request and Merged
+		Running Scraper for Nomos Glashuette 
+		Running Scraper for Oris
+		Edit new requirement for HKD Price of Nomos Glashuette
+B	:	-
