@@ -78,11 +78,16 @@ T	:	Testing Synopsis Client Create Pending Revision
     		Review Pull Request and Merged
 B	:	-
 
-20200311
+20200310
 Y	:	Testing Synopsis Client Create Pending Revision
     		Testing Synopsis Client Approve and Reject Pending Revision
     		Design Synopsis Client Provision
     		Review Pull Request and Merged
+T	:	Take MC
+B	:	-
+
+20200311
+Y	:	Take MC
 T	:	COSMOS-1485
 		COSMOS-1484
 		Review Pull Request and Merged
@@ -98,4 +103,27 @@ T	:	Fix issue Synopsis Client for Provision
 		Running Scraper for Nomos Glashuette 
 		Running Scraper for Oris
 		Edit new requirement for HKD Price of Nomos Glashuette
+B	:	-
+
+20200313
+Y	:	Fix issue Synopsis Client for Provision
+		COSMOS-1485
+		Review Pull Request and Merged
+		Running Scraper for Nomos Glashuette 
+		Running Scraper for Oris
+		Edit new requirement for HKD Price of Nomos Glashuette
+T	:	Change All Materials Field Data Type from String Become Array of String
+		Review & Merged Pull Request
+		Deploy to Development Server
+B	:	-
+
+20200316
+Y	:	Change All Materials Field Data Type from String Become Array of String
+		Review & Merged Pull Request
+		Deploy to Development Server
+T	:	COSMOS-1498 Change All Materials Field Data Type from String Become Array of String
+		COSMOS-1499 Add New Field Discontinue Type Boolean
+		COSMOS-1450 Create New Function MongoDB Manipulated Data From Reference_Product into Product Collection
+		Create and Merge Pull Request
+		Deploy Synopsis Server and Client to Development Server
 B	:	-
