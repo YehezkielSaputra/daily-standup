@@ -127,3 +127,15 @@ T	:	COSMOS-1498 Change All Materials Field Data Type from String Become Array of
 		Create and Merge Pull Request
 		Deploy Synopsis Server and Client to Development Server
 B	:	-
+
+20200317
+Y	:	COSMOS-1498 Change All Materials Field Data Type from String Become Array of String
+		COSMOS-1499 Add New Field Discontinue Type Boolean
+		COSMOS-1450 Create New Function MongoDB Manipulated Data From Reference_Product into Product Collection
+		Create and Merge Pull Request
+		Deploy Synopsis Server and Client to Development Server
+T	:	COSMOS-1503 Edit UI Synopsis Client add Click Button to Open New Tab for Official Website
+		Review Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+		Design for Equinox and Monitor Cron Job UI & Server
+B	:	-
