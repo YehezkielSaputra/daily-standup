@@ -139,3 +139,15 @@ T	:	COSMOS-1503 Edit UI Synopsis Client add Click Button to Open New Tab for Off
 		Deploy Synopsis Server & Client into Development Server
 		Design for Equinox and Monitor Cron Job UI & Server
 B	:	-
+
+20200318
+Y	:	COSMOS-1503 Edit UI Synopsis Client add Click Button to Open New Tab for Official Website
+		Review Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+		Design for Equinox and Monitor Cron Job UI & Server
+T	:	COSMOS-1505
+		COSMOS-1303
+		COSMOS-1506
+		Review Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
