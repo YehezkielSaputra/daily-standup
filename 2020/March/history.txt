@@ -163,3 +163,13 @@ T	:	COSMOS-1506 Create User Permission More for Synopsis Client
 		Review Pull Request and Merged
 		Deploy Synopsis Server & Client into Development Server
 B	:	-
+
+20200320
+Y	:	COSMOS-1506 Create User Permission More for Synopsis Client
+		COSMOS-1507 Edit Channel Product to handle description and name
+		Review Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+T	:	COSMOS-1508 Add New Component UI in Synopsis Client for User Marketing Sorting of Channel
+		Review Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
