@@ -173,3 +173,14 @@ T	:	COSMOS-1508 Add New Component UI in Synopsis Client for User Marketing Sorti
 		Review Pull Request and Merged
 		Deploy Synopsis Server & Client into Development Server
 B	:	-
+
+20200323
+Y	:	COSMOS-1508 Add New Component UI in Synopsis Client for User Marketing Sorting of Channel
+		Review Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+T	:	Fix issue layout display data in test (UAT) production server
+		Fix issue multi language data
+		Create UI display data from certain channel product as marketing user
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
