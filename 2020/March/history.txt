@@ -210,3 +210,16 @@ T	:	Fix issue provision
 		Create Pull Request and Merged
 		Deploy Synopsis Server & Client into Development Server
 B	:	-
+
+20200326
+Y	:	Fix issue provision
+		Fix issue filter data revised product and product without description
+		Fix update n show data as marketing user doing channel editor in channel product
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+T	:	Create new layout show channel product information
+		Add new button for hiding the panel (default hidden)
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
