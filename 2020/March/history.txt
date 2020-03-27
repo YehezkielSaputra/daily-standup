@@ -223,3 +223,15 @@ T	:	Create new layout show channel product information
 		Create Pull Request and Merged
 		Deploy Synopsis Server & Client into Development Server
 B	:	-
+
+20200327
+Y	:	Create new layout show channel product information
+		Add new button for hiding the panel (default hidden)
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+T	:	COSMOS-1514 Client Application query channel product with error
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
