@@ -235,3 +235,29 @@ T	:	COSMOS-1514 Client Application query channel product with error
 		Create Pull Request and Merged
 		Deploy Synopsis Server & Client into Development Server
 B	:	-
+
+20200330
+Y	:	COSMOS-1514 Client Application query channel product with error
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+T	:	Update Synopsis Server
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
+
+20200331
+Y	:	Update Synopsis Server
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+T	:	COSMOS-1518 Add in the Product.graphql Type Product
+		COSMOS-1520 Add new field in the product.graphq on input ProductInput
+		COSMOS-1521 Change Data Type in the product.graphql
+		COSMOS-1522 Add in the database (model entities) product.ts
+		COSMOS-1524 Change Data Type in the Database (model entities) product.ts
+		Testing Synopsis Client as Marketing Manager User
+		Create Pull Request and Merged
+		Deploy Synopsis Server & Client into Development Server
+B	:	-
