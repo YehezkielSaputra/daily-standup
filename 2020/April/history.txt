@@ -1,17 +1,17 @@
 20200401
-Y	  :	COSMOS-1518 Add in the Product.graphql Type Product
-		  COSMOS-1520 Add new field in the product.graphq on input ProductInput
-		  COSMOS-1521 Change Data Type in the product.graphql
-		  COSMOS-1522 Add in the database (model entities) product.ts
-		  COSMOS-1524 Change Data Type in the Database (model entities) product.ts
-		  Testing Synopsis Client as Marketing Manager User
-		  Create Pull Request and Merged
-		  Deploy Synopsis Server & Client into Development Server
-T	  :	Edit field name as same as schema in UI
-      Edit field name as same as schema in Server
-      Analyse what we need develop for next stage in Synopsis
-      Discussion with Arion and Choi for next development
-      Testing Synopsis Client as Marketing Manager User
-		  Create Pull Request and Merged
-		  Deploy Synopsis Server & Client into Development Server
-B	  :	-
+Y	  : COSMOS-1518 Add in the Product.graphql Type Product
+	    COSMOS-1520 Add new field in the product.graphq on input ProductInput
+	    COSMOS-1521 Change Data Type in the product.graphql
+	    COSMOS-1522 Add in the database (model entities) product.ts
+	    COSMOS-1524 Change Data Type in the Database (model entities) product.ts
+	    Testing Synopsis Client as Marketing Manager User
+	    Create Pull Request and Merged
+	    Deploy Synopsis Server & Client into Development Server
+T	  : Edit field name as same as schema in UI
+      	    Edit field name as same as schema in Server
+      	    Analyse what we need develop for next stage in Synopsis
+      	    Discussion with Arion and Choi for next development
+            Testing Synopsis Client as Marketing Manager User
+	    Create Pull Request and Merged
+	    Deploy Synopsis Server & Client into Development Server
+B	  : -
