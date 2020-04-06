@@ -46,3 +46,15 @@ T	  : COSMOS-1525 New Requirement for Synopsis Scraper
 	    Create Pull Request and Merged
 	    Deploy Synopsis Server and Client into Development Server
 B	  : -
+
+20200406
+Y	  : COSMOS-1525 New Requirement for Synopsis Scraper
+	    Discussion with Arion and Patrick for next development
+	    Testing Synopsis Client as Marketing Manager User
+	    Design New Layout for Marketing User
+	    Create Pull Request and Merged
+	    Deploy Synopsis Server and Client into Development Server
+T	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
+	    Create Documentation Synopsis Layout
+	    Set up configuration VPN and access Dev Server & DB over vpn locally
+B	  : -
