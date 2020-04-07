@@ -58,3 +58,14 @@ T	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
 	    Create Documentation Synopsis Layout
 	    Set up configuration VPN and access Dev Server & DB over vpn locally
 B	  : -
+
+20200407
+Y	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
+	    Create Documentation Synopsis Layout
+	    Set up configuration VPN and access Dev Server & DB over vpn locally
+T	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
+	    Create Documentation Synopsis Layout
+	    Change Synopsis Client Layout v2.3.7
+	    Create and Merged Pull Request 
+	    Deploy Synopsis Client into Dev Server
+B	  : -
