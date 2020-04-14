@@ -97,3 +97,20 @@ T	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
 	    Create and Merged Pull Request 
 	    Deploy Synopsis Client into Dev Server
 B	  : -
+
+20200409
+Y	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
+	    COSMOS-1556 Synopsis GUI improvement for marketing permission
+	    COSMOS-1555 Synopsis GUI improvement for channel manager permission
+	    COSMOS-1554 Synopsis GUI improvement for channel editor permission
+	    COSMOS-1563 Fix Permission mechanism of front end
+	    Create and Merged Pull Request 
+	    Deploy Synopsis Client into Dev Server
+T	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
+	    COSMOS-1556 Synopsis GUI improvement for marketing permission
+	    COSMOS-1555 Synopsis GUI improvement for channel manager permission
+	    COSMOS-1554 Synopsis GUI improvement for channel editor permission
+ 	    COSMOS-1563 Fix Permission mechanism of front end
+	    Create and Merged Pull Request 
+	    Deploy Synopsis Client into Dev Server
+B	  : -
