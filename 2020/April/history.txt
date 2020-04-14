@@ -121,3 +121,11 @@ T	  : COSMOS-1563 Fix Permission mechanism of front end
 	    Fixing issue regarding import library @cosmos/chaos
 	    Create and Merged Pull Request 
 B	  : -
+
+20200414
+Y	  : COSMOS-1563 Fix Permission mechanism of front end
+	    Fixing issue regarding import library @cosmos/chaos
+	    Create and Merged Pull Request 
+T	  : COSMOS-1564 Array the content editor from left and right , back to row based approach
+	    Create and Merged Pull Request 
+B	  : -
