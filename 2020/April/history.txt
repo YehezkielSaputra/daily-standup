@@ -114,3 +114,10 @@ T	  : COSMOS-1535 Synopsis GUI improve to provide usability for data management
 	    Create and Merged Pull Request 
 	    Deploy Synopsis Client into Dev Server
 B	  : -
+
+20200413
+Y	  : Public Holiday Good Friday
+T	  : COSMOS-1563 Fix Permission mechanism of front end
+	    Fixing issue regarding import library @cosmos/chaos
+	    Create and Merged Pull Request 
+B	  : -
