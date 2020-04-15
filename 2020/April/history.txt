@@ -129,3 +129,11 @@ Y	  : COSMOS-1563 Fix Permission mechanism of front end
 T	  : COSMOS-1564 Array the content editor from left and right , back to row based approach
 	    Create and Merged Pull Request 
 B	  : -
+
+20200415
+Y	  : COSMOS-1564 Array the content editor from left and right , back to row based approach
+	    Create and Merged Pull Request 
+T	  : COSMOS-1576 Update all fields to have the left and right arrangement (like did at shipping)
+	    COSMOS-1577 Use css class instead of style to arrange out look
+	    Create and Merged Pull Request
+B	  : -
