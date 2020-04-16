@@ -137,3 +137,13 @@ T	  : COSMOS-1576 Update all fields to have the left and right arrangement (like
 	    COSMOS-1577 Use css class instead of style to arrange out look
 	    Create and Merged Pull Request
 B	  : -
+
+20200416
+Y	  : COSMOS-1576 Update all fields to have the left and right arrangement (like did at shipping)
+	    COSMOS-1577 Use css class instead of style to arrange out look
+	    Create and Merged Pull Request
+T	  : COSMOS-1578 Create sequence or activity diagram focus on redux and api call for the editing process
+	    Testing and bug fixing
+	    Create and Merged Pull Request
+	    Deploy Synopsis Client in Development Server
+B	  : -
