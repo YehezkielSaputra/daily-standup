@@ -147,3 +147,14 @@ T	  : COSMOS-1578 Create sequence or activity diagram focus on redux and api cal
 	    Create and Merged Pull Request
 	    Deploy Synopsis Client in Development Server
 B	  : -
+
+20200417
+Y	  : COSMOS-1578 Create sequence or activity diagram focus on redux and api call for the editing process
+	    Testing and bug fixing
+	    Create and Merged Pull Request
+	    Deploy Synopsis Client in Development Server
+T	  : COSMOS-1581 Fix CSS Problems
+	    Testing and bug fixing
+	    Create and Merged Pull Request
+	    Deploy Synopsis Client in Development Server
+B	  : -
