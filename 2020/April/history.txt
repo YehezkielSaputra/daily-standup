@@ -169,3 +169,14 @@ T	  : COSMOS-1578 Create sequence or activity diagram focus on redux and api cal
 	    Create Documentation Synopsis Sequence Diagram 
 	    Create Documentation Synopsis Activity Diagram
 B	  : -
+
+20200421
+Y	  : COSMOS-1578 Create sequence or activity diagram focus on redux and api call for the editing process
+	    COSMOS-1586 Activity and Sequence Diagram for Synopsis Server and Client Communication
+	    Create Documentation Synopsis Sequence Diagram 
+	    Create Documentation Synopsis Activity Diagram
+T	  : COSMOS-1591 Client Application needs to update all the dependency
+	    COSMOS-1593 Server needs to verify all the schema are same as document
+	    COSMOS-1594  Client App needs to support editing all fields that schema declared
+	    Create Documentation Synopsis All Fields Verification
+B	  : -
