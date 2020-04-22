@@ -180,3 +180,13 @@ T	  : COSMOS-1591 Client Application needs to update all the dependency
 	    COSMOS-1594  Client App needs to support editing all fields that schema declared
 	    Create Documentation Synopsis All Fields Verification
 B	  : -
+
+20200421
+Y	  : COSMOS-1591 Client Application needs to update all the dependency
+	    COSMOS-1593 Server needs to verify all the schema are same as document
+	    COSMOS-1594  Client App needs to support editing all fields that schema declared
+	    Create Documentation Synopsis All Fields Verification
+T	  : COSMOS-1593 Server needs to verify all the schema are same as document
+	    COSMOS-1594  Client App needs to support editing all fields that schema declared
+	    Create Documentation Synopsis All Fields Verification
+B	  : -
