@@ -177,16 +177,26 @@ Y	  : COSMOS-1578 Create sequence or activity diagram focus on redux and api cal
 	    Create Documentation Synopsis Activity Diagram
 T	  : COSMOS-1591 Client Application needs to update all the dependency
 	    COSMOS-1593 Server needs to verify all the schema are same as document
-	    COSMOS-1594  Client App needs to support editing all fields that schema declared
+	    COSMOS-1594 Client App needs to support editing all fields that schema declared
 	    Create Documentation Synopsis All Fields Verification
 B	  : -
 
-20200421
+20200422
 Y	  : COSMOS-1591 Client Application needs to update all the dependency
 	    COSMOS-1593 Server needs to verify all the schema are same as document
-	    COSMOS-1594  Client App needs to support editing all fields that schema declared
+	    COSMOS-1594 Client App needs to support editing all fields that schema declared
 	    Create Documentation Synopsis All Fields Verification
 T	  : COSMOS-1593 Server needs to verify all the schema are same as document
-	    COSMOS-1594  Client App needs to support editing all fields that schema declared
+	    COSMOS-1594 Client App needs to support editing all fields that schema declared
 	    Create Documentation Synopsis All Fields Verification
+B	  : -
+
+20200423
+Y	  : COSMOS-1593 Server needs to verify all the schema are same as document
+	    COSMOS-1594 Client App needs to support editing all fields that schema declared
+	    Create Documentation Synopsis All Fields Verification
+T	  : COSMOS-1593 Server needs to verify all the schema are same as document
+	    COSMOS-1594 Client App needs to support editing all fields that schema declared
+	    Create Pull Request and Merged for Synopsis Client
+	    Check Schema for Synopsis Scraper
 B	  : -
