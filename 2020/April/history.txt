@@ -200,3 +200,15 @@ T	  : COSMOS-1593 Server needs to verify all the schema are same as document
 	    Create Pull Request and Merged for Synopsis Client
 	    Check Schema for Synopsis Scraper
 B	  : -
+
+20200424
+Y	  : COSMOS-1593 Server needs to verify all the schema are same as document
+	    COSMOS-1594 Client App needs to support editing all fields that schema declared
+	    Create Pull Request and Merged for Synopsis Client
+	    Check Schema for Synopsis Scraper
+T	  : COSMOS-1525 New Requirement for Synopsis Scraper
+	    COSMOS-1589  Product Information scraper needs to scrape and store the image of the product to database
+	    Having discussion with Arion and teams
+	    Created Pull Request and Merged
+	    Check Schema for Synopsis-Server and will create documentations
+B	  : -
