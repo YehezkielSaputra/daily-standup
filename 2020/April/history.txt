@@ -222,3 +222,8 @@ Y	  : COSMOS-1525 New Requirement for Synopsis Scraper
 T	  : COSMOS-1609 Client Application needs to update all dependency to latest version
 B	  : -
 
+20200428
+Y	  : COSMOS-1609 Client Application needs to update all dependency to latest version
+T	  : COSMOS-1609 Client Application needs to update all dependency to latest version
+	    COSMOS-1610 Client application needs to respect the current information by state
+B	  : -
