@@ -227,3 +227,13 @@ Y	  : COSMOS-1609 Client Application needs to update all dependency to latest ve
 T	  : COSMOS-1609 Client Application needs to update all dependency to latest version
 	    COSMOS-1610 Client application needs to respect the current information by state
 B	  : -
+
+20200429
+Y	  : COSMOS-1609 Client Application needs to update all dependency to latest version
+	    COSMOS-1610 Client application needs to respect the current information by state
+T	  : COSMOS-1610 Client application needs to respect the current information by state
+	    Add new fields input for Synopsis Client as new schema in server
+	    Removed smartbox and implement Autocomplete input text
+	    Created PR and merged
+	    Deploy to dev server
+B	  : -
