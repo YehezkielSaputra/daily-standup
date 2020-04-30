@@ -237,3 +237,16 @@ T	  : COSMOS-1610 Client application needs to respect the current information by
 	    Created PR and merged
 	    Deploy to dev server
 B	  : -
+
+20200430
+Y	  : COSMOS-1610 Client application needs to respect the current information by state
+	    Add new fields input for Synopsis Client as new schema in server
+	    Removed smartbox and implement Autocomplete input text
+	    Created PR and merged
+	    Deploy to dev server
+T	  : COSMOS-1610 Client application needs to respect the current information by state
+	    COSMOS-1593 Server needs to verify all the schema are same as document
+	    Add helpers for autocomplete implementation input field in Synopsis Client
+	    Created PR and merged
+	    Deploy to dev server
+B	  : -
