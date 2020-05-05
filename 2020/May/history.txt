@@ -5,8 +5,20 @@ Y	  : COSMOS-1610 Client application needs to respect the current information by
 	    Created PR and merged
 	    Deploy to dev server
 T	  : COSMOS-1589 Product Information scraper needs to scrape and store the image of the product to database
-      Testing and fix issue with Seaweed in development server
-      Set up seaweed server in local
-      Created PR and merged
-      Deploy to dev server
+            Testing and fix issue with Seaweed in development server
+      	    Set up seaweed server in local
+      	    Created PR and merged
+      	    Deploy to dev server
+B	  : -
+
+20200504
+Y	  : COSMOS-1589 Product Information scraper needs to scrape and store the image of the product to database
+      	    Testing and fix issue with Seaweed in development server
+      	    Set up seaweed server in local
+      	    Created PR and merged
+      	    Deploy to dev server
+T	  : COSMOS-1589 Product Information scraper needs to scrape and store the image of the product to database
+      	    Testing and fix issue with Seaweed in development server
+      	    Created PR and merged
+      	    Deploy to dev server
 B	  : -
