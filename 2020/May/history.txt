@@ -11,7 +11,7 @@ T	  : COSMOS-1589 Product Information scraper needs to scrape and store the imag
       	    Deploy to dev server
 B	  : -
 
-20200504
+20200505
 Y	  : COSMOS-1589 Product Information scraper needs to scrape and store the image of the product to database
       	    Testing and fix issue with Seaweed in development server
       	    Set up seaweed server in local
@@ -21,4 +21,17 @@ T	  : COSMOS-1589 Product Information scraper needs to scrape and store the imag
       	    Testing and fix issue with Seaweed in development server
       	    Created PR and merged
       	    Deploy to dev server
+B	  : -
+
+20200506
+Y	  : COSMOS-1589 Product Information scraper needs to scrape and store the image of the product to database
+      	    Testing and fix issue with Seaweed in development server
+      	    Created PR and merged
+      	    Deploy to dev server
+T	  : COSMOS-1627 Remove Puppeteer from All Synopsis Scraper to Avoid Issue in Server 
+	    COSMOS-1628 Remove Puppeteer Library from Cartier
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for official brand : 
+  	    About Vintage, Audemars Piguet, Bellross, Blancpain, Breitling, Bulgari
 B	  : -
