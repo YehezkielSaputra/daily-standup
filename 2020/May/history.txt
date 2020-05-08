@@ -35,3 +35,14 @@ T	  : COSMOS-1627 Remove Puppeteer from All Synopsis Scraper to Avoid Issue in S
 	    Running Scraper for official brand : 
   	    About Vintage, Audemars Piguet, Bellross, Blancpain, Breitling, Bulgari
 B	  : -
+
+20200508
+Y	  : Public Holiday Vesak Day 2020
+T	  : COSMOS-1631 Remove Puppeteer Library from Hublot
+	    COSMOS-1630 Remove Puppeteer Library from Girard Perregaux
+	    COSMOS-1628 Remove Puppeteer Library from Cartier
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for official brand :   
+	    Cartier, Casio, Chanel, Chopard, Citizen, Frederique Constantin
+B	  : -
