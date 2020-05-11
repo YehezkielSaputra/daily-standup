@@ -46,3 +46,19 @@ T	  : COSMOS-1631 Remove Puppeteer Library from Hublot
 	    Running Scraper for official brand :   
 	    Cartier, Casio, Chanel, Chopard, Citizen, Frederique Constantin
 B	  : -
+
+20200511
+Y	  : COSMOS-1631 Remove Puppeteer Library from Hublot
+	    COSMOS-1630 Remove Puppeteer Library from Girard Perregaux
+	    COSMOS-1628 Remove Puppeteer Library from Cartier
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for official brand :   
+	    Cartier, Casio, Chanel, Chopard, Citizen, Frederique Constantin
+T	  : COSMOS-1631 Remove Puppeteer Library from Hublot
+	    Create Document Synopsis Scraper Deployment UML Diagram
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for official brand : 
+  	    Gaga Milano, Girard Perregaux, Glashuette, Gucci, Grand Seiko, Hermes
+B	  : -
