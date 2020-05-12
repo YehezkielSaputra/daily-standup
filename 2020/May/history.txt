@@ -62,3 +62,17 @@ T	  : COSMOS-1631 Remove Puppeteer Library from Hublot
 	    Running Scraper for official brand : 
   	    Gaga Milano, Girard Perregaux, Glashuette, Gucci, Grand Seiko, Hermes
 B	  : -
+
+20200512
+Y	  : COSMOS-1631 Remove Puppeteer Library from Hublot
+	    Create Document Synopsis Scraper Deployment UML Diagram
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for official brand : 
+  	    Gaga Milano, Girard Perregaux, Glashuette, Gucci, Grand Seiko, Hermes
+T	  : COSMOS-1646 Remove Puppeteer Library from Watchmaxx
+	    Edit and review scraper for : Prestigetime, Watchmaxx, Mayfair
+ 	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx website
+B	  : -
