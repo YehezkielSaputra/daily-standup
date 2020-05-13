@@ -76,3 +76,17 @@ T	  : COSMOS-1646 Remove Puppeteer Library from Watchmaxx
 	    Deploy to dev server
 	    Running Scraper for Watchmaxx website
 B	  : -
+
+20200513
+Y	  : COSMOS-1646 Remove Puppeteer Library from Watchmaxx
+	    Edit and review scraper for : Prestigetime, Watchmaxx, Mayfair
+ 	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx website
+T	  : Create new function delete all empty fields in the result of scraper (new requirement)
+	    Implement delete all empty fields for whole brands  
+	    Edit and review scraper for : Prestigetime, Watchmaxx
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx website
+B	  : -
