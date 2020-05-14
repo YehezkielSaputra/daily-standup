@@ -90,3 +90,16 @@ T	  : Create new function delete all empty fields in the result of scraper (new 
 	    Deploy to dev server
 	    Running Scraper for Watchmaxx website
 B	  : -
+
+20200514
+Y	  : Create new function delete all empty fields in the result of scraper (new requirement)
+	    Implement delete all empty fields for whole brands  
+	    Edit and review scraper for : Prestigetime, Watchmaxx
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx website
+T	  : Edit and review scraper for : Prestigetime, Watchesofmayfair
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
+B	  : -
