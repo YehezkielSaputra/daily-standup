@@ -103,3 +103,14 @@ T	  : Edit and review scraper for : Prestigetime, Watchesofmayfair
 	    Deploy to dev server
 	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
 B	  : -
+
+20200515
+Y	  : Edit and review scraper for : Prestigetime, Watchesofmayfair
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
+T	  : Edit and review scraper for : Watchmaxx, Prestigetime, Watchesofmayfair
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
+B	  : -
