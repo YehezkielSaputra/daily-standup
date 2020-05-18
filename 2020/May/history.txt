@@ -114,3 +114,17 @@ T	  : Edit and review scraper for : Watchmaxx, Prestigetime, Watchesofmayfair
 	    Deploy to dev server
 	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
 B	  : -
+
+20200518
+Y	  : Edit and review scraper for : Watchmaxx, Prestigetime, Watchesofmayfair
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
+T	  : COSMOS-1664 
+	    COSMOS-1665
+	    Edit and review scraper for : Jomashop
+	    Implement all changing as watchmaxx, prestigetime, watchesofmayfair to whole official brands
+	    Created PR and merged
+	    Deploy to dev server
+	    Running Scraper for Watchmaxx , Prestigetime and Watchesofmayfair
+B	  : -
