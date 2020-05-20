@@ -140,3 +140,14 @@ Y	  : COSMOS-1664
 T	  : COSMOS-1664 
 	    COSMOS-1665
 B	  : -
+
+20200520
+Y	  : COSMOS-1664 
+	    COSMOS-1665
+T	  : Running Scraper for Jomashop
+	    COSMOS-1665 Needs to prepare Collection information (Include structure)
+	    COSMOS-1631 Remove Puppeteer Library from Hublot
+	    COSMOS-1632 Remove Puppeteer Library from IWC
+	    COSMOS-1633 Remove Puppeteer Library from Longines
+	    COSMOS-1646 Remove Puppeteer Library from Watchmaxx
+B	  : -
