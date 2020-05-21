@@ -151,3 +151,20 @@ T	  : Running Scraper for Jomashop
 	    COSMOS-1633 Remove Puppeteer Library from Longines
 	    COSMOS-1646 Remove Puppeteer Library from Watchmaxx
 B	  : -
+
+20200521
+Y	  : Running Scraper for Jomashop
+	    COSMOS-1665 Needs to prepare Collection information (Include structure)
+	    COSMOS-1631 Remove Puppeteer Library from Hublot
+	    COSMOS-1632 Remove Puppeteer Library from IWC
+	    COSMOS-1633 Remove Puppeteer Library from Longines
+	    COSMOS-1646 Remove Puppeteer Library from Watchmaxx
+T	  : Running Scraper for Jomashop
+	    COSMOS-1634
+	    COSMOS-1635
+	    COSMOS-1636
+	    COSMOS-1637
+	    COSMOS-1638
+	    COSMOS-1639
+	    COSMOS-1640
+B	  : -
