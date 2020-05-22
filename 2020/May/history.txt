@@ -168,3 +168,21 @@ T	  : Running Scraper for Jomashop
 	    COSMOS-1639
 	    COSMOS-1640
 B	  : -
+
+20200522
+Y	  : Running Scraper for Jomashop
+	    COSMOS-1634
+	    COSMOS-1635
+	    COSMOS-1636
+	    COSMOS-1637
+	    COSMOS-1638
+	    COSMOS-1639
+	    COSMOS-1640
+T	  : Running Scraper for Jomashop
+	    Running Scraper for Prestigetime
+	    COSMOS-1641
+	    COSMOS-1642
+	    COSMOS-1643
+	    COSMOS-1644
+	    COSMOS-1645
+B	  : -
