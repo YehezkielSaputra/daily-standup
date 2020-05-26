@@ -186,3 +186,16 @@ T	  : Running Scraper for Jomashop
 	    COSMOS-1644
 	    COSMOS-1645
 B	  : -
+
+20200526
+Y	  : Running Scraper for Jomashop
+	    Running Scraper for Prestigetime
+	    COSMOS-1641
+	    COSMOS-1642
+	    COSMOS-1643
+	    COSMOS-1644
+	    COSMOS-1645
+T	  : Edit scraper
+	    Deploy Scraper in Production Server
+	    Testing run scraper in prod server
+B	  : -
