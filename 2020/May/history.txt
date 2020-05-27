@@ -199,3 +199,14 @@ T	  : Edit scraper
 	    Deploy Scraper in Production Server
 	    Testing run scraper in prod server
 B	  : -
+
+20200527
+Y	  : Edit scraper
+	    Deploy Scraper in Production Server
+	    Testing run scraper in prod server
+T	  : Deploy Scraper in Production Server
+	    Fix issue with scraper in prod server
+	    Testing scraper in prod server
+	    Research create cron job for scraper
+	    Update data reference_product in prod db
+B	  : -
