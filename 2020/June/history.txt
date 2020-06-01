@@ -1,0 +1,9 @@
+20200601
+Y	  : Deploy Scraper in Production Server
+	    Fix issue with scraper in prod server
+	    Testing scraper in prod server
+	    Research create cron job for scraper
+	    Update data reference_product in prod db
+T	  : Create documentations Synopsis Scraper Payload
+      Check data in reference_products
+B	  : -
