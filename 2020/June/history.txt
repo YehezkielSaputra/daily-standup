@@ -5,5 +5,12 @@ Y	  : Deploy Scraper in Production Server
 	    Research create cron job for scraper
 	    Update data reference_product in prod db
 T	  : Create documentations Synopsis Scraper Payload
-      Check data in reference_products
+      	    Check data in reference_products
+B	  : -
+
+20200602
+Y	  : Create documentations Synopsis Scraper Payload
+      	    Check data in reference_products
+T	  : Termination from IEPLSG
+  	    Focus looking new job in Singapore
 B	  : -
