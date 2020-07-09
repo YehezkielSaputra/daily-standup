@@ -1,12 +1,18 @@
 20200701
 Y	  : Last day in IEPLSG
 T	  : Exit Clearance and Return IEPLSG Properties
-          Get and sign all related documents
+              Get and sign all related documents
 B	  : -
 
 20200703
 Y	  : Exit Clearance and Return IEPLSG Properties
-          Get and sign all related documents
+              Get and sign all related documents
 T	  : Prepare all documents for new EP Application
-          Submit New EP Application under Aly 
+              Submit New EP Application under Aly 
+B	  : -
+
+20200709
+Y	  : Prepare all documents for new EP Application
+              Submit New EP Application under Aly
+T	  : Create Timeline for New Website (freemovie & nontongratis)
 B	  : -
