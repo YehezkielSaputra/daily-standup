@@ -20,3 +20,10 @@ B	  : -
 Y	  : Exit Clearance with Aly
 T	  : Interview with Manpower via Microsoft Team
 B	  : -
+
+20200729
+Y	  : Interview with Manpower via Microsoft Team
+T	  : Decluttering Phone & Laptop
+            Edit CV Resume
+            Meeting Ipah
+B	  : -
