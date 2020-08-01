@@ -35,3 +35,9 @@ Y	  : Decluttering Phone & Laptop
 T	  : Applying New Job Through LinkedIn
             Interview with Ford Zhang (Amoria Bond)
 B	  : -
+
+20200731
+Y	  : Applying New Job Through LinkedIn
+            Interview with Ford Zhang (Amoria Bond)
+T	  : Public holiday Aidhil Addha 2020
+B	  : -
