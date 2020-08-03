@@ -1,1 +1,14 @@
+2020801
+Y	  : Public holiday Aidhil Addha 2020
+T	  : Create new file History for Scrum Report	
+	    Create new account for Upwork (Freelancer)
+B	  : -
 
+20200803
+Y	  : Create new file History for Scrum Report
+T	  : Withdrawn EP MOM
+	    Upload new repo for github
+	    Applying new Job through LinkedIn, Jobstreet
+	    Finish test interview job crossover
+	    Interview 
+B	  : -
