@@ -12,3 +12,16 @@ T	  : Withdrawn EP MOM
 	    Finish test interview job crossover
 	    Interview 
 B	  : -
+
+20200804
+Y	  : Withdrawn EP MOM
+	    Upload new repo for github
+	    Applying new Job through LinkedIn, Jobstreet
+	    Finish test interview job crossover
+	    Interview 
+T	  : Interview Test NRI
+	    Leetcode
+	    Check salary from ALY
+	    Applying new Job through LinkedIn, Jobstreet
+	    Brainstorming Medium, Git, Quora
+B	  : -
