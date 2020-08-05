@@ -25,3 +25,16 @@ T	  : Interview Test NRI
 	    Applying new Job through LinkedIn, Jobstreet
 	    Brainstorming Medium, Git, Quora
 B	  : -
+
+20200805
+Y	  : Interview Test NRI
+	    Leetcode
+	    Check salary from ALY
+	    Applying new Job through LinkedIn, Jobstreet
+	    Brainstorming Medium, Git, Quora
+T	  : Interview with NRI
+	    Trello 
+	    Leetcode
+	    Follow up Resto - Interview for Glints
+	    Massage
+B	  : -
