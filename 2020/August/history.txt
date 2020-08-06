@@ -38,3 +38,15 @@ T	  : Interview with NRI
 	    Follow up Resto - Interview for Glints
 	    Massage
 B	  : -
+
+20200806
+Y	  : Interview with NRI
+	    Trello 
+	    Leetcode
+	    Follow up Resto - Interview for Glints
+	    Massage
+T	  : Interview with Homage
+	    Leetcode
+	    Follow up Resto - Interview for Glints
+	    Notes Mac Filling
+B	  : -
