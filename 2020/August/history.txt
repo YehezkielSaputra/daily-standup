@@ -59,3 +59,10 @@ Y	  : Interview with Homage
 T	  : Follow up Resto - Interview for Glints
 	    Notes Mac Filling
 B	  : -
+
+20200810
+Y	  : Follow up Resto - Interview for Glints
+	    Notes Mac Filling
+T	  : Finishing documentation README file for resto-client & resto-server
+	    Create pin point for presentation 
+B	  : -
