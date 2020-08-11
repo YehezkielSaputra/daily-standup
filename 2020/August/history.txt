@@ -66,3 +66,11 @@ Y	  : Follow up Resto - Interview for Glints
 T	  : Finishing documentation README file for resto-client & resto-server
 	    Create pin point for presentation 
 B	  : -
+
+20200811
+Y	  : Finishing documentation README file for resto-client & resto-server
+	    Create pin point for presentation 
+T	  : Create new feature filter based on operating hours
+	    Create pin point for presentation
+	    Check S1 Extention Nusa Mandiri
+B	  : -
