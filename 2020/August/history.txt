@@ -75,3 +75,14 @@ T	  : Create new feature filter based on operating hours
 	    Check S1 Extention Nusa Mandiri
 	    Website warungfilm.com
 B	  : -
+
+20200812
+Y	  : Create new feature filter based on operating hours
+	    Create pin point for presentation
+	    Check S1 Extention Nusa Mandiri
+	    Website warungfilm.com
+T	  : Finishing Glints Technical Assesments
+	    warungfilm.com development
+	    Create pin point for presentation
+	    Trello Documentation
+B	  : -
