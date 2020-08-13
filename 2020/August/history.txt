@@ -86,3 +86,13 @@ T	  : Finishing Glints Technical Assesments
 	    Create pin point for presentation
 	    Trello Documentation
 B	  : -
+
+20200813
+Y	  : Finishing Glints Technical Assesments
+	    warungfilm.com development
+	    Create pin point for presentation
+	    Trello Documentation
+T	  : change domain : https://whois.domaintools.com/tokodrama.co.id (tokodrama)
+	    gints for leetcode & hackerrank
+	    Trello Documentation
+B	  : -
