@@ -92,7 +92,16 @@ Y	  : Finishing Glints Technical Assesments
 	    warungfilm.com development
 	    Create pin point for presentation
 	    Trello Documentation
-T	  : change domain : https://whois.domaintools.com/tokodrama.co.id (tokodrama)
+T	  : Change domain : https://whois.domaintools.com/tokodrama.co.id (tokodrama)
 	    gints for leetcode & hackerrank
 	    Trello Documentation
+B	  : -
+
+20200814
+Y	  : Change domain : https://whois.domaintools.com/tokodrama.co.id (tokodrama)
+	    gints for leetcode & hackerrank
+	    Trello Documentation
+T	  : Trello Documentation
+   	    tokodrama.net
+	    Applying Job through Jobstreet, JobsDB, LinkedIn
 B	  : -
