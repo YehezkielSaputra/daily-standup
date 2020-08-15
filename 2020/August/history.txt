@@ -105,3 +105,11 @@ T	  : Trello Documentation
    	    tokodrama.net
 	    Applying Job through Jobstreet, JobsDB, LinkedIn
 B	  : -
+
+20200815
+Y	  : Trello Documentation
+   	    tokodrama.net
+	    Applying Job through Jobstreet, JobsDB, LinkedIn
+T	  : Everything FAIL
+	    Re Introspection moment
+B	  : -
