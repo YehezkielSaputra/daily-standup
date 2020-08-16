@@ -113,3 +113,11 @@ Y	  : Trello Documentation
 T	  : Everything FAIL
 	    Re Introspection moment
 B	  : -
+
+20200816
+Y	  : Everything FAIL
+	    Re Introspection moment
+T	  : Call CS Gopay
+	    Re Introspection moment
+	    Applying Job through Jobstreet, JobsDB, LinkedIn
+B	  : -
