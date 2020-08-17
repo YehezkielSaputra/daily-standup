@@ -121,3 +121,12 @@ T	  : Call CS Gopay
 	    Re Introspection moment
 	    Applying Job through Jobstreet, JobsDB, LinkedIn
 B	  : -
+
+20200817
+Y	  : Call CS Gopay
+	    Re Introspection moment
+	    Applying Job through Jobstreet, JobsDB, LinkedIn
+T	  : Public Holiday Indonesia Independence Day
+	    Follow up GOJEK - result null
+	    Applying Job through Indeed, LinkedIn, Jobstreet
+B	  : -
