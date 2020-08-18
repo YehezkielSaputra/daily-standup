@@ -130,3 +130,15 @@ T	  : Public Holiday Indonesia Independence Day
 	    Follow up GOJEK - result null
 	    Applying Job through Indeed, LinkedIn, Jobstreet
 B	  : -
+
+20200818
+Y	  : Public Holiday Indonesia Independence Day
+	    Follow up GOJEK - result null
+	    Applying Job through Indeed, LinkedIn, Jobstreet
+T	  : Research
+	    Applying Job through Indeed, LinkedIn, Jobstreet
+	    Handle Sinarmas Account
+	    Handle AEON Account
+	    Handle MNC Account
+	    Call Citibank Update Job & Upgrade Limit
+B	  : -
