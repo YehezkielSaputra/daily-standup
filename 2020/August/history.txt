@@ -142,3 +142,16 @@ T	  : Research
 	    Handle MNC Account
 	    Call Citibank Update Job & Upgrade Limit
 B	  : -
+
+20200819
+Y	  : Research
+	    Applying Job through Indeed, LinkedIn, Jobstreet
+	    Handle Sinarmas Account
+	    Handle AEON Account
+	    Handle MNC Account
+	    Call Citibank Update Job & Upgrade Limit
+T	  : Call AEON, MNC
+	    Research
+	    Applying Job through Indeed, LinkedIn, Jobstreet
+	    Call Citibank Update Job & Upgrade Limit
+B	  : -
