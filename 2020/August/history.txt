@@ -155,3 +155,14 @@ T	  : Call AEON, MNC
 	    Applying Job through Indeed, LinkedIn, Jobstreet
 	    Call Citibank Update Job & Upgrade Limit
 B	  : -
+
+20200820
+Y	  : Call AEON, MNC
+	    Research
+	    Applying Job through Indeed, LinkedIn, Jobstreet
+	    Call Citibank Update Job & Upgrade Limit
+T	  : On Boarding with Caiyun Consult Pte. Ltd.
+	    Set up slack and jira
+	    Get document nobelihc.com
+	    Public holiday in Indonesia & Malaysia
+B	  : -
