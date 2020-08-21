@@ -166,3 +166,13 @@ T	  : On Boarding with Caiyun Consult Pte. Ltd.
 	    Get document nobelihc.com
 	    Public holiday in Indonesia & Malaysia
 B	  : -
+
+20200821
+Y	  : On Boarding with Caiyun Consult Pte. Ltd.
+	    Set up slack and jira
+	    Get document nobelihc.com
+	    Public holiday in Indonesia & Malaysia
+T	  : Get task from Guy Chua
+	    Create Note for Caiyun Consult Pte. Ltd.
+	    Call Danamon, OCBC changing address
+B	  : -
