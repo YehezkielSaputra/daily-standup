@@ -176,3 +176,11 @@ T	  : Get task from Guy Chua
 	    Create Note for Caiyun Consult Pte. Ltd.
 	    Call Danamon, OCBC changing address
 B	  : -
+
+20200822
+Y	  : Get task from Guy Chua
+	    Create Note for Caiyun Consult Pte. Ltd.
+	    Call Danamon, OCBC changing address
+	    First Task Edit Centers Page
+T	  : Upload nobel-site into privat repository
+B	  : -
