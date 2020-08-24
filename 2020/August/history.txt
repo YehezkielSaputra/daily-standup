@@ -184,3 +184,10 @@ Y	  : Get task from Guy Chua
 	    First Task Edit Centers Page
 T	  : Upload nobel-site into privat repository
 B	  : -
+
+20200824
+Y	  : Upload nobel-site into privat repository
+T	  : First day of Caiyun Consult as Freelance Consultant
+	    Follow up Engagement Letter
+	    Briefing with tech team
+B	  : -
