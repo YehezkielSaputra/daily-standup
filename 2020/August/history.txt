@@ -191,3 +191,13 @@ T	  : First day of Caiyun Consult as Freelance Consultant
 	    Follow up Engagement Letter
 	    Briefing with tech team
 B	  : -
+
+20200825
+Y	  : First day of Caiyun Consult as Freelance Consultant
+	    Follow up Engagement Letter
+	    Briefing with tech team
+T	  : Meeting for introduction of EMR
+	    Meeting for introduction of CICD
+	    Briefing
+	    Tokopedia, Sinarmas, KTP
+B	  : -
