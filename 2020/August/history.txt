@@ -182,6 +182,7 @@ Y	  : Get task from Guy Chua
 	    Create Note for Caiyun Consult Pte. Ltd.
 	    Call Danamon, OCBC changing address
 	    First Task Edit Centers Page
+	    Create PHP Show Google Map & Marker
 T	  : Upload nobel-site into privat repository
 B	  : -
 
@@ -196,8 +197,37 @@ B	  : -
 Y	  : First day of Caiyun Consult as Freelance Consultant
 	    Follow up Engagement Letter
 	    Briefing with tech team
+	    Hide the login link
+	    Remove the Social Media Icons and Checkout icons
+	    Remove the Search on every page
+	    Hide the bottom menu divider
+	    For Contact Us page, remove the Google Map and put in a PHP contact us form with google captcha. 
+	    The form you can refer to https://www.caiyunconsult.com/#contactus
+	    Update the menu in Mobile Mode to be same as Desktop mode
+	    Move all the images to src/assets/images.
+	    You can create subfolders inside src/assets/images if necessary
+	    Move all the Javascript files to src/assets/js folder. 
 T	  : Meeting for introduction of EMR
 	    Meeting for introduction of CICD
 	    Briefing
 	    Tokopedia, Sinarmas, KTP
+B	  : -
+
+20200826
+Y	  : Having discussion with Derry for emr-portal
+	    Having discussion with Derry for CICD
+	    Having discussion with Siew Mun for WIP Nobel-site
+	    Having discussion with Siew Mun for Support & Maintenance 
+	    Make submission similar to caiyun site
+	    For menu in mobile, please 
+	      a. change the text from grey to white (same color as the NOBEL)
+              b. Remove the borders
+	    Replace all page references of nobelihc.com to nobeldialysis.com
+	    Change to booking@nobeldialysis.com
+	    Move PHPMailer-maste to src so that it becomes src/PHPMailer-master
+	    Create a js.php and move all the JS includes at the bottom of every page into it
+	    Insert the following GA tracking code in footer.php
+	    Put back the descriptions for centers including Sponsors Panel
+T	  : Tokopedia, Sinarmas, KTP
+	    New Requirement CKD & ESRD Nobel-site
 B	  : -
