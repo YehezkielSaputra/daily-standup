@@ -230,4 +230,31 @@ Y	  : Having discussion with Derry for emr-portal
 	    Put back the descriptions for centers including Sponsors Panel
 T	  : Tokopedia, Sinarmas, KTP
 	    New Requirement CKD & ESRD Nobel-site
+	    Create management.php page
+	    Change causes.php
+	    meeting with derry & guy regarding back end stuff : ermgateway & patiencesvc
+	    Nobel site changes
+	    Link the 'Nobel Dialysis Centres' link (middle) to the Centers https://nobeldialysis.com/centers.php
+	    Remove Sitemap
+	    Create placeholder php pages for Privacy and Terms
+	    Remove extra phone number
+	    Download java,eclipse,java sdk, set up local machine for ermgateway
+B	  : -
+
+20200827
+Y	  : Sinarmas, Tokopedia
+	    Create management.php page
+	    Change causes.php
+	    meeting with derry & guy regarding back end stuff : ermgateway & patiencesvc
+	    Nobel site changes
+	    Link the 'Nobel Dialysis Centres' link (middle) to the Centers https://nobeldialysis.com/centers.php
+	    Remove Sitemap
+	    Create placeholder php pages for Privacy and Terms
+	    Remove extra phone number
+	    Download java,eclipse,java sdk, set up local machine for ermgateway
+T	  : Stand Up Meeting
+	    tokodrama.net
+	    AEON
+	    Applying new job
+	    Prakerja
 B	  : -
