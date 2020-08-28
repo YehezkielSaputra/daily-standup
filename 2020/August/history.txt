@@ -258,3 +258,14 @@ T	  : Stand Up Meeting
 	    Applying new job
 	    Prakerja
 B	  : -
+
+20200828
+Y	  : Stand Up Meeting
+	    tokodrama.net
+	    AEON
+	    Applying new job
+	    Prakerja
+	    Made new rest api for registerPatient under emrgateway
+	    Made some changing for nobel site (term & privacy page)
+T	  : Made new rest api for registerPatient under emrgateway
+B	  : -
