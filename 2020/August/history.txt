@@ -269,3 +269,18 @@ Y	  : Stand Up Meeting
 	    Made some changing for nobel site (term & privacy page)
 T	  : Made new rest api for registerPatient under emrgateway
 B	  : -
+
+20200831
+Y	  : Stand Up Meeting
+	    tokodrama.net
+	    AEON
+	    Applying new job
+	    Prakerja
+	    Made new rest api for registerPatient under emrgateway
+	    Made some changing for nobel site (term & privacy page)
+T	  : Made some changing for nobel site (term & privacy page)
+	    tokodrama.net
+	    Prakerja
+	    Applying new job
+	    Sinarmas
+B	  : -
