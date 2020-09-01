@@ -1,0 +1,12 @@
+20200901
+Y	  : Made some changing for nobel site (term & privacy page)
+	    tokodrama.net
+	    Prakerja
+	    Applying new job
+	    Sinarmas
+      Update Patient API
+T	  : Testing Update Patient API
+      Prakerja
+      Sinarmas
+      Billing
+B	  : -
