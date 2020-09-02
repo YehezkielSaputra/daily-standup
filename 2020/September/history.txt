@@ -4,9 +4,25 @@ Y	  : Made some changing for nobel site (term & privacy page)
 	    Prakerja
 	    Applying new job
 	    Sinarmas
-      Update Patient API
+            Update Patient API
 T	  : Testing Update Patient API
-      Prakerja
-      Sinarmas
-      Billing
+      	    Prakerja
+            Sinarmas
+            Billing
+B	  : -
+
+20200902
+Y	  : Testing Update Patient API
+      	    Prakerja
+            Sinarmas
+            Billing
+	    Edit Update & Delete Patient API
+T	  : Edit Update & Delete Patient API
+	    Prakerja
+	    Stand By
+	    Pulsa 
+	    Danamon , OCBC
+	    KTP
+	    Applying New Job
+	    Design tokodrama & create new projects.co.id
 B	  : -
