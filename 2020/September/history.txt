@@ -26,3 +26,19 @@ T	  : Edit Update & Delete Patient API
 	    Applying New Job
 	    Design tokodrama & create new projects.co.id
 B	  : -
+
+20200903
+Y	  : Edit Update & Delete Patient API
+	    Prakerja
+	    Stand By
+	    Pulsa 
+	    Danamon , OCBC
+	    KTP
+	    Applying New Job
+	    Design tokodrama & create new projects.co.id
+T	  : Edit Nobel-site website
+	    Checkout and edit emrsvc
+	    Explore emrsvc
+	    Applying New Job
+	    Design tokodrama & create new projects.co.id
+B	  : -
