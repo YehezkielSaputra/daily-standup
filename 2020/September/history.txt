@@ -42,3 +42,21 @@ T	  : Edit Nobel-site website
 	    Applying New Job
 	    Design tokodrama & create new projects.co.id
 B	  : -
+
+20200904
+Y	  : Edit Nobel-site website
+	    Checkout and edit emrsvc
+	    Explore emrsvc
+	    Applying New Job
+	    Design tokodrama & create new projects.co.id
+	    NOBUAT-17 Change Nobel website contact email address
+	    NOBUAT-18 Add a drop down list for [Centers] in Nobel Website
+	    NOBUAT-19 Add center name to map
+	    NOBUAT-20 Change the sequence in blood test report
+	    NOBUAT-21 Change the sequence in blood test report
+	    NOBUAT-22 Add one more field: Temperature at Daily Chart
+	    NOBUAT-23 Add option to secondary contact relationship drop down list 
+T	  : Prakerja Webinar
+	    Stand by New Task
+	    KTP
+B	  : -
