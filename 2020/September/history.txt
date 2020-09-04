@@ -59,4 +59,6 @@ Y	  : Edit Nobel-site website
 T	  : Prakerja Webinar
 	    Stand by New Task
 	    KTP
+	    NOBUAT-22 Add one more field: Temperature at Daily Chart
+	    Regarding NOBUAT-23 do standardize for dropdown select option give default value : select one but must having discussion with derry / isyar first
 B	  : -
