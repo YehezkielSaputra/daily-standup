@@ -62,3 +62,22 @@ T	  : Prakerja Webinar
 	    NOBUAT-22 Add one more field: Temperature at Daily Chart
 	    Regarding NOBUAT-23 do standardize for dropdown select option give default value : select one but must having discussion with derry / isyar first
 B	  : -
+
+20200907
+Y	  : Prakerja Webinar
+	    Stand by New Task
+	    KTP
+	    NOBUAT-22 Add one more field: Temperature at Daily Chart
+	    Regarding NOBUAT-23 do standardize for dropdown select option give default value : select one but must having discussion with derry / isyar first
+	    NOBUAT-25 Add doctors list to Preferred Sessions -> Nephrologist
+	    Finish NOBUAT-21 date should using date picker instead of input text
+	    Finish NOBUAT-20 grouping blood test
+	    Create new model session in patientsvc
+	    Implement patientCriteria for ermgateway
+T	  : Continue Implement patientCriteria for ermgateway
+            Stand By
+	    AEON, Danamon, OCBC
+	    Hair Cut
+	    Prakerja
+	    Apply New JOB
+B	  : -
