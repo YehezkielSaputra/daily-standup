@@ -81,3 +81,18 @@ T	  : Continue Implement patientCriteria for ermgateway
 	    Prakerja
 	    Apply New JOB
 B	  : -
+
+20200907
+Y	  : Fix issue with emrgateway and patientsvc
+	    Fix issue with register api in emrgateway and patientsvc
+	    pass confirmCase & travelHistory from emrgateway to patientsvc
+	    create new table session in patientsvc
+            Stand By
+	    AEON, Danamon, OCBC
+	    Prakerja
+	    Apply New JOB
+T	  : Create new table session in patientsvc
+	    Hair cut
+	    Prakerja
+	    Apply new job
+B	  : -
