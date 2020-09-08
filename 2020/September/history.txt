@@ -82,7 +82,7 @@ T	  : Continue Implement patientCriteria for ermgateway
 	    Apply New JOB
 B	  : -
 
-20200907
+20200908
 Y	  : Fix issue with emrgateway and patientsvc
 	    Fix issue with register api in emrgateway and patientsvc
 	    pass confirmCase & travelHistory from emrgateway to patientsvc
