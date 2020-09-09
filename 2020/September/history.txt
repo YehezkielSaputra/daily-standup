@@ -96,3 +96,17 @@ T	  : Create new table session in patientsvc
 	    Prakerja
 	    Apply new job
 B	  : -
+
+20200909
+Y	  : Create new table session in patientsvc
+	    Fix issue with get patient api for covidDiagnosis patient_id null
+	    Fix issue with CSS outsideRangeColor validate input blood test report
+	    Investigate cant login under develop branch
+	    Hair cut
+	    Prakerja
+	    Apply new job
+T	  : Investigate cant login under develop branch
+	    Prakerja
+	    Stand by
+	    Apply New Job
+B	  : -
