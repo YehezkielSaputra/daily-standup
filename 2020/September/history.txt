@@ -110,3 +110,16 @@ T	  : Investigate cant login under develop branch
 	    Stand by
 	    Apply New Job
 B	  : -
+
+20200910
+Y	  : Investigate cant login under develop branch
+	    Prakerja
+	    Stand by
+	    Apply New Job
+	    NOBUAT-26 Change Preferred Session to Renal Information
+	    NOBUAT-28 Change EMR company logo (fonts type)
+T	  : NOBUAT-26 Change Preferred Session to Renal Information
+	    Prakerja
+	    Stand By
+	    Apply New Job
+B	  : -
