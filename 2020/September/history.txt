@@ -123,3 +123,18 @@ T	  : NOBUAT-26 Change Preferred Session to Renal Information
 	    Stand By
 	    Apply New Job
 B	  : -
+
+20200911
+Y	  : NOBUAT-26 Change Preferred Session to Renal Information
+	    NOBUAT-32 Change patient information view page
+	    Prakerja
+	    Stand By
+	    Apply New Job
+T	  : NOBUAT-45 Remove Dialyser SA m2
+      	    NOBUAT-44 Website: Add one more center at the center dropdown
+	    make sure sherlyn got info about its center, sponsor panel, address & phone number, opening hours schedule
+	    please refer to the website n click one of current center
+	    Prakerja
+	    Stand By
+	    Apply new job
+B	  : -
