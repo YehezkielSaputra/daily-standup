@@ -138,3 +138,17 @@ T	  : NOBUAT-45 Remove Dialyser SA m2
 	    Stand By
 	    Apply new job
 B	  : -
+
+20200914
+Y	  : NOBUAT-45 Remove Dialyser SA m2
+      	    NOBUAT-44 Website: Add one more center at the center dropdown
+	    make sure sherlyn got info about its center, sponsor panel, address & phone number, opening hours schedule
+	    please refer to the website n click one of current center
+	    Prakerja
+	    Stand By
+	    Apply new job
+T	  : AEON
+	    Testing and change front end schema as back end
+	    Prakerja Webinar
+	    Apply New Job
+B	  : -
