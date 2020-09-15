@@ -152,3 +152,20 @@ T	  : AEON
 	    Prakerja Webinar
 	    Apply New Job
 B	  : -
+
+20200915
+Y	  : AEON
+  	    Prakerja Webinar
+	    Apply New Job
+	    Testing and change front end schema as back end
+	    Finishing task NOBUAT-32 Change patient information view page
+	    by Add new information about Renal Information into Patient View
+	    Fix issue in Lab & Review Page after merge code
+	    NOBUAT-45 Remove Dialyser SA m2
+	    NOBUAT-47 Edit Dashboard page
+      	    NOBUAT-44 Website: Add one more center at the center dropdown , add 1 new page for Beaufort DC and 1 marker in google map centers
+T	  : Fix issue Nephrologist Review
+	    Prakerja
+	    Stand By
+	    Apply New Job
+B	  : -
