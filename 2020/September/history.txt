@@ -169,3 +169,14 @@ T	  : Fix issue Nephrologist Review
 	    Stand By
 	    Apply New Job
 B	  : -
+
+20200916
+Y	  : Fix issue Nephrologist Review
+	    Add new logic for input daily chart by make the 3 button disable when status is PRE_DIALYSIS, then after status changed another 2 button 
+	    become active except submit button, submit button will only active after readings section has 4 or more than 4 records.
+	    Prakerja
+	    Stand By
+	    Apply New Job
+	    Github VueJS
+T	  : 
+B	  : -
