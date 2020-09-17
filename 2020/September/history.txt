@@ -178,5 +178,19 @@ Y	  : Fix issue Nephrologist Review
 	    Stand By
 	    Apply New Job
 	    Github VueJS
-T	  : 
+T	  : NOBUAT-35 Add default value to Daily Chart -> QD
+	    NOBUAT-38 Add in more blood type in blood test report
+	    NOBUAT-39 Incorrect number in reference range
+B	  : -
+
+20200917
+Y	  : Finishing Prakerja
+	    Apply New Job
+	    NOBUAT-35 Add default value to Daily Chart -> QD
+	    NOBUAT-38 Add in more blood type in blood test report
+	    NOBUAT-39 Incorrect number in reference range
+T	  : NOBUAT-35 Add default value to Daily Chart -> QD
+	    Stand By
+	    Apply New Job
+	    RESEARCH
 B	  : -
