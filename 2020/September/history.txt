@@ -194,3 +194,14 @@ T	  : NOBUAT-35 Add default value to Daily Chart -> QD
 	    Apply New Job
 	    RESEARCH
 B	  : -
+
+20200918
+Y	  : NOBUAT-38 Add in more blood type in blood test report back end
+	    Stand By
+	    Apply New Job
+	    RESEARCH
+T	  : NOBUAT-5 Request to change the TMP in Hourly Readings to UFV?
+	    RESEARCH
+	    Apply New Job
+	    Design New Home HARVEST
+B	  : -
