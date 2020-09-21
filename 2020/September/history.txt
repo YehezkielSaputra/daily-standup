@@ -205,3 +205,15 @@ T	  : NOBUAT-5 Request to change the TMP in Hourly Readings to UFV?
 	    Apply New Job
 	    Design New Home HARVEST
 B	  : -
+
+20200921
+Y	  : NOBUAT-5 Request to change the TMP in Hourly Readings to UFV?
+	    Fixing issue regarding covid Diagnosis modal is not mandatory in front end (emr-portal) and back end (emrgateway, patientsvc)
+	    RESEARCH
+	    Apply New Job
+	    Design New Home HARVEST
+T	  : Stand By
+	    RESEARCH
+	    Prakerja
+	    Apply New Job
+B	  : -
