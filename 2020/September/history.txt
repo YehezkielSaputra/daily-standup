@@ -217,3 +217,20 @@ T	  : Stand By
 	    Prakerja
 	    Apply New Job
 B	  : -
+
+20200922
+Y	  : NOBUAT-4 Daily Chart -> Reading session to be able to edit. 
+	    Changed UI of Readings that now can edit whole rows 
+	    Removed button add rows
+	    Changed payload when click button save as same schema in the backend (emrsvc)
+	    Test with integrated into back end (emrgateway, patientsvc, emrsvc)
+	    Check result in database
+	    RESEARCH
+	    Prakerja
+	    Apply New Job
+T	  : Stand By
+	    RESEARCH
+	    Interview
+	    Prakerja
+	    Apply New Job
+B	  : -
