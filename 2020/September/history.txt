@@ -234,3 +234,18 @@ T	  : Stand By
 	    Prakerja
 	    Apply New Job
 B	  : -
+
+20200923
+Y	  : Finishing minor issue NOBUAT-4 Daily Chart -> Reading session to be able to edit by make Save button under Readings disable when PRE_DIALYSIS
+	    NOBUAT-51 Edit Patient Page
+            Reproduce production env issue in the local and find the rootcause - patientDetails null no handler
+            Found another issue when submit edit patient - sponsor null so need to handle in FE
+            Issue with dropdown select country not map well when view edit page
+	    RESEARCH
+	    Interview
+	    Apply New Job
+T	  : Stand By
+	    Prakerja
+	    RESEARCH
+	    Apply New Job
+B	  : -
