@@ -249,3 +249,16 @@ T	  : Stand By
 	    RESEARCH
 	    Apply New Job
 B	  : -
+
+20200924
+Y	  : NOBUAT-53 Blood test report view page asterisk issue 
+	    NOBUAT-54 WBC value in blood test report not logged correctly
+	    Fix issue regarding validation for QD under Reading when input readings in daily chart orderly
+	    Prakerja
+	    RESEARCH
+	    Apply New Job
+T	  : Stand by
+	    RESEARCH
+	    Apply New Job
+	    Viewer
+B	  : -
