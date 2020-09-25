@@ -262,3 +262,14 @@ T	  : Stand by
 	    Apply New Job
 	    Viewer
 B	  : -
+
+20200925
+Y	  : NOBUAT-57 Blood test report view page asterisk issue for Ferritin and HbAIc
+	    RESEARCH
+	    Apply New Job
+	    Viewer
+T	  : Stand by
+	    Viewer
+	    Prakerja
+	    Apply New Job
+B	  : -
