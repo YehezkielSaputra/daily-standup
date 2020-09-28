@@ -282,6 +282,7 @@ Y	  : NOBUAT-58 Under Input Daily Chart from Staff feedback need to re position 
 	    Prakerja
 	    Apply New Job
 T	  : Stand By
+	    Waiting design the two screens for SeaLionPLUS from Siew Mun for UK Presentation
 	    Viewer
 	    Staycation since WiFi problem
 B	  : -
