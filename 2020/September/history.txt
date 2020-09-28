@@ -273,3 +273,15 @@ T	  : Stand by
 	    Prakerja
 	    Apply New Job
 B	  : -
+
+20200928
+Y	  : NOBUAT-58 Under Input Daily Chart from Staff feedback need to re position QD and QB, made QB first then QD
+	    NOBUAT-59 EPO dose unit in Input Nephrologist Review, show the unit measurement for EPO in the report 
+	    Design Healthcare system & LMS
+	    Viewer
+	    Prakerja
+	    Apply New Job
+T	  : Stand By
+	    Viewer
+	    Staycation since WiFi problem
+B	  : -
