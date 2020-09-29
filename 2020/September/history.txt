@@ -286,3 +286,18 @@ T	  : Stand By
 	    Viewer
 	    Staycation since WiFi problem
 B	  : -
+
+20200929
+Y	  : NOBUAT-64 Calculation of HD duration
+	    edit calculation in Nephrologist Page
+	    changed display & sorted based on dateArrival not createdDate
+	    in the view page when click date in Nephrologist Page it should map to arrivalDate not createdDate
+	    Waiting design the two screens for SeaLionPLUS from Siew Mun for UK Presentation
+	    Viewer
+	    Staycation since WiFi problem
+T	  : Stand By
+	    Prakerja
+	    Viewer
+	    Connection Nobel using ngrok
+	    Design Healthcare System & LMS
+B	  : -
