@@ -301,3 +301,20 @@ T	  : Stand By
 	    Connection Nobel using ngrok
 	    Design Healthcare System & LMS
 B	  : -
+
+20200930
+Y	  : Check create new patient at prod. analyze differences data structures that currently exist in the prod.
+	    I have checked and found from all patients registered in system, there are few that produce issue blank page in edit page :
+	    Wong Yew Kong
+	    Mark
+	    Edi
+	    Siti Noraini Binti Wan Abd Rahman
+	    Total 4 patients
+	    Prakerja
+	    Viewer
+	    Connection Nobel using ngrok
+	    Design Healthcare System & LMS
+T	  : Stand By
+	    Prakerja
+	    Viewer
+B	  : -
