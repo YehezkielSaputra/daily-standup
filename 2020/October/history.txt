@@ -1,0 +1,10 @@
+20201001
+Y	  : NOBUAT-66 Neph Review - tab Daily chart Point 2 and Point 3. 
+      For point 1 regarding check UF value, decimal number too long, it cant be reproduced in current local environment.
+      NOBUAT-67 Register new user, but it to be patient. This task wont do anything since cant reproduce both in production level and development.
+	    Prakerja
+	    Viewer
+T	  : Finishing NOBUAT-66 Point 1
+      Prakerja
+      Viewer
+B	  : -
