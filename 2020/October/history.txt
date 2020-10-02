@@ -18,10 +18,13 @@ B	  : -
 Y	  : Finished NOBUAT-66 Point 1
 	    NOBUAT-72 Not able to key in Pre-Daily Chart Session 
 	    NOBUAT-73 user management search not working
+	    i have made some changing both in front end (emr-portal) and back-end (emrgateway by handling users API add new fiend for User criteria - login)
+	    for front end i need to change payload with proper parameter when call users API to get data properly
 	    Having discussion with edi for NOBUAT-68 Pagination at user management page
       	    Prakerja
       	    Viewer
 T	  : Stand By
+	    NOBUAT-74 
 	    Interview
 	    Viewer
 B	  : -
