@@ -13,3 +13,15 @@ T	  : Finishing NOBUAT-66 Point 1
       	    Prakerja
       	    Viewer
 B	  : -
+
+20201002
+Y	  : Finished NOBUAT-66 Point 1
+	    NOBUAT-72 Not able to key in Pre-Daily Chart Session 
+	    NOBUAT-73 user management search not working
+	    Having discussion with edi for NOBUAT-68 Pagination at user management page
+      	    Prakerja
+      	    Viewer
+T	  : Stand By
+	    Interview
+	    Viewer
+B	  : -
