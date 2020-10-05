@@ -30,15 +30,14 @@ T	  : Stand By
 B	  : -
 
 20201005
-Y	  : Stand By
-	    NOBUAT-74 Edit field No.of Use data type from double to be string to handle input single use
+Y	  : NOBUAT-74 Edit field No.of Use data type from double to be string to handle input single use
 	    Handle UF Achieve field formula that can generated result only with 1 digit decimal
 	    Handle Pagination component make it stadarized, now all table in system has same UI, same size, same behaviour
 	    fyi we have table for permissions, users, medicine and patients
 	    Interview
 	    Viewer
 T	  : Stand By
-	    NOBUAT-69 ???
+	    NOBUAT-70 Pre-HD BP Sitting, Venofer, HepB Vaccine
 	    Viewer
 	    Apply New Job
 	    CLOUD for all data physical
