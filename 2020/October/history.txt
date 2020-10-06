@@ -42,3 +42,17 @@ T	  : Stand By
 	    Apply New Job
 	    CLOUD for all data physical
 B	  : -
+
+20201006
+Y	  : NOBUAT-70 Pre-HD BP Sitting, Venofer, HepB Vaccine
+	    Have changed the UI add 3 new fields and save it into payload 
+	    Have change the back end API both in emrgateway and emrsvc by adding 3 new fields and save it in database
+	    Viewer
+	    Apply New Job
+	    Interview
+	    CLOUD for all data physical
+T	  : Stand By
+	    Salary
+	    Viewer
+	    CLOUD for all data physical
+B	  : -
