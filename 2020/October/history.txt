@@ -56,3 +56,18 @@ T	  : Stand By
 	    Viewer
 	    CLOUD for all data physical
 B	  : -
+
+20201007
+Y	  : NOBUAT-75 Hide Menu
+	    Created mockup / scaffolding for Announcement Input UI as admin
+	    Created mockup / scaffolding for Announcement Layout in Dashboard as user / staff
+	    Created GET and POST API for handling announcement in back end (emrgateway) 
+	    Salary & Transferwise
+	    Viewer
+	    CLOUD for all data physical
+T	  : Integration between front end and back end to get data and insert data announcement properly
+	    Viewer 
+	    CLOUD for all data physical 
+	    Server Management 
+	    Apply New Job and Interview
+B	  : -
