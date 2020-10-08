@@ -72,3 +72,21 @@ T	  : Integration between front end and back end to get data and insert data ann
 	    Server Management 
 	    Apply New Job and Interview
 B	  : -
+
+20201008
+Y	  : Integration between front end and back end to get data and insert data announcement properly
+	    NOBUAT-76 Announcement at dashboard
+	    Currently, dashboard already can show announcement as data in database
+	    also for admin, announcement page can show the data as in database
+	    Create new PUT method API in back end to handle edit / update announcement
+	    Viewer 
+	    CLOUD for all data physical 
+	    Server Management 
+	    Apply New Job and Interview
+T	  : Continue NOBUAT-76 Make sure the button for edit announcement it works
+	    Finishing and testing
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+B	  : -
