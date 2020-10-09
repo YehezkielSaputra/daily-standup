@@ -90,3 +90,16 @@ T	  : Continue NOBUAT-76 Make sure the button for edit announcement it works
 	    CLOUD for all data physical 
 	    Server Management 
 B	  : -
+
+20201009
+Y	  : Continue NOBUAT-76 Make sure the button for edit announcement it works
+	    Finishing and testing
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+T	  : Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+B	  : -
