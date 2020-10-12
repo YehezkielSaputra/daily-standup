@@ -103,3 +103,16 @@ T	  : Viewer
 	    CLOUD for all data physical 
 	    Server Management 
 B	  : -
+
+20201012
+Y	  : Finishing n test NOBUAT-76 Announcement Dashboard
+	    Just now got meeting with NOBEL regarding scrum master and issue with nurses and doctors
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+T	  : Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+B	  : -
