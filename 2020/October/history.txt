@@ -116,3 +116,32 @@ T	  : Viewer
 	    CLOUD for all data physical 
 	    Server Management 
 B	  : -
+
+20201013
+Y	  : Introduction Stand Up Meeting with NOBEL
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+T	  : Stand Up Master with NOBEL 4 sessions   
+	    NOBUAT-81 
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+B	  : -
+
+20201014
+Y	  : Stand Up Master with NOBEL 4 sessions   
+	    NOBUAT-81 
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+T	  : Stand Up Meeting with NOBEL
+	    Fix issue with back end emrgateway
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+B	  : -
