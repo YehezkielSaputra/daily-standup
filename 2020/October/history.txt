@@ -133,7 +133,7 @@ B	  : -
 
 20201014
 Y	  : Stand Up Master with NOBEL 4 sessions   
-	    NOBUAT-81 
+	    NOBUAT-81 Handle null value in blood test with ’ - ' as same as with daily chart
 	    Viewer
 	    Interview and apply new job
 	    CLOUD for all data physical 
@@ -144,4 +144,21 @@ T	  : Stand Up Meeting with NOBEL
 	    Interview and apply new job
 	    CLOUD for all data physical 
 	    Server Management 
+B	  : -
+
+20201015
+Y	  : Stand Up Meeting with NOBEL
+	    Fix issue with back end emrgateway
+	    NOBUAT-80 HD Number prompt when input same value with the previous input
+	    NOBUAT-89 Blood Test input string
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+	    Server Management 
+T	  : Meeting with NOBEL
+	    Stand up meeting with CDC
+	    Fix issue race
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
 B	  : -
