@@ -162,3 +162,19 @@ T	  : Meeting with NOBEL
 	    Interview and apply new job
 	    CLOUD for all data physical 
 B	  : -
+
+20201016
+Y	  : Meeting with NOBEL
+	    Stand up meeting with CDC
+	    Fix issue race
+	    NOBUAT-94 Input Blood Test - Field Type Backend
+	    NOBUAT-97 Hide ECG & CXR at Blood Test
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+T	  : NOBUAT-94 Input Blood Test - Field Type Backend
+	    Stand By
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+B	  : -
