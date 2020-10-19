@@ -178,3 +178,19 @@ T	  : NOBUAT-94 Input Blood Test - Field Type Backend
 	    Interview and apply new job
 	    CLOUD for all data physical 
 B	  : -
+
+20201019
+Y	  : NOBUAT-94 Input Blood Test - Field Type Backend
+	    NOBUAT-102 Remove form at Nobel site Contact
+	    Created Wireframe for Edit Daily Chart
+	    Stand By
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+T	  : NOBUAT-107 Sort date on blood
+	    NOBUAT-106 Change code into name for country and state in patient information view
+	    Stand By
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+B	  : -
