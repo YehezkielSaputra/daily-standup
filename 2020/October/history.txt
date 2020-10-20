@@ -194,3 +194,19 @@ T	  : NOBUAT-107 Sort date on blood
 	    Interview and apply new job
 	    CLOUD for all data physical 
 B	  : -
+
+20201020
+Y	  : NOBUAT-107 Sort date on blood
+	    NOBUAT-106 Change code into name for country and state in patient information view
+	    Setting G SUITE - yehezkiel@emailsultan.com & hardysaputra@emailsultan.com
+	    Download courses UDEMY
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+T	  : NOBUAT-106 
+	    Daily Stand Up meeting with nurses CDC
+	    Download courses UDEMY
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+B	  : -
