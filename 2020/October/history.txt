@@ -212,7 +212,7 @@ T	  : NOBUAT-106
 B	  : -
 
 20201021
-Y	  : NOBUAT-106 
+Y	  : NOBUAT-106 Change code into name for country and state in patient information view
 	    Daily Stand Up meeting with nurses CDC
 	    Created document Go Live Checklist
 	    Download courses UDEMY
@@ -222,6 +222,20 @@ Y	  : NOBUAT-106
 T	  : Stand By
 	    Daily Stand Up meeting with nurses CDC
 	    Download courses UDEMY
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+B	  : -
+
+20201022
+Y	  : NOBUAT-106 Change code into name for country and state in patient information view
+	    Daily Stand Up meeting with nurses CDC
+	    Download courses UDEMY
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+T	  : Daily Stand Up Meeting
+	    Stand By
 	    Viewer
 	    Interview and apply new job
 	    CLOUD for all data physical 
