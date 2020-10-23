@@ -240,3 +240,17 @@ T	  : Daily Stand Up Meeting
 	    Interview and apply new job
 	    CLOUD for all data physical 
 B	  : -
+
+20201023
+Y	  : Daily Stand Up Meeting with CDC Nurses
+	    NOBUAT-117 CSS Footer
+	    Design Change logic for pre and post dialysis (Enable edit for dry weight and dialysis num of use)
+	    Stand By
+	    Viewer
+	    Interview and apply new job
+	    CLOUD for all data physical 
+T	  : Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+B	  : -
