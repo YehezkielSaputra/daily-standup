@@ -254,3 +254,15 @@ T	  : Daily Stand Up Meeting with CDC Nurses
 	    Viewer
 	    CLOUD for all data physical
 B	  : -
+
+20201026
+Y	  : Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+T	  : Go-Live
+	    Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+B	  : -
