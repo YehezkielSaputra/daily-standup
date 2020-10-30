@@ -266,3 +266,44 @@ T	  : Go-Live
 	    Viewer
 	    CLOUD for all data physical
 B	  : -
+
+20201027
+Y	  : Go-Live
+	    Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+T	  : NOBUAT-123
+B	  : -
+
+20201028
+Y	  : Go-Live
+	    Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+T	  : NOBUAT-127
+	    NOBUAT-126
+B	  : -
+
+20201029
+Y	  : Go-Live
+	    Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+T	  : Meeting with CDC Sabah
+    	    Viewer
+	    Cloud for all data physical
+B	  : -
+
+20201030
+Y	  : Go-Live
+	    Daily Stand Up Meeting with CDC Nurses
+	    Stand By
+	    Viewer
+	    CLOUD for all data physical
+T	  : Meeting with CDC Sabah
+	    Viewer
+	    Cloud for all data physical
+B	  : -
