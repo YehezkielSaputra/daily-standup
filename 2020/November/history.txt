@@ -16,3 +16,14 @@ T	  : Meeting with CDC Sabah
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201104
+Y	  : Meeting with CDC Sabah
+	    Interview with Accenture
+	    Viewer
+	    Cloud for all data physical
+T	  : Meeting with CDC Sabah
+	    Interview with Prudential
+	    Viewer
+	    Cloud for all data physical
+B	  : -
