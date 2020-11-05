@@ -27,3 +27,18 @@ T	  : Meeting with CDC Sabah
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201105
+Y	  : Meeting with CDC Sabah (KB, KK, Tuaran) guide real practice input Daily Chart one by one
+	    NOBUAT-131 Dialyser single use: Theranova 1.7m2 (Add 1 more option in the dropdown as nurses Sabah request) 
+	    NOBUAT-132 Move Venofer into IV Iron (Create new dropdown for IV Iron Type, remove venofer and add IV Iron Dose - change in front end and back end)
+	    NOBUAT-136 Change field IV Calcijex (Created new dropdown for IV Calcijex Type add IV Calcijex Dose - change in front end and back end)
+	    Need asking clarification for dropdown select option from Doctors thro Sherlyn
+	    Interview with Prudential
+	    Viewer
+	    Cloud for all data physical
+T	  : Meeting with CDC Sabah
+	    Sign Off New Contract with Accenture / Prudential
+	    Viewer
+	    Cloud for all data physical
+B	  : -
