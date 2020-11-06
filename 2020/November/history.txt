@@ -42,3 +42,15 @@ T	  : Meeting with CDC Sabah
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201106
+Y	  : Meeting with CDC Sabah (KB, KK, Tuaran)
+	    NOBUAT-137 Change nephrologist review to save as historical at db , add new field - complications (DONE - change in FE and BE - emrsvc)
+	    NOBUAT-138 Daily Chart Reading cannot enter 0 (DONE - change in FE)
+	    Sign Off New Contract with Prudential
+	    Viewer
+	    Cloud for all data physical
+T	  : Stand By
+	    Viewer
+	    Cloud for all data physical
+B	  : -
