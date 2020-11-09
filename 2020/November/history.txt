@@ -54,3 +54,17 @@ T	  : Stand By
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201109
+Y	  : NOBUAT-140 Registration Patient first page should be always register form
+	    NOBUAT-139 TIBC unable to enter 36.1 (Change data type in FE and BE)
+	    Having discussion with Siew Mun for data migration sample excel file
+	    Input Nephrologist Review New Layout
+	    Sign Off New Contract with Prudential
+	    Viewer
+	    Cloud for all data physical
+T	  : Continue Input Nephrologist Review New Layout
+	    Stand By
+	    Viewer
+	    Cloud for all data physical
+B	  : -
