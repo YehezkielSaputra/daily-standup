@@ -68,3 +68,20 @@ T	  : Continue Input Nephrologist Review New Layout
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201110
+Y	  : Continue Input Nephrologist Review New Layout
+	    Stand Up Meeting with Sabah Nurses (KK, KB , Tuaran)
+	    NOBUAT-145 Input Med Prescription Orderly (BE issue)
+	    NOBUAT-146 All Typing Data Gone After Click Button Show More in Nephrologist Review (Rendering State)
+	    Excel Data Migration change excel file to csv format.
+	    Stand By
+	    Viewer
+	    Cloud for all data physical
+T	  : Continue Input Nephrologist Review New Layout
+	    Stand Up Meeting with Sabah Nurses
+	    Continue NOBUAT-146
+	    Stand By
+	    Viewer
+	    Cloud for all data physical
+B	  : -
