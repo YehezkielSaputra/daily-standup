@@ -85,3 +85,25 @@ T	  : Continue Input Nephrologist Review New Layout
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201111
+Y	  : Continue Input Nephrologist Review New Layout
+	    NOBUAT-143 Check with derry for db data of patient name : Lee Sew Ken then ask sherlyn to notify BK n Siew Mun
+	    the result of investigation is nurses input data in post daily chart wrongly
+	    From Siew Mun email :
+	    We need to turn on the error notification, providing a dialogue box AFTER clicking Submit to show:
+	    Data Successfully Saved (similar when update / edit patient got notification after click Submit / Save)
+	    Exception Thrown, Data NOT saved, need nurse to check the fields and correct mistakes then click Submit again 
+	    Stand Up Meeting with Sabah Nurses (New Case for HD No Label should be Monthly HD No & Reset monthly)
+	    Discussion with Siew Mun, Sherlyn n Derry regarding Power Query on Excel for Format csv file
+	    NOBUAT-146 All Typing Data Gone After Click Button Show More in Nephrologist Review
+	    Add new logic in back end (emrsvc) for reset HD Monthly
+	    Stand By
+	    Viewer
+	    Cloud for all data physical
+T	  : Stand By for telemedicine 
+	    Continue NOBUAT-145
+	    Check logic submit input daily chart and add notification logic
+	    Viewer
+	    Cloud for all data physical
+B	  : -
