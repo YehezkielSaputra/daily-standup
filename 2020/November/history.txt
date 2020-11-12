@@ -107,3 +107,23 @@ T	  : Stand By for telemedicine
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201112
+Y	  : Stand By for telemedicine 
+	    NOBUAT-145 Input Med Prescription Orderly (FINISH - Changed Set to be List and change logic in emrsvc to handle input orderly)
+	    NOBUAT-148 Change "IV Calcijex Type" to "IV Vitamin D Type" (Change label only in Front End)
+	    Need to clarify do i have to change in backend for name of the field ivcalcijex type
+	    if yes then need derry to patch up all old data to make it works & consistently.
+	    NOBUAT-147 issue from Judith - only show Monthly HD no and make it auto reset monthly in back end 
+	    Need sherlyn to arrange meeting with judith and siew mun regarding first point : no of use (how it logic)
+	    Handle new logic post daily chart 
+	    Need approval from Derry / Siew Mun
+	    Check logic submit input daily chart and add notification logic
+	    Viewer
+	    Cloud for all data physical
+T	  : Stand By for telemedicine
+	    NOBUAT-147
+	    Check logic submit input daily chart and add notification logic
+	    Viewer
+	    Cloud for all data physical
+B	  : -
