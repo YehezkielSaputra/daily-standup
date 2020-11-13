@@ -127,3 +127,17 @@ T	  : Stand By for telemedicine
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201113
+Y	  : Handle for new logic of post daily chart submit
+	    Having discussion with Siew Mun for HDL doc
+	    Investigate NOBUAT-142 (No longer issue but create another issue - country option only Malaysia)
+	    Combine logic for post daily chart submit
+	    Edit doc HDL
+	    Viewer
+	    Cloud for all data physical
+T	  : Finishing new logic of post daily chart submit
+	    NOBUAT-142
+	    Viewer
+	    Cloud for all data physical
+B	  : -
