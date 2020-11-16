@@ -141,3 +141,17 @@ T	  : Finishing new logic of post daily chart submit
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201116
+Y	  : Finishing new logic of post daily chart submit
+	    Testing
+	    Edit weight gain format
+	    Fix issue with un found patient error in daily chart
+	    Update drop down select options for race and sponsor	
+	    Viewer
+	    Cloud for all data physical
+T	  : Having discussion with Sherlyn
+	    Stand up meeting with Sabah Nurses
+	    Viewer
+	    Cloud for all data physical
+B	  : -
