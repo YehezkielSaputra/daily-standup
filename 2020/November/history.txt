@@ -145,6 +145,7 @@ B	  : -
 20201116
 Y	  : Finishing new logic of post daily chart submit
 	    Testing
+	    Edit logic HD Checking
 	    Edit weight gain format
 	    Fix issue with un found patient error in daily chart
 	    Update drop down select options for race and sponsor	
