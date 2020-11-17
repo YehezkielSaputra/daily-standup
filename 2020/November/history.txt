@@ -156,3 +156,17 @@ T	  : Having discussion with Sherlyn
 	    Viewer
 	    Cloud for all data physical
 B	  : -
+
+20201117
+Y	  : Stand Up Meeting with Sabah Nurse, CDC
+	    Change in FE and BE after got new CR :
+	    uric acid using umol/L
+	    Add new filed for date first time visit in register patient 
+	    Make date editable in input medicine and input nephro
+	    Add dialyser type need add 1 more type : FX10 1.8m2
+	    FE : new-req-after-cr
+	    BE : emrsvc - add-medication-date
+	         emrgateway - add-first-visit-date
+T	  : Stand Up Meeting with CDC and Sabah Nurse
+	    Continue edit BE emrgateway
+B	  : -
