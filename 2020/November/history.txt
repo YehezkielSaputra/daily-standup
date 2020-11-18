@@ -170,3 +170,21 @@ Y	  : Stand Up Meeting with Sabah Nurse, CDC
 T	  : Stand Up Meeting with CDC and Sabah Nurse
 	    Continue edit BE emrgateway
 B	  : -
+
+20201118
+Y	  : Discussion with Derry & Sherlyn for CR
+  	    Created mock up for Sherlyn regarding new UI for getting approval from Nobel Management
+	    Add new field regarding HD Duration
+	    Continue edit BE emrgateway n patientsvc
+	    Status : All aready DONE bothd in FE and BE can demo 
+	    Stand Up Meeting with Sabah Nurse, CDC
+	    Zul rise about No of Use
+	    Judith rise about report system
+	    BK alarm about second release 
+	    FE : new-req-after-cr
+	    BE : emrsvc - add-medication-date
+	         emrgateway - add-first-hd-date
+		 patientsvc - add-first-hd-date
+T	  : Stand Up Meeting with CDC and Sabah Nurse
+	    Stand By
+B	  : -
