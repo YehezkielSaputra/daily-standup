@@ -188,3 +188,15 @@ Y	  : Discussion with Derry & Sherlyn for CR
 T	  : Stand Up Meeting with CDC and Sabah Nurse
 	    Stand By
 B	  : -
+
+20201119
+Y	  : Waiting review code from Derry
+	    Discussion with Derry, Sherlyn n Siew Mun for Latest CR
+  	    Created mock up for Sherlyn regarding new UI for Medication
+	    Changed code for New Input Medication UI in FE (emr-portal) and BE (emrsvc)
+	    Having discussion with Sherlyn n Siew Mun regarding Dashboard
+	    Created mock up dashboard in emr-portal - Pie Chart
+T	  : Stand By for Stand Up Meeting with CDC and Sabah Nurse
+	    Continue created mock up dashboard - Table with daily chart status 
+	    Having discussion with derry , sherlyn , siew mun for logic dashboard
+B	  : -
