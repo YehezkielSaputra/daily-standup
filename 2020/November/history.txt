@@ -200,3 +200,18 @@ T	  : Stand By for Stand Up Meeting with CDC and Sabah Nurse
 	    Continue created mock up dashboard - Table with daily chart status 
 	    Having discussion with derry , sherlyn , siew mun for logic dashboard
 B	  : -
+
+20201120
+Y	  : Stand Up Meeting with CDC and Sabah Nurse
+	    Discuss jira task issue NOBUAT-156
+	    Edit time arrival in Pre HD become editable before submit daily chart
+	    Edit EPO, IV Iron Type and IV Vitamin D in Post HD allow clear 
+	    Already submit both FE and BE waiting derry review 
+	    Having discussion with Sherlyn n Derry for mock up dashboard
+	    Edit the mockup as discus decision
+	    Send the last graph of the mock up to sherlyn to propose to siew mun and she seems okay with the table graph for dashboard
+T	  : No Stand Up Meeting because friday 
+	    Waiting derry review of code
+	    Stand by and maybe can design mockup for input nephro list / history 
+	    Half Day Off
+B	  : -
