@@ -215,3 +215,10 @@ T	  : No Stand Up Meeting because friday
 	    Stand by and maybe can design mockup for input nephro list / history 
 	    Half Day Off
 B	  : -
+
+20201123
+Y	  : No Stand Up Meeting because friday 
+	    Half Day Off
+T	  : First day in PRUDENTIAL Project
+	    Day Off for CAIYUN
+B	  : -
