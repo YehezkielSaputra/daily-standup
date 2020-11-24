@@ -222,3 +222,11 @@ Y	  : No Stand Up Meeting because friday
 T	  : First day in PRUDENTIAL Project
 	    Day Off for CAIYUN
 B	  : -
+
+20201123
+Y	  : First day in PRUDENTIAL Project
+	    Review Policy of PLA 
+	    Day Off for CAIYUN
+T	  : Waiting follow up from PLA
+	    Day Off for CAIYUN
+B	  : -
