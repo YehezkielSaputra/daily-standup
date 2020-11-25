@@ -230,3 +230,10 @@ Y	  : First day in PRUDENTIAL Project
 T	  : Waiting follow up from PLA
 	    Day Off for CAIYUN
 B	  : -
+
+20201125
+Y	  : Waiting follow up from PLA
+	    Day Off for CAIYUN
+T	  : Waiting follow up from PLA
+	    Day Off for CAIYUN
+B	  : -
