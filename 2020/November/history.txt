@@ -237,3 +237,10 @@ Y	  : Waiting follow up from PLA
 T	  : Waiting follow up from PLA
 	    Day Off for CAIYUN
 B	  : -
+
+20201125
+Y	  : Waiting follow up from PLA
+	    Day Off for CAIYUN
+T	  : New Task 
+	    Waiting follow up from PLA
+B	  : -
