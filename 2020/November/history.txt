@@ -244,3 +244,23 @@ Y	  : Waiting follow up from PLA
 T	  : New Task 
 	    Waiting follow up from PLA
 B	  : -
+
+20201127
+Y	  : NOBUAT-160 Delete decimal at HD reading field
+	    Create New API in emrsvc to get all daily chart no matter what the status
+	    Integrate new api to new UI (List Daily Chart in the Patient View)
+	    Having discussion with Nanda PLA :
+	    Bamboo : https://developer.atlassian.com/server/bamboo/bamboo-plugin-guide/
+	    Jfrog : https://www.jfrog.com/confluence/display/JFROG/Bamboo+Artifactory+Plug-in
+	    Jenkins : https://www.jenkins.io/
+	    Spring boot : https://spring.io/projects/spring-boot
+	    IBM BPM : https://www.ibm.com/cloud/automation-software/business-process-management
+	    DB2 / RDBMS : https://www.tutorialspoint.com/db2/db2_introduction.htm
+	    JBoss BRMS : https://www.ibm.com/automation/business-rules
+	    IBM ODM : https://www.ibm.com/id-en/products/operational-decision-manager
+	    FLink : https://flink.apache.org/
+	    Install : Teams, Outlook, Portal
+T	  : Integrated for View and Edit Page in Patient View
+	    Get Laptop in Prudential Life Assurance
+	    Checking & set up whole system before WFH
+B	  : -
