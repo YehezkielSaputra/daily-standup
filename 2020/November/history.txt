@@ -264,3 +264,13 @@ T	  : Integrated for View and Edit Page in Patient View
 	    Get Laptop in Prudential Life Assurance
 	    Checking & set up whole system before WFH
 B	  : -
+
+20201130
+Y	  : Create View Daily Chart UI and integrated to Backend API
+	    Create Edit Daily Chart UI and integrated to Backend API
+	    Get Laptop Prudential
+	    Clean up repository CDS Project
+T	  : Integrated for View and Edit Page in Patient View
+	    Get Laptop in Prudential Life Assurance
+	    Checking & set up whole system before WFH
+B	  : -
