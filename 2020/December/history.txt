@@ -1,0 +1,11 @@
+20201201
+Y	  : Create New API in Back End
+      Integrated to UI
+      Edit dashboard layout as latest discussion with Siew Mun
+      Stand up meeting CDS
+      Fix Teams
+      Insert project to spring tool
+      Discussion with nanda n agung
+T	  : Stand Up Meeting with nurses for reset password session
+      Stand up meeting CDS
+B	  : -
