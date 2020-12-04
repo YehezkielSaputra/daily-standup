@@ -23,3 +23,22 @@ T	  : Update Dashboard code
 	    Stand Up meeting with nurses for reset password
       	    Stand up meeting CDS
 B	  : -
+
+20201203
+Y	  : Update Dashboard code
+      	    Stand up meeting CDS
+	    Fix issue with STP Flag
+      	    Discussion with nanda n agung
+T	  : Discuss iteration deductible
+      	    Stand up meeting CDS
+	    Update dashboard
+B	  : -
+
+20201204
+Y	  : Discuss iteration deductible
+      	    Stand up meeting CDS
+	    Update dashboard
+T	  : Discuss iteration deductible
+      	    Stand up meeting CDS
+	    Finishing dashboard
+B	  : -
