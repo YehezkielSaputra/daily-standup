@@ -42,3 +42,12 @@ T	  : Discuss iteration deductible
       	    Stand up meeting CDS
 	    Finishing dashboard
 B	  : -
+
+20201207
+Y	  : Discuss iteration deductible
+      	    Stand up meeting CDS
+	    Update dashboard
+	    Fix claim declaine
+T	  : Testing Claim Decline Null
+      	    Stand up meeting CDS
+B	  : -
