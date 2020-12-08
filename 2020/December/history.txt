@@ -51,3 +51,14 @@ Y	  : Discuss iteration deductible
 T	  : Testing Claim Decline Null
       	    Stand up meeting CDS
 B	  : -
+
+20201208
+Y	  : Testing Claim Decline Null
+	    Enhance add new field suspicious for master doctor (CDS-LIB & CDS-MasterCDS)
+	    Deployment in the bamboo for issue claim decline and enhancement of suspicious field
+	    Set up VM UBuntu 
+	    Set up Docker
+      	    Stand up meeting CDS
+T	  : Continue for Setting Up Docker
+	    Stand by new task / issue
+B	  : -
