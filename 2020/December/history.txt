@@ -62,3 +62,9 @@ Y	  : Testing Claim Decline Null
 T	  : Continue for Setting Up Docker
 	    Stand by new task / issue
 B	  : -
+
+20201210
+Y	  : National Public Holiday - Local Election
+T	  : Create job in Jenkins
+	    Integrate Jenkins to JFrog
+B	  : -
