@@ -68,3 +68,11 @@ Y	  : National Public Holiday - Local Election
 T	  : Create job in Jenkins
 	    Integrate Jenkins to JFrog
 B	  : -
+
+20201211
+Y	  : PTPLACDS-587 FE
+	    PTPLACDS-173
+	    Integration Bitbucket & Jenkins
+T	  : Demo
+	    PTPLACDS-587 BE
+B	  : -
