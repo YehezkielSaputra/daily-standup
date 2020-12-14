@@ -76,3 +76,11 @@ Y	  : PTPLACDS-587 FE
 T	  : Demo
 	    PTPLACDS-587 BE
 B	  : -
+
+20201214
+Y	  : Demo
+	    PTPLACDS-587 BE
+	    Add jenkinsdile for all CDS projects in bitbucket repository
+T	  : Add jenkinsdile for all CDS projects in bitbucket repository
+	    Create Onboarding Form for all CDS Projects
+B	  : -
