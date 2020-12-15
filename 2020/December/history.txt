@@ -84,3 +84,10 @@ Y	  : Demo
 T	  : Add jenkinsdile for all CDS projects in bitbucket repository
 	    Create Onboarding Form for all CDS Projects
 B	  : -
+
+20201215
+Y	  : Add jenkinsdile for all CDS projects in bitbucket repository
+	    Create Onboarding Form for all CDS Projects
+T	  : Create Onboarding Form
+	    Fix issue building in jenkins
+B	  : -
