@@ -91,3 +91,11 @@ Y	  : Add jenkinsdile for all CDS projects in bitbucket repository
 T	  : Create Onboarding Form
 	    Fix issue building in jenkins
 B	  : -
+
+20201216
+Y	  : Create Onboarding Form
+	    Fix issue building in jenkins
+	    Fix issue for double query (PTPLACDS-173)
+T	  : Discuss PTPLACDS-173
+	    Set up jenkins to jboss
+B	  : -
