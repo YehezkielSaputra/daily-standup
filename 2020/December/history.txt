@@ -99,3 +99,11 @@ Y	  : Create Onboarding Form
 T	  : Discuss PTPLACDS-173
 	    Set up jenkins to jboss
 B	  : -
+
+20201217
+Y	  : Investigate Hospitalisation issue in Prod DB
+	    PTPLCDS-636
+	    PTPLCDS-638
+T	  : PTPLCDS-636
+	    PTPLCDS-638
+B	  : -
