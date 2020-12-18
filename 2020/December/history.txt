@@ -107,3 +107,12 @@ Y	  : Investigate Hospitalisation issue in Prod DB
 T	  : PTPLCDS-636
 	    PTPLCDS-638
 B	  : -
+
+20201218
+Y	  : PTPLCDS-635 Fixing
+	    Hospitalisation issue
+	    PTPLCDS-636 Fixing
+T	  : PTPLCDS-635 Testing
+	    PTPLCDS-637 Discussion
+	    PTPLCDS-636 Deployment
+B	  : -
