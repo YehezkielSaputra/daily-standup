@@ -123,3 +123,11 @@ Y	  : PTPLCDS-635 Testing
 	    PTPLCDS-636 Deployment
 T	  : PTPLCDS-637 Discussion
 B	  : -
+
+20201222
+Y	  : PTPLCDS-637 Investigation
+	    PTPLCDS-648 Fixing
+	    PTPLCDS-581 Testing
+T	  : PTPLCDS-637 Investigation
+	    PTPLCDS-581 Testing
+B	  : -
