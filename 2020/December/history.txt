@@ -131,3 +131,10 @@ Y	  : PTPLCDS-637 Investigation
 T	  : PTPLCDS-637 Investigation
 	    PTPLCDS-581 Testing
 B	  : -
+
+20201223
+Y	  : PTPLCDS-637 Investigation and decided this is not from CDS Side
+	    PTPLCDS-581 Testing
+T	  : PTPLCDS-581 Testing
+	    PTPLCDS-639 Disucssion
+B	  : -
