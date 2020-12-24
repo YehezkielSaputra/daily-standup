@@ -138,3 +138,11 @@ Y	  : PTPLCDS-637 Investigation and decided this is not from CDS Side
 T	  : PTPLCDS-581 Testing
 	    PTPLCDS-639 Disucssion
 B	  : -
+
+20201224
+Y	  : PTPLCDS-581 Testing
+	    PTPLCDS-639 Disucssion
+	    Fix issue with repo bitbucket
+	    Fix issue with suspicious flag of master doctor
+T	  : PTPLCDS-639 Development
+B	  : -
