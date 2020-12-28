@@ -146,3 +146,13 @@ Y	  : PTPLCDS-581 Testing
 	    Fix issue with suspicious flag of master doctor
 T	  : PTPLCDS-639 Development
 B	  : -
+
+20201228
+Y	  : National Public Holiday - Christmas
+	    PTPLCDS-639 Development
+	    Fix issue with calculation when board charge = 0
+	    Add new logic for PL/non PL AVMetadata
+	    Investigate BO LifeAsia issue saving doctor
+	    Bitbucket for DP-LIB, DP-UI, DP-Transaction
+T	  : Investigate BO LifeAsia issue saving doctor
+B	  : -
