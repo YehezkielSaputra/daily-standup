@@ -156,3 +156,10 @@ Y	  : National Public Holiday - Christmas
 	    Bitbucket for DP-LIB, DP-UI, DP-Transaction
 T	  : Investigate BO LifeAsia issue saving doctor
 B	  : -
+
+20201229
+Y	  : Investigate BO LifeAsia issue saving doctor
+	    Investigate issue ClaimTRX
+T	  : Sprint Review & Planning
+	    Demo CI/CD CDS
+B	  : -
