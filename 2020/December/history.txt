@@ -172,3 +172,12 @@ Y	  : Sprint Review & Planning
 T	  : Sprint Review & Planning
 	    Demo CI/CD CDS
 B	  : -
+
+20201231
+Y	  : Sprint Review & Planning
+	    PTPLACDS-662
+	    PTPLACDS-664
+	    PTPLACDS-210
+T	  : Sprint Review & Planning
+	    Demo CI/CD CDS
+B	  : -
