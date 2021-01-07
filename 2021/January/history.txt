@@ -13,3 +13,9 @@ Y	  : PTPLACDS-664
       	    PTPLACDS-580
 T	  : PTPLACDS-580
 B	  : -
+
+20210107
+Y	  : PTPLACDS-580
+	    Meeting remaining backlog
+T	  : Waiting New Task Assignment
+B	  : -
