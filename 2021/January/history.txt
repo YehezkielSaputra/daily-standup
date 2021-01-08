@@ -19,3 +19,8 @@ Y	  : PTPLACDS-580
 	    Meeting remaining backlog
 T	  : Waiting New Task Assignment
 B	  : -
+
+20210108
+Y	  : Fix issue CI/CD Auto Deployment
+T	  : Waiting New Task Assignment
+B	  : -
