@@ -29,3 +29,8 @@ B	  : -
 Y	  : Fix BPM Installation
 T	  : Onboarding mas Ariandi
 B	  : -
+
+20210111
+Y	  : Onboarding mas Ariandi
+T	  : Onboarding mas Yogo
+B	  : -
