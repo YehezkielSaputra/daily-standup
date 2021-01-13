@@ -30,7 +30,13 @@ Y	  : Fix BPM Installation
 T	  : Onboarding mas Ariandi
 B	  : -
 
-20210111
+20210112
 Y	  : Onboarding mas Ariandi
 T	  : Onboarding mas Yogo
+B	  : -
+
+20210113
+Y	  : Onboarding mas Yogo
+	    Investigate issue FE Major
+T	  : Continue Investigate issue FE Major
 B	  : -
