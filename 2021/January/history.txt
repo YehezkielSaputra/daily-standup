@@ -40,3 +40,11 @@ Y	  : Onboarding mas Yogo
 	    Investigate issue FE Major
 T	  : Continue Investigate issue FE Major
 B	  : -
+
+20210114
+Y	  : Continue Investigate issue FE Major
+	    Fix issue with PruHub Minor dev
+T	  : Deploy Pruhub Major 
+	    DevSecOps
+B	  : -
+
