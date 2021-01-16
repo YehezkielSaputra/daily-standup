@@ -47,3 +47,9 @@ Y	  : Continue Investigate issue FE Major
 T	  : Deploy Pruhub Major 
 	    DevSecOps
 B	  : -
+
+20210115
+Y	  : Deploy Pruhub Major 
+	    DevSecOps
+T	  : Sprint Review and Plan
+B	  : -
