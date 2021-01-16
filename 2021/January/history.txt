@@ -24,7 +24,6 @@ B	  : -
 Y	  : Fix issue CI/CD Auto Deployment
 T	  : Waiting New Task Assignment
 B	  : -
-<<<<<<< HEAD
 
 20210111
 Y	  : Fix BPM Installation
@@ -48,6 +47,3 @@ Y	  : Continue Investigate issue FE Major
 T	  : Deploy Pruhub Major 
 	    DevSecOps
 B	  : -
-
-=======
->>>>>>> parent of e522558... Daily Scrum Report for 11 January 2021
