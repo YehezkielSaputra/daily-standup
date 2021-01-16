@@ -25,6 +25,11 @@ Y	  : Fix issue CI/CD Auto Deployment
 T	  : Waiting New Task Assignment
 B	  : -
 
+20210111
+Y	  : Fix BPM Installation
+T	  : Onboarding mas Ariandi
+B	  : -
+
 20210112
 Y	  : Onboarding mas Ariandi
 T	  : Onboarding mas Yogo
