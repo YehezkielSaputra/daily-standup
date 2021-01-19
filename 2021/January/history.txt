@@ -53,3 +53,8 @@ Y	  : Deploy Pruhub Major
 	    DevSecOps
 T	  : Sprint Review and Plan
 B	  : -
+
+20210119
+Y	  : PTPLACDS-702
+T	  : PTPLACDS-706
+B	  : -
