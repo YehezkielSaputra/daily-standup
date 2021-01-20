@@ -58,3 +58,9 @@ B	  : -
 Y	  : PTPLACDS-702
 T	  : PTPLACDS-706
 B	  : -
+
+20210120
+Y	  : PTPLACDS-706
+T	  : PTPLACDS-706
+	    Prepare Deployment
+B	  : -
