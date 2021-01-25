@@ -75,3 +75,9 @@ B	  : -
 Y	  : PTPLACDS-706
 T	  : PTPLACDS-707
 B	  : -
+
+20210125
+Y	  : PTPLACDS-707
+	    Fixing issue deployment
+T	  : PTPLACDS-707
+B	  : -
