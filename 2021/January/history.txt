@@ -93,3 +93,9 @@ Y	  : PTPLACDS-707
 	    Hotfixing production issue 
 T	  : PTPLACDS-707
 B	  : -
+
+20210127
+Y	  : PTPLACDS-707
+T	  : PTPLACDS-707
+	    Gladi Bersih Demo
+B	  : -
