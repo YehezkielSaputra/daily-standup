@@ -6,5 +6,5 @@ B	  : -
 20210202
 Y	  : PTPLACDS-745
 T	  : PTPLACDS-744
-      Deployment MINOR
+      	    Deployment MINOR
 B	  : -
