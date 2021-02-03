@@ -6,5 +6,12 @@ B	  : -
 20210202
 Y	  : PTPLACDS-745
 T	  : PTPLACDS-744
-      	    Deployment MINOR
+          Deployment MINOR
+B	  : -
+
+20210203
+Y	  : PTPLACDS-744
+          Deployment MINOR
+T	  : Fix Production Issue
+          PTPLACDS-744
 B	  : -
