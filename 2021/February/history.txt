@@ -20,5 +20,11 @@ B	  : -
 Y	  : Fix Production Issue
             PTPLACDS-744
 T	  : Investigate prod issue
-            PTPLACDS-744
+            PTPLACDS-723
+B	  : -
+
+20210205
+Y	  : Investigate prod issue
+            PTPLACDS-723
+T	  : DevOps Fortify
 B	  : -
