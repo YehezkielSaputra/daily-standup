@@ -28,3 +28,8 @@ Y	  : Investigate prod issue
             PTPLACDS-723
 T	  : DevOps Fortify
 B	  : -
+
+20210208
+Y	  : DevOps Fortify
+T	  : Docker Image & Deploy to server GKE
+B	  : -
