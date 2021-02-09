@@ -33,3 +33,10 @@ B	  : -
 Y	  : DevOps Fortify
 T	  : Docker Image & Deploy to server GKE
 B	  : -
+
+20210209
+Y	  : Docker Image & Deploy to server GKE
+	    PTPLACDS-751
+	    PTPLACDS-727
+T	  : PTPLACDS-727
+B	  : -
