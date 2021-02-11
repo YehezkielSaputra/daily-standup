@@ -51,3 +51,10 @@ B	  : -
 Y	  : Docker Image & Deploy to server GKE
 T	  : PTPLACDS-762
 B	  : -
+
+20210211
+Y	  : PTPLACDS-762
+T	  : PTPLACDS-772
+	    PTPLACDS-773
+	    PTPLACDS-779
+B	  : -
