@@ -46,3 +46,8 @@ Y	  : Docker Image & Deploy to server GKE
 	    PTPLACDS-727
 T	  : Docker Image & Deploy to server GKE
 B	  : -
+
+20210211
+Y	  : Docker Image & Deploy to server GKE
+T	  : PTPLACDS-762
+B	  : -
