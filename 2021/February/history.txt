@@ -77,3 +77,14 @@ B	  : -
 Y	  : PTPLACDS-772
 T	  : Fortify CDS-AddDiagnose
 B	  : -
+
+20210222
+Y	  : Fortify CDS-AddDiagnose
+  	    Fortify CDS-AdjustmentBenefitHA
+	    Fortify CDS-AdjustmentBenefitHS
+	    Fortify CDS_AdjustmentHB
+	    Fortify Pruhub-Major
+	    Fortify Pruhub-Minor
+T	  : Prepare Deployment
+	    Fortify Report issue
+B	  : -
