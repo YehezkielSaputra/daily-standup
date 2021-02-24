@@ -94,3 +94,9 @@ Y	  : Prepare Deployment
 	    Fortify Report issue
 T	  : Fortify Report issue
 B	  : -
+
+20210224
+Y	  : Fortify Report issue
+T	  : Fortify Report issue
+	    PTPLACDS-706
+B	  : -
