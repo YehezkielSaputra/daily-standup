@@ -100,3 +100,9 @@ Y	  : Fortify Report issue
 T	  : Fortify Report issue
 	    PTPLACDS-706
 B	  : -
+
+20210225
+Y	  : Fortify Report issue
+	    PTPLACDS-706
+T	  : PTPLACDS-707
+B	  : -
