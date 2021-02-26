@@ -106,3 +106,9 @@ Y	  : Fortify Report issue
 	    PTPLACDS-706
 T	  : PTPLACDS-707
 B	  : -
+
+20210226
+Y	  : PTPLACDS-707
+	    TownHall Prudential
+T	  : PTPLACDS-707
+B	  : -
