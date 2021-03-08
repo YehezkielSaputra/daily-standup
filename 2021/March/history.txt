@@ -27,3 +27,8 @@ Y	  : PTPLACDS-791
             PTPLACDS-769
 T	  : Deployment
 B	  : -
+
+20210308
+Y	  : Fix Deployment Issue
+T	  : PTPLACDS-714
+B	  : -
