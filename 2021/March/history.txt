@@ -37,3 +37,8 @@ B	  : -
 Y	  : PTPLACDS-714
 T	  : PTPLACDS-715
 B	  : -
+
+20210310
+Y	  : PTPLACDS-715
+T	  : Stand By
+B	  : -
